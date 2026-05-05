@@ -1,0 +1,134 @@
+{
+  "corpus": {
+    "articles": 15,
+    "chunks": 269,
+    "triples": 643,
+    "avg_chunks_per_article": 17.93,
+    "avg_triples_per_chunk": 2.39
+  },
+  "graph": {
+    "nodes": 613,
+    "edges": 586,
+    "density": 0.001562,
+    "weak_components": 63,
+    "largest_component_nodes": 476,
+    "largest_component_share": 0.777,
+    "avg_degree": 1.91,
+    "top_nodes_by_degree": [
+      {
+        "node": "Microsoft",
+        "degree": 199
+      },
+      {
+        "node": "OpenAI",
+        "degree": 177
+      },
+      {
+        "node": "Microsoft Corporation",
+        "degree": 20
+      },
+      {
+        "node": "Sam Altman",
+        "degree": 7
+      },
+      {
+        "node": "OpenAI board",
+        "degree": 7
+      },
+      {
+        "node": "ChatGPT",
+        "degree": 6
+      },
+      {
+        "node": "OpenAI LP",
+        "degree": 5
+      },
+      {
+        "node": "Bill Gates",
+        "degree": 5
+      },
+      {
+        "node": "OpenAI Global, LLC",
+        "degree": 4
+      },
+      {
+        "node": "Elon Musk",
+        "degree": 4
+      }
+    ],
+    "top_relations": [
+      {
+        "relation": "ANNOUNCED",
+        "edge_count": 33
+      },
+      {
+        "relation": "RELEASED",
+        "edge_count": 27
+      },
+      {
+        "relation": "PART_OF",
+        "edge_count": 20
+      },
+      {
+        "relation": "ACQUIRED",
+        "edge_count": 20
+      },
+      {
+        "relation": "FOUNDED_BY",
+        "edge_count": 19
+      },
+      {
+        "relation": "POSITION",
+        "edge_count": 18
+      },
+      {
+        "relation": "PROVIDES",
+        "edge_count": 16
+      },
+      {
+        "relation": "LAUNCHED",
+        "edge_count": 12
+      },
+      {
+        "relation": "OWNED_BY",
+        "edge_count": 9
+      },
+      {
+        "relation": "LOCATED_IN",
+        "edge_count": 8
+      }
+    ]
+  },
+  "rag": {
+    "questions": 20,
+    "winner_counts": {
+      "GraphRAG": 17,
+      "Flat RAG": 2,
+      "Tie": 1
+    },
+    "winner_rate": {
+      "GraphRAG": 0.85,
+      "Flat RAG": 0.1,
+      "Tie": 0.05
+    },
+    "flat_answerable": 13,
+    "graph_answerable": 17,
+    "flat_answerable_rate": 0.65,
+    "graph_answerable_rate": 0.85,
+    "seed_exact_match": 20,
+    "seed_exact_match_rate": 1.0,
+    "avg_retrieved_chunks": 3.0,
+    "avg_graph_edges_used": 256.15,
+    "by_expected_type": {
+      "Flat RAG": {
+        "multi-hop": 2
+      },
+      "GraphRAG": {
+        "multi-hop": 17
+      },
+      "Tie": {
+        "multi-hop": 1
+      }
+    }
+  }
+}

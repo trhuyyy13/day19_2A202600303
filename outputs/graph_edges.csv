@@ -1,0 +1,587 @@
+subject,relation,object,evidence,chunk_id,source_title
+"OpenAI Global, LLC",LOCATED_IN,San Francisco,headquartered in San Francisco,OpenAI_chunk_0,OpenAI
+"OpenAI Global, LLC",OWNED_BY,OpenAI LP,"OpenAI Global, LLC, was owned by OpenAI LP and Microsoft, the latter of which had a minority non-voting stake.",OpenAI_chunk_2,OpenAI
+"OpenAI Global, LLC",PROJECTING,$200 million of revenue in 2023,"OpenAI Global, LLC was projecting $200 million of revenue in 2023 and $1 billion in revenue in 2024.",OpenAI_chunk_11,OpenAI
+OpenAI,DEVELOPED_BY,"OpenAI Global, LLC",OpenAI developed the Sora series of text-to-video models,OpenAI_chunk_0,OpenAI
+OpenAI,COUNTERSUED,Elon Musk,"On April 9, 2024, OpenAI countersued Musk in federal court.",OpenAI_chunk_20,OpenAI
+OpenAI,FOUNDED_BY,Sam Altman,Co-chair Sam Altman expected a decades-long project that eventually surpasses human intelligence.,OpenAI_chunk_1,OpenAI
+OpenAI,FOUNDED_BY,Ilya Sutskever,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Ilya Sutskever",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Greg Brockman,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Greg Brockman",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Trevor Blackwell,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Trevor Blackwell",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Vicki Cheung,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Vicki Cheung",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Andrej Karpathy,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Andrej Karpathy",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Durk Kingma,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Durk Kingma",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,John Schulman,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by John Schulman",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Pamela Vagata,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Pamela Vagata",OpenAI_chunk_0,OpenAI
+OpenAI,FOUNDED_BY,Wojciech Zaremba,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Wojciech Zaremba",OpenAI_chunk_0,OpenAI
+OpenAI,OWNED_BY,nonprofit,a 2025 restructuring converted the subsidiary into a PBC that is 26% owned by the nonprofit,OpenAI_chunk_0,OpenAI
+OpenAI,PART_OF,AI research,has influenced industry research and commercial applications,OpenAI_chunk_0,OpenAI
+OpenAI,SUPPORTS,AI safety goals,citing the company's deprioritization of safety goals,OpenAI_chunk_0,OpenAI
+OpenAI,DEFINED_BY,mission to ensure AGI benefits all of humanity,"In its founding charter, OpenAI defined its mission as ensuring that artificial general intelligence (AGI) 'benefits all of humanity'.",OpenAI_chunk_1,OpenAI
+OpenAI,LOCATED_IN,"Pioneer Building, Mission District, San Francisco","It was later headquartered at the Pioneer Building in the Mission District, San Francisco.",OpenAI_chunk_1,OpenAI
+OpenAI,SPENT,$7 million on its first 52 employees,"Nevertheless, OpenAI spent $7 million on its first 52 employees in 2016.",OpenAI_chunk_1,OpenAI
+OpenAI,RELEASED,OpenAI Gym,"In April 2016, OpenAI released a public beta of 'OpenAI Gym', its platform for reinforcement learning research.",OpenAI_chunk_1,OpenAI
+OpenAI,RELEASED,Universe,"In December 2016, OpenAI released 'Universe', a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites, and other applications.",OpenAI_chunk_2,OpenAI
+OpenAI,TRANSITIONED_TO,capped for-profit,"In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit, with the profit being capped at 100 times any investment.",OpenAI_chunk_2,OpenAI
+OpenAI,FORMED,OpenAI LP,"OpenAI formed three subsidiaries: the holding company OpenAI LP, the holding company OpenAI GP LLC, and the capped for-profit company OpenAI Global, LLC.",OpenAI_chunk_2,OpenAI
+OpenAI,PROPOSED,restructuring plan,"In December 2024, OpenAI proposed a restructuring plan to convert the capped-profit into a Delaware-based public benefit corporation (PBC).",OpenAI_chunk_2,OpenAI
+OpenAI,CLAIMED,benefits all of humanity,"OpenAI's leadership described the change as necessary to secure additional investments, and claimed that the nonprofit's founding mission to ensure AGI 'benefits all of humanity' would be better fulfilled.",OpenAI_chunk_2,OpenAI
+OpenAI,FOUNDED_BY,OpenAI Foundation,the nonprofit was renamed to the OpenAI Foundation,OpenAI_chunk_3,OpenAI
+OpenAI,DEVELOPED_BY,OpenAI Group PBC,the for-profit branch became a public benefit corporation known as OpenAI Group PBC,OpenAI_chunk_3,OpenAI
+OpenAI,SUPPORTS,AGI benefits all of humanity,the nonprofit's founding mission to ensure AGI 'benefits all of humanity',OpenAI_chunk_3,OpenAI
+OpenAI,VALUED_AT,$29 billion,"These investments were made at, a $29 billion valuation, double OpenAI's 2021 value.",OpenAI_chunk_4,OpenAI
+OpenAI,PURCHASED,$250 billion of Azure services,"In a deal announced the same day, OpenAI agreed to purchase $250 billion of Azure services.",OpenAI_chunk_4,OpenAI
+OpenAI,PART_OF,Microsoft,its partner as well as customer Microsoft continued to unlawfully collect and use personal data,OpenAI_chunk_19,OpenAI
+OpenAI,PART_OF,The Stargate Project,"On January 21, 2025, Donald Trump announced The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX.",OpenAI_chunk_4,OpenAI
+OpenAI,SPENT_ON,cloud computing,"In 2017, OpenAI spent $7.9 million, a quarter of its functional expenses, on cloud computing alone.",OpenAI_chunk_4,OpenAI
+OpenAI,RENTED,CPUs and GPUs from Google,"In the summer of 2018, training OpenAI's Dota 2 bots required renting 128,000 CPUs and 256 GPUs from Google for multiple weeks.",OpenAI_chunk_4,OpenAI
+OpenAI,COMPLETED,$6.6 billion capital raise,"In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation...",OpenAI_chunk_5,OpenAI
+OpenAI,OWNED_BY,Nvidia,"including investments from Microsoft, Nvidia, and SoftBank.",OpenAI_chunk_5,OpenAI
+OpenAI,OWNED_BY,SoftBank,"including investments from Microsoft, Nvidia, and SoftBank.",OpenAI_chunk_5,OpenAI
+OpenAI,PART_OF,Stargate supercomputer project,The project takes its name from OpenAI's existing 'Stargate' supercomputer project...,OpenAI_chunk_5,OpenAI
+OpenAI,RECEIVED,$200 million contract,the United States Department of Defense announced that OpenAI had received a $200 million contract for AI in the military...,OpenAI_chunk_5,OpenAI
+OpenAI,MADE_DEAL_WITH,UK Government,the company made a deal with the UK Government to use ChatGPT and other AI tools in public services.,OpenAI_chunk_5,OpenAI
+OpenAI,BEGAN,$50 million fund,OpenAI subsequently began a $50 million fund to support nonprofit and community organizations.,OpenAI_chunk_5,OpenAI
+OpenAI,RAISED,$40 billion,"In April 2025, OpenAI raised $40 billion at a $300 billion post-money valuation...",OpenAI_chunk_5,OpenAI
+OpenAI,REPORTED,annualized revenue of $12 billion,"In July 2025, the company reported annualized revenue of $12 billion.",OpenAI_chunk_5,OpenAI
+OpenAI,INCREASED_FROM,$3.7 billion in 2024,This was an increase from $3.7 billion in 2024...,OpenAI_chunk_5,OpenAI
+OpenAI,GROWTH_OF,enterprise customer base,alongside a rapidly expanding enterprise customer base that grew to five million business users.,OpenAI_chunk_5,OpenAI
+OpenAI,RAISED,$110 billion,"In February 2026, OpenAI raised $110 billion at a $730 billion valuation...",OpenAI_chunk_5,OpenAI
+OpenAI,CLOSED,funding round of $122 billion,"In April 2026, the company announced that it closed a funding round of $122 billion in committed capital...",OpenAI_chunk_5,OpenAI
+OpenAI,EMPLOYS,tiered revenue model,"OpenAI employs a tiered revenue model that combines free consumer access, paid subscription services...",OpenAI_chunk_5,OpenAI
+OpenAI,PROVIDES,basic functionality,which basic functionality is provided at no cost...,OpenAI_chunk_5,OpenAI
+OpenAI,OFFERS,advanced capabilities,while advanced capabilities are offered through paid plans such as ChatGPT Plus and enterprise solutions.,OpenAI_chunk_5,OpenAI
+OpenAI,SUPPORTED_BY,ChatGPT,"a woman filed a lawsuit against OpenAI, alleging that ChatGPT played a role in enabling a prolonged stalking campaign against her.",OpenAI_chunk_22,OpenAI
+OpenAI,OWNED_BY,subscription and enterprise offerings,OpenAI's subscription and enterprise offerings are structured around scalable compute usage.,OpenAI_chunk_6,OpenAI
+OpenAI,LOCATED_IN,2025,"In 2025, the company reported significant revenue growth associated with expanded computing infrastructure.",OpenAI_chunk_6,OpenAI
+OpenAI,PROVIDES,multi-channel monetization approach,The introduction of diversified revenue streams... reflects a multi-channel monetization approach.,OpenAI_chunk_6,OpenAI
+OpenAI,SUPPORTS,research-intensive compute,more than half of the spending through the end of the decade expected to support research-intensive compute for model training and development.,OpenAI_chunk_6,OpenAI
+OpenAI,PROJECTS,$200 billion revenue,OpenAI targeting cash-flow-positive operations by 2029 and projecting revenue of approximately $200 billion by 2030.,OpenAI_chunk_6,OpenAI
+OpenAI,TARGETS,cash-flow-positive operations by 2029,OpenAI targeting cash-flow-positive operations by 2029,OpenAI_chunk_7,OpenAI
+OpenAI,PROJECTS,$200 billion revenue by 2030,projecting revenue of approximately $200 billion by 2030,OpenAI_chunk_7,OpenAI
+OpenAI,COMPLETED,employee share sale of up to $10 billion,OpenAI completed an employee share sale of up to $10 billion,OpenAI_chunk_7,OpenAI
+OpenAI,VALUED_AT,$500 billion,which valued the company at $500 billion,OpenAI_chunk_7,OpenAI
+OpenAI,MOST_VALUABLE_PRIVATE_COMPANY,world,the most valuable privately owned company in the world,OpenAI_chunk_7,OpenAI
+OpenAI,ACQUIRED,Global Illumination,OpenAI had acquired the New York-based start-up Global Illumination,OpenAI_chunk_7,OpenAI
+OpenAI,ACQUIRED,Multi,"OpenAI acquired Multi, a startup focused on remote collaboration",OpenAI_chunk_7,OpenAI
+OpenAI,REJECTED,Elon Musk's bid,the offer was rejected on 14 February 2025,OpenAI_chunk_7,OpenAI
+OpenAI,REACHED_DEAL_WITH,CoreWeave,OpenAI reached a deal with CoreWeave to acquire $350 million worth of CoreWeave shares,OpenAI_chunk_7,OpenAI
+OpenAI,ANNOUNCED,$6.5 billion acquisition of io,OpenAI announced the $6.5 billion acquisition of io,OpenAI_chunk_7,OpenAI
+OpenAI,ACQUIRED,Statsig,OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion in an all-stock deal.,OpenAI_chunk_8,OpenAI
+OpenAI,DEVELOPED_BY,AI-driven hiring service,The company also announced development of an AI-driven hiring service designed to rival LinkedIn.,OpenAI_chunk_8,OpenAI
+OpenAI,ACQUIRED,Roi,OpenAI acquired personal finance app Roi in October 2025.,OpenAI_chunk_8,OpenAI
+OpenAI,ACQUIRED,Software Applications Incorporated,"OpenAI acquired Software Applications Incorporated, the developer of Sky, a macOS-based natural language interface.",OpenAI_chunk_8,OpenAI
+OpenAI,ACQUIRED,Neptune,"it was announced OpenAI had agreed to acquire Neptune, an AI tooling startup.",OpenAI_chunk_8,OpenAI
+OpenAI,ACQUIRED,Torch,it was announced OpenAI had acquired healthcare technology startup Torch for approximately $60 million.,OpenAI_chunk_8,OpenAI
+OpenAI,LAUNCHED,ChatGPT Health,the acquisition followed the launch of OpenAI's ChatGPT Health product.,OpenAI_chunk_8,OpenAI
+OpenAI,ACQUIRED,Astral,OpenAI acquired Python tool developer Astral in March 2026.,OpenAI_chunk_8,OpenAI
+OpenAI,SENT_DATA_TO,Sama,OpenAI began sending snippets of data to Sama as early as November 2021.,OpenAI_chunk_8,OpenAI
+OpenAI,PAID,$12.50 per hour,OpenAI paid Sama $12.50 per hour of work.,OpenAI_chunk_8,OpenAI
+OpenAI,COLLABORATED_WITH,Broadcom,OpenAI began collaborating with Broadcom to design a custom AI chip.,OpenAI_chunk_8,OpenAI
+OpenAI,DEPENDS_ON,Nvidia GPUs,"This initiative intended to reduce OpenAI's dependence on Nvidia GPUs, which are costly and face high demand in the market.",OpenAI_chunk_9,OpenAI
+OpenAI,PARTNERED_WITH,Anduril Industries,"In December 2024, OpenAI partnered with Anduril Industries to develop and deploy advanced artificial intelligence solutions for national security missions.",OpenAI_chunk_9,OpenAI
+OpenAI,RENTING,Google Cloud's Tensor Processing Units (TPUs),"In June 2025, OpenAI began renting Google Cloud's Tensor Processing Units (TPUs) to support ChatGPT and related services.",OpenAI_chunk_9,OpenAI
+OpenAI,SIGNED_CONTRACT_WITH,Oracle,"In September 2025, it was revealed that OpenAI signed a contract with Oracle to purchase $300 billion in computing power over the next five years.",OpenAI_chunk_9,OpenAI
+OpenAI,ANNOUNCED_MEMORANDUM_WITH,NVIDIA,"In September 2025, OpenAI and NVIDIA announced a memorandum of understanding that included a potential deployment of at least 10 gigawatts of NVIDIA systems.",OpenAI_chunk_9,OpenAI
+OpenAI,COMMITTED_TO_PURCHASING,AMD chips,"In October 2025, OpenAI announced a multi-billion dollar deal with AMD.",OpenAI_chunk_9,OpenAI
+OpenAI,PROVIDES,LLMs to the Artificial Intelligence Cyber Challenge,OpenAI provides LLMs to the Artificial Intelligence Cyber Challenge and to the Advanced Research Projects Agency for Health.,OpenAI_chunk_9,OpenAI
+OpenAI,CONSIDERED_ESSENTIAL_FOR,AFRICOM's mission,"In October 2024, The Intercept revealed that OpenAI's tools are considered 'essential' for AFRICOM's mission.",OpenAI_chunk_9,OpenAI
+OpenAI,PROVIDES,LLMs,OpenAI provides LLMs to the Artificial Intelligence Cyber Challenge and to the Advanced Research Projects Agency for Health.,OpenAI_chunk_10,OpenAI
+OpenAI,PART_OF,Exception to Fair Opportunity,OpenAI's tools are considered 'essential' for AFRICOM's mission and included in an 'Exception to Fair Opportunity' contractual agreement between the United States Department of Defense (DoD) and Microsoft.,OpenAI_chunk_10,OpenAI
+OpenAI,PARTNERED_WITH,Anduril,OpenAI said it would partner with defense-tech company Anduril to build drone defense technologies for the United States and its allies.,OpenAI_chunk_10,OpenAI
+OpenAI,ANNOUNCED,OpenAI for Government,"OpenAI announced a new program, OpenAI for Government, to give federal, state, and local governments access to its models, including ChatGPT.",OpenAI_chunk_10,OpenAI
+OpenAI,REACHED_AGREEMENT_WITH,DoD,OpenAI announced that it had reached an agreement with the DoD to deploy its models in the government's classified network.,OpenAI_chunk_10,OpenAI
+OpenAI,CREATED_BY,GPT-2,"In February 2019, GPT-2 was announced, which gained attention for its ability to generate human-like text.",OpenAI_chunk_11,OpenAI
+OpenAI,CREATED_BY,GPT-3,"In 2020, OpenAI announced GPT-3, a language model trained on large internet datasets.",OpenAI_chunk_11,OpenAI
+OpenAI,PROVIDES,API,"It also announced that an associated API, named the API, would form the heart of its first commercial product.",OpenAI_chunk_11,OpenAI
+OpenAI,CREATED_BY,DALL-E,"In 2021, OpenAI introduced DALL-E, a specialized deep learning model adept at generating complex digital images from textual descriptions.",OpenAI_chunk_11,OpenAI
+OpenAI,RELEASED,GPT-4,"On March 14, 2023, OpenAI released GPT-4, both as an API (with a waitlist) and as a feature of ChatGPT Plus.",OpenAI_chunk_11,OpenAI
+OpenAI,LAUNCHED,GPTs,"On November 6, 2023, OpenAI launched GPTs, allowing individuals to create customized versions of ChatGPT for specific purposes.",OpenAI_chunk_11,OpenAI
+OpenAI,SUSPENDED,new sign-ups for ChatGPT Plus,"On November 14, 2023, OpenAI announced they temporarily suspended new sign-ups for ChatGPT Plus due to high demand.",OpenAI_chunk_11,OpenAI
+OpenAI,REOPENED,access for newer subscribers,Access for newer subscribers re-opened a month later on December 13.,OpenAI_chunk_11,OpenAI
+OpenAI,LAUNCHED,Sora model,"In December 2024, the company launched the Sora model.",OpenAI_chunk_11,OpenAI
+OpenAI,LAUNCHED,OpenAI o1,"It also launched OpenAI o1, an early reasoning model that was internally codenamed strawberry.",OpenAI_chunk_11,OpenAI
+OpenAI,INTRODUCED,ChatGPT Pro,"Additionally, ChatGPT Pro—a $200/month subscription service offering unlimited o1 access and enhanced voice features—was introduced.",OpenAI_chunk_11,OpenAI
+OpenAI,RELEASED,Operator,"On January 23, 2025, OpenAI released Operator, an AI agent and tool for accessing websites to execute goals defined by users.",OpenAI_chunk_12,OpenAI
+OpenAI,RELEASED,deep research agent,"OpenAI released deep research agent, nine days later.",OpenAI_chunk_12,OpenAI
+OpenAI,REPORTED,experimental model performed at a gold medal-level,"In July 2025, according to OpenAI, one of its experimental models performed at a gold medal-level at the International Mathematical Olympiad.",OpenAI_chunk_12,OpenAI
+OpenAI,DISPLAYED,Agent Builder platform,"On October 6, 2025, OpenAI displayed its Agent Builder platform during the company's DevDay event.",OpenAI_chunk_12,OpenAI
+OpenAI,INTRODUCED,ChatGPT Atlas,"On October 21, 2025, OpenAI introduced ChatGPT Atlas, a web browser which integrates ChatGPT into web navigation.",OpenAI_chunk_12,OpenAI
+OpenAI,ANNOUNCED,GPT-5.2,"On December 11, 2025, OpenAI announced GPT-5.2.",OpenAI_chunk_12,OpenAI
+OpenAI,WORKING_ON,collaborative software development platform,"In early 2026, reports indicated that OpenAI was working on a collaborative software development platform designed to compete with services such as GitHub and GitLab.",OpenAI_chunk_12,OpenAI
+OpenAI,CRITICIZED_FOR,disclosing particularly few technical details about products like GPT-4,"In March 2023, the company was criticized for disclosing particularly few technical details about products like GPT-4.",OpenAI_chunk_12,OpenAI
+OpenAI,CITED,competitiveness and safety concerns,OpenAI cited competitiveness and safety concerns to justify this repudiation.,OpenAI_chunk_12,OpenAI
+OpenAI,PUBLISHED,study on how people use ChatGPT for everyday tasks,"In September 2025, OpenAI published a study on how people use ChatGPT for everyday tasks.",OpenAI_chunk_12,OpenAI
+OpenAI,ENDED,superalignment project,OpenAI ended the project in May 2024 after its co-leaders Ilya Sutskever and Jan Leike left the company.,OpenAI_chunk_12,OpenAI
+OpenAI,PROMISED,20% of its computing resources to the project,OpenAI promised to dedicate 20% of its computing resources to the project.,OpenAI_chunk_12,OpenAI
+OpenAI,ALLOCATED,1–2% of its resources to the project,although the company's employees later reported that the company only allocated 1–2% of its resources to it.,OpenAI_chunk_12,OpenAI
+OpenAI,CRITICIZED_AFTER,thousands of private ChatGPT conversations were inadvertently exposed,"In August 2025, OpenAI was criticized after thousands of private ChatGPT conversations were inadvertently exposed to public search.",OpenAI_chunk_12,OpenAI
+OpenAI,ENDED_BY,Ilya Sutskever and Jan Leike,OpenAI ended the project in May 2024 after its co-leaders Ilya Sutskever and Jan Leike left the company.,OpenAI_chunk_13,OpenAI
+OpenAI,CRITICIZED_FOR,exposed private ChatGPT conversations,"In August 2025, OpenAI was criticized after thousands of private ChatGPT conversations were inadvertently exposed to public search engines.",OpenAI_chunk_13,OpenAI
+OpenAI,REMOVED_FEATURE,share with search engines,"OpenAI announced the feature's permanent removal on August 1, 2025.",OpenAI_chunk_13,OpenAI
+OpenAI,HAS_EMPLOYEES,738 of 770 employees,"About 738 of OpenAI's 770 employees, including Murati and Sutskever, signed an open letter.",OpenAI_chunk_14,OpenAI
+OpenAI,STATED,Musk's financial contributions,OpenAI stated that Musk's financial contributions were below $45 million.,OpenAI_chunk_15,OpenAI
+OpenAI,SIGNED_DEALS_WITH,"Reddit, News Corp, Axios, and Vox Media","OpenAI then signed deals with Reddit, News Corp, Axios, and Vox Media.",OpenAI_chunk_15,OpenAI
+OpenAI,ENDORSED,UK's smart AI regulation,"In September 2024, OpenAI's global affairs chief endorsed the UK's 'smart' AI regulation during testimony to a House of Lords committee.",OpenAI_chunk_17,OpenAI
+OpenAI,INTERESTED_IN,collaborating with People's Republic of China,"In February 2025, OpenAI CEO Sam Altman stated that the company is interested in collaborating with the People's Republic of China, despite regulatory restrictions imposed by the U.S. government.",OpenAI_chunk_17,OpenAI
+OpenAI,ENHANCED,security protocols,"Following DeepSeek's market emergence, OpenAI enhanced security protocols to protect proprietary development techniques from industrial espionage.",OpenAI_chunk_17,OpenAI
+OpenAI,ADVOCATED_FOR,preempting state AI laws with federal laws,OpenAI advocated for preempting state AI laws with federal laws.,OpenAI_chunk_17,OpenAI
+OpenAI,OPPOSED,California's AI legislation,"According to Scott Kohler, OpenAI has opposed California's AI legislation and suggested that the state bill encroaches on a more competent federal government.",OpenAI_chunk_17,OpenAI
+OpenAI,PROVIDED,initial funding for Parents & Kids Safe AI Coalition,"In early 2026, OpenAI provided the entire initial funding for the Parents & Kids Safe AI Coalition.",OpenAI_chunk_17,OpenAI
+OpenAI,REQUIRED,departing employees to sign a lifelong non-disparagement agreement,"Before May 2024, OpenAI required departing employees to sign a lifelong non-disparagement agreement forbidding them from criticizing OpenAI or acknowledging the existence of the agreement.",OpenAI_chunk_17,OpenAI
+OpenAI,SUED_FOR,copyright infringement,"Copyright OpenAI was sued for copyright infringement by authors Sarah Silverman, Matthew Butterick, Paul Tremblay and Mona Awad in July 2023.",OpenAI_chunk_18,OpenAI
+OpenAI,RELEASED,former employees,"On May 23, 2024, OpenAI sent a memo releasing former employees from the agreement.",OpenAI_chunk_18,OpenAI
+OpenAI,SUED_BY,The New York Times,The New York Times also sued the company in late December 2023.,OpenAI_chunk_18,OpenAI
+OpenAI,DESTROYED,Books1 and Books2 training datasets,In May 2024 it was revealed that OpenAI had destroyed its Books1 and Books2 training datasets.,OpenAI_chunk_18,OpenAI
+OpenAI,USED,Whisper,OpenAI used it to transcribe more than one million hours of YouTube videos into text for training GPT-4.,OpenAI_chunk_18,OpenAI
+OpenAI,PART_OF,training GPT-4,The resulting dataset proved instrumental in training GPT-4.,OpenAI_chunk_18,OpenAI
+OpenAI,SCRAPED,300 billion words online,"In June 2023, a lawsuit claimed that OpenAI scraped 300 billion words online without consent.",OpenAI_chunk_18,OpenAI
+OpenAI,ENTERED_INTO_AGREEMENT_WITH,News Corp,"On May 22, 2024, OpenAI entered into an agreement with News Corp to integrate news content.",OpenAI_chunk_18,OpenAI
+OpenAI,ENTERED_INTO,agreement with News Corp,"On May 22, 2024, OpenAI entered into an agreement with News Corp",OpenAI_chunk_19,OpenAI
+OpenAI,INTEGRATES,"news content from The Wall Street Journal, the New York Post, The Times, and The Sunday Times","to integrate news content from The Wall Street Journal, the New York Post, The Times, and The Sunday Times into its AI platform",OpenAI_chunk_19,OpenAI
+OpenAI,VIOLATED,European General Data Protection Regulation,NOYB filed a complaint with the Austrian Datenschutzbehörde against OpenAI for violating the European General Data Protection Regulation,OpenAI_chunk_19,OpenAI
+OpenAI,CRITICIZED_FOR,allowing ChatGPT to be used for military and warfare,OpenAI is criticized for allowing ChatGPT to be used for 'military and warfare' since January 10,OpenAI_chunk_19,OpenAI
+OpenAI,CRITICIZED_FOR,military and warfare usage,"OpenAI is criticized for allowing ChatGPT to be used for 'military and warfare' since January 10, 2024.",OpenAI_chunk_20,OpenAI
+OpenAI,REMOVED_BAN_ON,weapons development,"its 'usage policies' removed the ban on 'activity that has high risk of physical harm, including', specifically, 'weapons development' and 'military and warfare'.",OpenAI_chunk_20,OpenAI
+OpenAI,DISMISSED_LAWSUIT_AS,incoherent and frivolous,OpenAI dismissed as 'incoherent' and 'frivolous' the lawsuit filed by Elon Musk.,OpenAI_chunk_20,OpenAI
+OpenAI,ALLEGED,bad-faith tactics by Musk,OpenAI alleged that he had engaged in 'bad-faith tactics' to slow the company's progress.,OpenAI_chunk_20,OpenAI
+OpenAI,STRENGTHENING_PROTECTIONS,safeguards for minors,OpenAI expressed condolences and said it was strengthening protections (including updated crisis response behavior and parental controls).,OpenAI_chunk_20,OpenAI
+OpenAI,FILED_BY,Social Media Victims Law Center and Tech Justice Law Project,"In November 2025, the Social Media Victims Law Center and Tech Justice Law Project filed seven lawsuits against OpenAI.",OpenAI_chunk_21,OpenAI
+OpenAI,ALLEGED_IN,lawsuit filed by First County Bank,"In December 2025, First County Bank filed a lawsuit against OpenAI after Suzanne Adams was murdered by her 56-year-old son.",OpenAI_chunk_21,OpenAI
+OpenAI,BANNED_ACCOUNT,perpetrator of Canadian mass shooting,it emerged that OpenAI had banned an account belonging to the perpetrator due to violent queries approximately 7 months prior to the attacks.,OpenAI_chunk_21,OpenAI
+OpenAI,OPTED_NOT_TO_REPORT,account to authorities,OpenAI opted not to report the account to authorities at the time.,OpenAI_chunk_21,OpenAI
+OpenAI,SUMMONED_TO,Ottawa,"Canadian officials summoned OpenAI's safety team to Ottawa, criticizing their escalation protocols.",OpenAI_chunk_21,OpenAI
+OpenAI,HIGHLIGHTED_CONCERNS_ABOUT,safety-oversight processes,The meeting highlighted concerns about how and when OpenAI reports potentially dangerous user behavior to authorities.,OpenAI_chunk_21,OpenAI
+OpenAI,ALLEGED_IN,stalking lawsuit,"In 2026, a woman filed a lawsuit against OpenAI, alleging that ChatGPT played a role in enabling a prolonged stalking campaign against her.",OpenAI_chunk_21,OpenAI
+OpenAI,LOCATED_IN,Canada,"Evan Solomon said, 'I want [OpenAI] to give us details of what their protocols are, [and] what they are specifically in Canada.'",OpenAI_chunk_22,OpenAI
+OpenAI,FAILED_TO,prevent further misuse,"The plaintiff claimed that she had contacted OpenAI to report the issue, but that the company did not take adequate action to prevent further misuse.",OpenAI_chunk_22,OpenAI
+ChatGPT,CREATED_BY,OpenAI,Its release of ChatGPT in November 2022,OpenAI_chunk_0,OpenAI
+ChatGPT,RECEIVED,over a million signups,"According to OpenAI, the preview received over a million signups within the first five days.",OpenAI_chunk_11,OpenAI
+ChatGPT,VALIDATED,paranoid beliefs,"The lawsuit alleges that over months of conversations, ChatGPT validated many paranoid beliefs.",OpenAI_chunk_21,OpenAI
+ChatGPT,USED_BY,former partner,her former partner became increasingly fixated and used the chatbot to generate messages and content that reinforced his behavior.,OpenAI_chunk_22,OpenAI
+Elon Musk,SUBMITTED,$97.4 billion unsolicited bid,a consortium of investors led by Elon Musk submitted a $97.4 billion unsolicited bid,OpenAI_chunk_7,OpenAI
+Elon Musk,ROLE,co-founder,"Principal individual investors Elon Musk, co-founder.",OpenAI_chunk_13,OpenAI
+Elon Musk,FILED_LAWSUIT_AGAINST,OpenAI and Sam Altman,"On February 29, 2024, Elon Musk filed a lawsuit against OpenAI and CEO Sam Altman.",OpenAI_chunk_20,OpenAI
+Sam Altman,STATED,safety principles,"CEO Sam Altman wrote, 'Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems'.",OpenAI_chunk_10,OpenAI
+Sam Altman,POSITION,CEO and co-founder,"Sam Altman, CEO and co-founder.",OpenAI_chunk_13,OpenAI
+Sam Altman,REMOVED_AS,CEO,"On November 17, 2023, Sam Altman was removed as CEO when its board of directors cited a lack of confidence in him.",OpenAI_chunk_14,OpenAI
+Sam Altman,REPORTS_TO,Brad Lightcap,Brad Lightcap...reporting directly to Sam Altman.,OpenAI_chunk_16,OpenAI
+Sam Altman,POSTED_RECOMMENDATIONS_FOR,Governance of Superintelligence,"In May 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence.",OpenAI_chunk_16,OpenAI
+Sam Altman,REINSTATED_AS,CEO of OpenAI,Altman was subsequently reinstated as OpenAI's CEO.,Microsoft_chunk_11,Microsoft
+Ilya Sutskever,ARGUED,open-sourcing increasingly capable models was increasingly risky,OpenAI's former chief scientist Ilya Sutskever argued in 2023 that open-sourcing increasingly capable models was increasingly risky.,OpenAI_chunk_12,OpenAI
+Ilya Sutskever,RESIGNED,OpenAI,"In May 2024, Chief Scientist Ilya Sutskever resigned.",OpenAI_chunk_15,OpenAI
+Greg Brockman,POSITION,President and co-founder,President and co-founder: Greg Brockman.,OpenAI_chunk_13,OpenAI
+Greg Brockman,REMOVED_AS,chairman of the board,"Greg Brockman, the president of OpenAI, was also removed as chairman of the board.",OpenAI_chunk_14,OpenAI
+Greg Brockman,TOOK_LEAVE,OpenAI,OpenAI's president Greg Brockman took extended leave until November.,OpenAI_chunk_16,OpenAI
+John Schulman,LEFT,OpenAI,"In August 2024, cofounder John Schulman left OpenAI to join Anthropic.",OpenAI_chunk_16,OpenAI
+Microsoft,INVESTED_IN,OpenAI,"On January 23, 2023, Microsoft announced a new multi-year, multi-billion dollar investment deal with ChatGPT developer OpenAI.",Microsoft_chunk_10,Microsoft
+Microsoft,PROVIDES,Azure cloud computing resources,Microsoft...provides Azure cloud computing resources,OpenAI_chunk_0,OpenAI
+Microsoft,INVESTED_IN,OpenAI LP,Microsoft subsequently invested $1 billion in OpenAI LP.,OpenAI_chunk_2,OpenAI
+Microsoft,OWNS,27% stake in OpenAI Group PBC,Microsoft holds a 27% stake and the remaining 47% is owned by employees and other investors,OpenAI_chunk_3,OpenAI
+Microsoft,ANNOUNCED,US$10 billion investment in OpenAI,"On January 23, 2023, Microsoft announced an additional US$10 billion investment in OpenAI vested over multiple years.",OpenAI_chunk_4,OpenAI
+Microsoft,USED,OpenAI models for Copilot,"Later that year, Microsoft used OpenAI models for its Copilot chatbot.",OpenAI_chunk_4,OpenAI
+Microsoft,INTEGRATED_INTO,Windows,"Microsoft used OpenAI models for its Copilot chatbot, integrated Copilot into Windows.",OpenAI_chunk_4,OpenAI
+Microsoft,OWNED_BY,OpenAI Group PBC,"Following OpenAI's 2025 restructuring, Microsoft owned a 27% stake in the for-profit OpenAI Group PBC.",OpenAI_chunk_4,OpenAI
+Microsoft,WAS_CUSTOMER_OF,CoreWeave,Microsoft was already CoreWeave's biggest customer in 2024,OpenAI_chunk_7,OpenAI
+Microsoft,BUILDING,AI technology based on ChatGPT,"On February 7, 2023, Microsoft announced that it was building AI technology based on the same foundation as ChatGPT into Microsoft Bing, Edge, Microsoft 365 and other products.",OpenAI_chunk_11,OpenAI
+Microsoft,OBJECTED_TO,Altman's departure,there were reportedly talks of Altman returning as CEO amid pressure placed upon the board by investors such as Microsoft.,OpenAI_chunk_14,OpenAI
+Microsoft,ANNOUNCED,Altman and Brockman would be joining Microsoft,"On November 20, 2023, Microsoft CEO Satya Nadella announced Altman and Brockman would be joining Microsoft.",OpenAI_chunk_14,OpenAI
+Microsoft,RESIGNED_FROM,OpenAI board,Microsoft resigned from the board in July 2024.,OpenAI_chunk_15,OpenAI
+Microsoft,PROVIDES,Azure cloud computing platform,Microsoft most notably provides the Azure cloud computing platform.,Microsoft_chunk_1,Microsoft
+Microsoft,PROVIDES,Microsoft SQL Server database software,Microsoft most notably provides the Microsoft SQL Server database software.,Microsoft_chunk_1,Microsoft
+Microsoft,PROVIDES,Visual Studio,Microsoft most notably provides Visual Studio.,Microsoft_chunk_1,Microsoft
+Microsoft,VALUED_AT,$1 trillion,Microsoft became the third publicly traded U.S. company to be valued at over $1 trillion in April 2019.,Microsoft_chunk_1,Microsoft
+Microsoft,FOUNDED_BY,Bill Gates,"Gates and Allen established Microsoft on April 4, 1975.",Microsoft_chunk_1,Microsoft
+Microsoft,FOUNDED_BY,Paul Allen,"Gates and Allen established Microsoft on April 4, 1975.",Microsoft_chunk_1,Microsoft
+Microsoft,LOCATED_IN,"Bellevue, Washington","Microsoft moved its headquarters to Bellevue, Washington, in January 1979.",Microsoft_chunk_1,Microsoft
+Microsoft,ENTERED,operating system business,Microsoft entered the operating system (OS) business in 1980.,Microsoft_chunk_1,Microsoft
+Microsoft,OWNED_BY,MS-DOS,Microsoft retained ownership of MS-DOS following the release of the IBM PC in August 1981.,Microsoft_chunk_2,Microsoft
+Microsoft,EXPANDED_INTO,new markets,The company expanded into new markets with the release of the Microsoft Mouse in 1983.,Microsoft_chunk_2,Microsoft
+Microsoft,CREATED_BY,Microsoft Press,as well as with a publishing division named Microsoft Press.,Microsoft_chunk_2,Microsoft
+Microsoft,RELEASED,Windows 1.0,"Microsoft released Windows 1.0 on November 20, 1985.",Microsoft_chunk_2,Microsoft
+Microsoft,DEVELOPED_BY,OS/2,having begun jointly developing OS/2 with IBM that August.,Microsoft_chunk_2,Microsoft
+Microsoft,MOVED_TO,"Redmond, Washington","Microsoft moved its headquarters from Bellevue to Redmond, Washington, on February 26, 1986.",Microsoft_chunk_2,Microsoft
+Microsoft,WENT_PUBLIC,NASDAQ,went public with an initial public offering (IPO) at the NASDAQ exchange on March 13.,Microsoft_chunk_2,Microsoft
+Microsoft,RELEASED,OS/2 version,"Microsoft released its version of OS/2 to original equipment manufacturers (OEMs) on April 2, 1987.",Microsoft_chunk_2,Microsoft
+Microsoft,WORKED_ON,Microsoft Windows NT,the company was at work on Microsoft Windows NT.,Microsoft_chunk_2,Microsoft
+Microsoft,INFORMED,IBM,Microsoft informed IBM of Windows NT.,Microsoft_chunk_2,Microsoft
+Microsoft,INTRODUCED,Microsoft Office,"In 1990, Microsoft introduced the Microsoft Office suite.",Microsoft_chunk_2,Microsoft
+Microsoft,LAUNCHED,Windows 3.0,"On May 22, Microsoft launched Windows 3.0.",Microsoft_chunk_2,Microsoft
+Microsoft,INDUCED,OEMs,Microsoft had increasingly induced OEMs to pay royalties under a per-processor license.,Microsoft_chunk_2,Microsoft
+Microsoft,REDEFINED,offerings,Microsoft began to redefine its offerings and expand its product line into computer networking and the World Wide Web.,Microsoft_chunk_3,Microsoft
+Microsoft,ACTED_IN,World Wide Web,Microsoft was the only major and established company that acted fast enough to be a part of the World Wide Web practically from the start.,Microsoft_chunk_3,Microsoft
+Microsoft,RELEASED,Windows 95,"The company released Windows 95 on August 24, 1995.",Microsoft_chunk_3,Microsoft
+Microsoft,SOLD_STAKE_IN,MSNBC,"In July 2012, Microsoft sold its 50% stake in MSNBC",Microsoft_chunk_5,Microsoft
+Microsoft,CREATED,Windows CE 1.0,"Microsoft created Windows CE 1.0, a new OS designed for devices with low memory and other constraints.",Microsoft_chunk_3,Microsoft
+Microsoft,RELEASED,Windows XP,"On October 25, 2001, Microsoft released Windows XP.",Microsoft_chunk_4,Microsoft
+Microsoft,ENTERED,video game console market,"The company released the Xbox later that year, entering the video game console market.",Microsoft_chunk_3,Microsoft
+Microsoft,RELEASED,Xbox,The company released the Xbox later that year.,Microsoft_chunk_4,Microsoft
+Microsoft,ABUSED,dominance with Windows OS,citing it abused its dominance with the Windows OS.,Microsoft_chunk_4,Microsoft
+Microsoft,REQUIRED_TO_PRODUCE,new versions of Windows XP without Windows Media Player,requiring Microsoft to produce new versions of Windows XP without Windows Media Player.,Microsoft_chunk_4,Microsoft
+Microsoft,RELEASED,Xbox 360,"In November 2005, the company's second video game console, the Xbox 360, was released.",Microsoft_chunk_4,Microsoft
+Microsoft,RELEASED,Zune series,Microsoft 2006 released the Zune series of digital media players.,Microsoft_chunk_4,Microsoft
+Microsoft,RELEASED,Windows Vista,"Released in January 2007, the next version of Windows, Vista.",Microsoft_chunk_4,Microsoft
+Microsoft,STATED,in compliance,Microsoft stated that it was in compliance.,Microsoft_chunk_4,Microsoft
+Microsoft,ANNOUNCED,intent to open Microsoft-branded retail stores,"On February 12, 2009, Microsoft announced its intent to open a chain of Microsoft-branded retail stores.",Microsoft_chunk_4,Microsoft
+Microsoft,STRUGGLED_WITH,smartphone operating system,Microsoft had struggled to keep up with its rivals in providing a modern smartphone operating system,Microsoft_chunk_5,Microsoft
+Microsoft,LAUNCHED_ALLIANCE_WITH,Nokia,It launched an alliance with Nokia in 2011,Microsoft_chunk_5,Microsoft
+Microsoft,CO_DEVELOPED_WITH,Windows Phone,Microsoft worked closely with the company to co-develop Windows Phone,Microsoft_chunk_5,Microsoft
+Microsoft,FOUNDED_BY,Open Networking Foundation,"Microsoft is a founding member of the Open Networking Foundation started on March 23, 2011",Microsoft_chunk_5,Microsoft
+Microsoft,ACQUIRED,Skype,Microsoft saw its largest acquisition by taking over Skype,Microsoft_chunk_5,Microsoft
+Microsoft,PAID_FOR,Yammer,Microsoft paid US$1.2 billion to buy the social network Yammer,Microsoft_chunk_5,Microsoft
+Microsoft,LAUNCHED,Outlook.com,"On July 31, it launched the Outlook.com webmail service to compete with Gmail",Microsoft_chunk_5,Microsoft
+Microsoft,RELEASED,Windows Server 2012,Microsoft released Windows Server 2012.,Microsoft_chunk_6,Microsoft
+Microsoft,LAUNCHED,Windows 8,"In October 2012, Microsoft launched Windows 8.",Microsoft_chunk_6,Microsoft
+Microsoft,LAUNCHED,Windows Phone 8,"In October 2012, Microsoft launched Windows Phone 8.",Microsoft_chunk_6,Microsoft
+Microsoft,SOLD,50% stake in MSNBC,"In July 2012, Microsoft sold its 50% stake in MSNBC.",Microsoft_chunk_6,Microsoft
+Microsoft,LAUNCHED,Microsoft Surface,"In October 2012, Microsoft launched Microsoft Surface.",Microsoft_chunk_6,Microsoft
+Microsoft,OPENED,holiday stores,Microsoft opened a number of 'holiday stores' across the U.S.,Microsoft_chunk_6,Microsoft
+Microsoft,OPENED,bricks-and-mortar Microsoft Stores,the increasing number of 'bricks-and-mortar' Microsoft Stores that opened in 2012.,Microsoft_chunk_6,Microsoft
+Microsoft,LAUNCHED,Patent Tracker,"On March 29, 2013, Microsoft launched a Patent Tracker.",Microsoft_chunk_6,Microsoft
+Microsoft,SUFFERED,loss of more than US$32 billion,Microsoft suffered a loss of more than US$32 billion.,Microsoft_chunk_6,Microsoft
+Microsoft,ANNOUNCED,reorganization into four new business divisions,Microsoft announced that it would reorganize into four new business divisions.,Microsoft_chunk_6,Microsoft
+Microsoft,AGREED_TO_BUY,Nokia's mobile unit,"On September 3, 2013, Microsoft agreed to buy Nokia's mobile unit for $7 billion.",Microsoft_chunk_6,Microsoft
+Microsoft,ACQUIRED,Nokia Devices and Services,"On April 25, 2014, Microsoft acquired Nokia Devices and Services for $7.2 billion.",Microsoft_chunk_6,Microsoft
+Microsoft,ACQUIRED,Mojang,"Microsoft acquired the video game development company Mojang, best known for Minecraft, for $2.5 billion.",Microsoft_chunk_7,Microsoft
+Microsoft,ANNOUNCED,release of Surface Hub,"On January 21, 2015, Microsoft announced the release of its first interactive whiteboard, named Surface Hub.",Microsoft_chunk_6,Microsoft
+Microsoft,ANNOUNCED,Surface Hub,"On January 21, 2015, Microsoft announced the release of its first interactive whiteboard, named Surface Hub.",Microsoft_chunk_7,Microsoft
+Microsoft,RELEASED,Windows 10,"It was released to the general public on October 5, 2021.",Microsoft_chunk_10,Microsoft
+Microsoft,RELEASED,Windows Server 2016,"Windows Server 2016, released in September 2016.",Microsoft_chunk_7,Microsoft
+Microsoft,HAD_SHARE,2.7% of U.S. smartphone market,Microsoft's share of the U.S. smartphone market in January 2016 was 2.7%.,Microsoft_chunk_7,Microsoft
+Microsoft,LOST,$7.6 billion,During the summer of 2015 the company lost $7.6 billion related to its mobile-phone business.,Microsoft_chunk_7,Microsoft
+Microsoft,FIRED,"7,800 employees","firing 7,800 employees.",Microsoft_chunk_7,Microsoft
+Microsoft,CONSTRUCTED,"data center in Mecklenburg County, Virginia","In 2015, the construction of a data center in Mecklenburg County, Virginia.",Microsoft_chunk_7,Microsoft
+Microsoft,ANNOUNCED,merger of PC and Xbox divisions,"On March 1, 2016, Microsoft announced the merger of its PC and Xbox divisions.",Microsoft_chunk_7,Microsoft
+Microsoft,ACQUIRED,LinkedIn,Microsoft also acquired LinkedIn in 2016.,Microsoft_chunk_7,Microsoft
+Microsoft,SHOWCASED,Intune for Education,"On January 24, 2017, Microsoft showcased Intune for Education at the BETT 2017 education technology conference in London.",Microsoft_chunk_7,Microsoft
+Microsoft,ANNOUNCED,"laying off 1,850 workers","In May 2016, the company announced it was laying off 1,850 workers.",Microsoft_chunk_7,Microsoft
+Microsoft,ANNOUNCED,Microsoft Azure Information Protection,"In June 2016, Microsoft announced a project named Microsoft Azure Information Protection.",Microsoft_chunk_7,Microsoft
+Microsoft,JOINED,Linux Foundation,"In November 2016, Microsoft joined the Linux Foundation as a Platinum member.",Microsoft_chunk_7,Microsoft
+Microsoft,RELEASED,PowerShell Core 6.0,"On January 12, Microsoft released PowerShell Core 6.0 for the macOS and Linux operating systems.",Microsoft_chunk_7,Microsoft
+Microsoft,CEASED,notification support for Windows Phone devices,"In February 2018, Microsoft ceased notification support for its Windows Phone devices.",Microsoft_chunk_7,Microsoft
+Microsoft,RECALLED,Windows 10 S,"In March 2018, Microsoft recalled Windows 10 S to change it to a mode for the Windows operating system rather than a separate and unique operating system.",Microsoft_chunk_8,Microsoft
+Microsoft,ESTABLISHED_GUIDELINES,Office 365 profanity censorship,In March the company also established guidelines that censor users of Office 365 from using profanity in private documents.,Microsoft_chunk_8,Microsoft
+Microsoft,RELEASED,Windows File Manager source code,"In April 2018, Microsoft released the source code for Windows File Manager under the MIT License to celebrate the program's 20th anniversary.",Microsoft_chunk_8,Microsoft
+Microsoft,ANNOUNCED,Azure Sphere,In April the company further expressed willingness to embrace open source initiatives by announcing Azure Sphere as its own derivative of the Linux operating system.,Microsoft_chunk_8,Microsoft
+Microsoft,PARTNERED_WITH,17 American intelligence agencies,"In May 2018, Microsoft partnered with 17 American intelligence agencies to develop cloud computing products.",Microsoft_chunk_8,Microsoft
+Microsoft,ACQUIRED,GitHub,"On June 4, 2018, Microsoft officially announced the acquisition of GitHub for $7.5 billion, a deal that closed on October 26, 2018.",Microsoft_chunk_8,Microsoft
+Microsoft,REVEALED,Surface Go platform,"On July 10, 2018, Microsoft revealed the Surface Go platform to the public.",Microsoft_chunk_8,Microsoft
+Microsoft,RELEASED,Microsoft AccountGuard and Defending Democracy,"In August 2018, Microsoft released two projects called Microsoft AccountGuard and Defending Democracy.",Microsoft_chunk_8,Microsoft
+Microsoft,UNVEILED,Snapdragon 850 compatibility for Windows 10,It also unveiled Snapdragon 850 compatibility for Windows 10 on the ARM architecture.,Microsoft_chunk_8,Microsoft
+Microsoft,DISCONTINUED,Skype Classic,"In September 2018, Microsoft discontinued Skype Classic.",Microsoft_chunk_8,Microsoft
+Microsoft,JOINED,Open Invention Network,"On October 10, 2018, Microsoft joined the Open Invention Network community despite holding more than 60,000 patents.",Microsoft_chunk_8,Microsoft
+Microsoft,AGREED_TO_SUPPLY,"100,000 Microsoft HoloLens headsets","In November 2018, Microsoft agreed to supply 100,000 Microsoft HoloLens headsets to the United States military.",Microsoft_chunk_8,Microsoft
+Microsoft,ANNOUNCED,Project Mu,"In December 2018, Microsoft announced Project Mu, an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products.",Microsoft_chunk_9,Microsoft
+Microsoft,ANNOUNCED,open source implementation of Windows Forms,"In the same month, Microsoft announced the open source implementation of Windows Forms.",Microsoft_chunk_8,Microsoft
+Microsoft,ANNOUNCED,open source implementation of Windows Forms and WPF,"In the same month, Microsoft announced the open source implementation of Windows Forms and the Windows Presentation Foundation (WPF)",Microsoft_chunk_9,Microsoft
+Microsoft,DISCONTINUED,Microsoft Edge [Legacy],December also saw the company discontinue the Microsoft Edge [Legacy] browser project in favor of the 'New Edge' browser project.,Microsoft_chunk_9,Microsoft
+Microsoft,PROTESTED,war profiteering from a $480 million contract,"In February 2019, hundreds of Microsoft employees protested the company's war profiteering from a $480 million contract to develop virtual reality headsets for the United States Army.",Microsoft_chunk_9,Microsoft
+Microsoft,INTENDED_TO_ACQUIRE,ZeniMax Media,"On September 21, 2020, Microsoft announced its intent to acquire video game company ZeniMax Media.",Microsoft_chunk_9,Microsoft
+Microsoft,RELEASED,Xbox Series X and Xbox Series S,"On November 10, 2020, Microsoft released the Xbox Series X and Xbox Series S video game consoles.",Microsoft_chunk_9,Microsoft
+Microsoft,RELEASED,Azure Quantum,"In February 2021, Microsoft released Azure Quantum for public preview.",Microsoft_chunk_9,Microsoft
+Microsoft,ANNOUNCED,buy Nuance Communications,"In April 2021, Microsoft announced it would buy Nuance Communications for approximately $16 billion.",Microsoft_chunk_9,Microsoft
+Microsoft,COMPLETED,acquisition of Nuance Communications,completing the acquisition in March 2022.,Microsoft_chunk_9,Microsoft
+Microsoft,VALUATION,$2 trillion,"In 2021, in part due to the strong quarterly earnings spurred by the COVID-19 pandemic, Microsoft's valuation came to nearly $2 trillion.",Microsoft_chunk_9,Microsoft
+Microsoft,ANNOUNCED,Windows 11,"On June 24, 2021, Microsoft announced Windows 11 during a livestreamed event.",Microsoft_chunk_9,Microsoft
+Microsoft,ACQUIRED,TakeLessons,"In September 2021, it was announced that the company had acquired TakeLessons.",Microsoft_chunk_10,Microsoft
+Microsoft,ACQUIRED,Clipchamp,"In the same month, Microsoft acquired Australia-based video editing software company Clipchamp.",Microsoft_chunk_10,Microsoft
+Microsoft,ANNOUNCED,E2EE support for Microsoft Teams calls,"In October 2021, Microsoft announced that it began rolling out end-to-end encryption (E2EE) support for Microsoft Teams calls.",Microsoft_chunk_10,Microsoft
+Microsoft,ACQUIRED,Ally.io,"On October 7, Microsoft acquired Ally.io.",Microsoft_chunk_10,Microsoft
+Microsoft,ACQUIRED,Activision Blizzard,"On January 18, 2022, Microsoft announced the acquisition of American video game developer and holding company Activision Blizzard.",Microsoft_chunk_10,Microsoft
+Microsoft,CLOSED,Activision Blizzard acquisition,"The deal was closed on October 13, 2023.",Microsoft_chunk_10,Microsoft
+Microsoft,ANNOUNCED,"lay off 10,000 employees","In January 2023, CEO Satya Nadella announced Microsoft would lay off 10,000 employees.",Microsoft_chunk_10,Microsoft
+Microsoft,RELEASED,Azure Quantum Elements,"In June 2023, Microsoft released Azure Quantum Elements to run molecular simulations and calculations.",Microsoft_chunk_10,Microsoft
+Microsoft,ANNOUNCED,new custom-designed computing chips,"At a November 2023 developer conference, Microsoft announced two new custom-designed computing chips.",Microsoft_chunk_10,Microsoft
+Microsoft,ANNOUNCED,Maia chip,"Microsoft announced two new custom-designed computing chips: The Maia chip, designed to run large language models.",Microsoft_chunk_11,Microsoft
+Microsoft,ANNOUNCED,Cobalt CPU,"Microsoft announced two new custom-designed computing chips: Cobalt CPU, designed to power general cloud services on Azure.",Microsoft_chunk_11,Microsoft
+Microsoft,ACQUI-HIRED,Inflection AI workforce,Microsoft acqui-hiring nearly the entirety of its 70-person workforce.,Microsoft_chunk_11,Microsoft
+Microsoft,PAID,$650 million to license technology,Microsoft paid Inflection $650 million to license its technology.,Microsoft_chunk_11,Microsoft
+Microsoft,BECAME,most valued publicly traded company,"In January 2024, Microsoft became the most valued publicly traded company.",Microsoft_chunk_11,Microsoft
+Microsoft,ANNOUNCED,Copilot Pro,the company announced a subscription offering of artificial intelligence for small businesses via Copilot Pro.,Microsoft_chunk_11,Microsoft
+Microsoft,ANNOUNCED,"laying off 1,000 employees","In June 2024, Microsoft announced it would be laying off 1,000 employees from the company's mixed reality and Azure cloud computing divisions.",Microsoft_chunk_11,Microsoft
+Microsoft,BUILDING,hyperscale data centre,Microsoft announced that it was building a 'hyperscale data centre' in South East Leeds.,Microsoft_chunk_11,Microsoft
+Microsoft,REPORTED,"laying off its diversity, equity, and inclusion (DEI) team","it was reported that the company was laying off its diversity, equity, and inclusion (DEI) team.",Microsoft_chunk_11,Microsoft
+Microsoft,IMPACTED_BY,global IT outage,"a global IT outage impacted Microsoft services, affecting businesses, airlines, and financial institutions worldwide.",Microsoft_chunk_11,Microsoft
+Microsoft,STATED,underlying cause had been fixed,Microsoft stated that the underlying cause had been fixed but acknowledged ongoing residual impacts on some Microsoft 365 apps and services.,Microsoft_chunk_11,Microsoft
+Microsoft,RELAUNCHED,Recall,"Microsoft also announced relaunch of its controversial tool, Recall, in November 2024 after addressing privacy concerns.",Microsoft_chunk_12,Microsoft
+Microsoft,ANNOUNCED,Skype shutdown,"On February 28, 2025, Microsoft announced that Skype would be shutting down on May 5, 2025.",Microsoft_chunk_12,Microsoft
+Microsoft,STATED,no job cuts due to shutdown,The company stated there would be no job cuts due to the shutdown.,Microsoft_chunk_12,Microsoft
+Microsoft,RESTRUCTURED,operations in Russia,The company had restructured operations in Russia after the 2022 Russian invasion of Ukraine.,Microsoft_chunk_12,Microsoft
+Microsoft,CUT,4% of its workforce,"On July 2, 2025, Microsoft announced it would cut nearly 4% of its workforce, around 9,000 jobs.",Microsoft_chunk_12,Microsoft
+Microsoft,EXPECTED_TO_INVEST,$650 billion,"Microsoft—along with Amazon, Alphabet and Meta—is expected to collectively invest about $650 billion to scale up AI-related infrastructure in 2026.",Microsoft_chunk_12,Microsoft
+Microsoft,SIGNED,energy pledge,"In March 2026, Microsoft signed an energy pledge at the White House.",Microsoft_chunk_12,Microsoft
+Microsoft,UNVEILED,Copilot Cowork tool,"On 9 March 2026, Microsoft unveiled the Copilot Cowork tool",Microsoft_chunk_13,Microsoft
+Microsoft,RANKED,No. 14 in Fortune 500,Microsoft is ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue.,Microsoft_chunk_12,Microsoft
+Microsoft,RANKED_NO,14,Microsoft is ranked No. 14 in the 2022 Fortune 500 rankings,Microsoft_chunk_13,Microsoft
+Microsoft,LARGEST_SOFTWARE_MAKER,world,it was the world's largest software maker by revenue in 2022,Microsoft_chunk_13,Microsoft
+Microsoft,VALUED_AT,over $1 trillion,"In April 2019, Microsoft became the third U.S. public company to be valued at over $1 trillion",Microsoft_chunk_13,Microsoft
+Microsoft,HAS_GLOBAL_BRAND_VALUATION,third-highest,"As of 2024, Microsoft has the third-highest global brand valuation",Microsoft_chunk_13,Microsoft
+Microsoft,HAS_CREDIT_RATING,AAA,Microsoft is one of only two U.S.-based companies that have a prime credit rating of AAA,Microsoft_chunk_13,Microsoft
+Microsoft,PART_OF,Big Tech,It is a Big Tech company,Microsoft_chunk_13,Microsoft
+Microsoft,RUN_BY,board of directors,The company is run by a board of directors made up of mostly company outsiders,Microsoft_chunk_13,Microsoft
+Microsoft,PLANS_TO_HIRE,external law firm,Microsoft's board of directors plans to hire an external law firm to review its sexual harassment and gender discrimination policies.,Microsoft_chunk_14,Microsoft
+Microsoft,RELEASES,summary of past allegations,to release a summary of how the company handled past allegations of misconduct against Bill Gates and other corporate executives.,Microsoft_chunk_14,Microsoft
+Microsoft,WENT_PUBLIC,1986,When Microsoft went public and launched its initial public offering (IPO) in 1986.,Microsoft_chunk_14,Microsoft
+Microsoft,INITIAL_PUBLIC_OFFERING_PRICE,$21,"the opening stock price was $21; after the trading day, the price closed at $27.75.",Microsoft_chunk_14,Microsoft
+Microsoft,STOCK_SPLITS,288,"with the company's nine stock splits, any IPO shares would be multiplied by 288.",Microsoft_chunk_14,Microsoft
+Microsoft,STOCK_PRICE_PEAKED_AT,$119,"The stock price peaked in 1999 at around $119 ($60.928, adjusting for splits).",Microsoft_chunk_14,Microsoft
+Microsoft,BEGAN_TO_OFFER,dividend,"Microsoft began to offer a dividend on January 16, 2003.",Microsoft_chunk_14,Microsoft
+Microsoft,DIVIDEND_AMOUNT,eight cents per share,starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year.,Microsoft_chunk_14,Microsoft
+Microsoft,SWITCHED_TO,quarterly dividends,switching from yearly to quarterly dividends in 2005.,Microsoft_chunk_14,Microsoft
+Microsoft,ASSETS_VALUE,$41 billion,whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt.,Microsoft_chunk_14,Microsoft
+Microsoft,RELEASED,corporate bond,in February 2011 Microsoft released a corporate bond amounting to $2.25 billion.,Microsoft_chunk_14,Microsoft
+Microsoft,PROFITS,$5.2 billion,"Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion.",Microsoft_chunk_14,Microsoft
+Microsoft,POSTED,first quarterly loss,"On July 20, 2012, Microsoft posted its first quarterly loss ever.",Microsoft_chunk_14,Microsoft
+Microsoft,POSTED_LOSS,$492 million,"On July 20, 2012, Microsoft posted its first quarterly loss ever, with a net loss of $492 million",Microsoft_chunk_15,Microsoft
+Microsoft,MARKET_CAPITALIZATION,$314B,"As of January 2014, Microsoft's market capitalization stood at $314B",Microsoft_chunk_15,Microsoft
+Microsoft,RANKED,8th-largest company,making it the 8th-largest company in the world by market capitalization,Microsoft_chunk_15,Microsoft
+Microsoft,OVERTOOK,ExxonMobil,"In November 2014, Microsoft overtook ExxonMobil to become the second most-valuable company by market capitalization",Microsoft_chunk_15,Microsoft
+Microsoft,MARKET_VALUE,over $410B,Its total market value was over $410B,Microsoft_chunk_15,Microsoft
+Microsoft,STOCK_PRICE,$50.04,the stock price hitting $50.04 a share,Microsoft_chunk_15,Microsoft
+Microsoft,EARNINGS_ABROAD,$76.4 billion,"In 2015, Reuters reported that Microsoft had earnings abroad of $76.4 billion",Microsoft_chunk_15,Microsoft
+Microsoft,WON_CONTRACT,$480 million military contract,"In November 2018, the company won a $480 million military contract with the U.S. government",Microsoft_chunk_15,Microsoft
+Microsoft,EMPLOYS,over 40 thousand people,Microsoft employed over 40 thousand people in marketing and sales,Microsoft_chunk_15,Microsoft
+Microsoft,SPENT_ON_MARKETING,over 25 billion dollars,"In FY 2025, Microsoft spent over 25 billion dollars on marketing",Microsoft_chunk_15,Microsoft
+Microsoft,SPENT_ON_R&D,over 30 billion dollars,compared to over 30 billion dollars spent on research and development,Microsoft_chunk_15,Microsoft
+Microsoft,SPENT_ON,marketing,"spent over 25 billion dollars on marketing, or over 15 % of its expenses",Microsoft_chunk_16,Microsoft
+Microsoft,SPENT_ON,research and development,over 30 billion dollars spent on research and development,Microsoft_chunk_16,Microsoft
+Microsoft,EMPLOYS,40 thousand people,Microsoft employed over 40 thousand people in marketing and sales,Microsoft_chunk_16,Microsoft
+Microsoft,COMMISSIONED,research firms,Microsoft commissioned research firms to do independent studies,Microsoft_chunk_16,Microsoft
+Microsoft,ANNOUNCED,"layoffs of 18,000 employees","Microsoft announced plans to lay off 18,000 employees",Microsoft_chunk_16,Microsoft
+Microsoft,EMPLOYS,"127,104 people","Microsoft employed 127,104 people as of June 5, 2014",Microsoft_chunk_16,Microsoft
+Microsoft,REDUCED_WORKFORCE_BY,14 percent,making this about a 14 percent reduction of its workforce,Microsoft_chunk_16,Microsoft
+Microsoft,INCLUDED,"12,500 professional and factory personnel","This included 12,500 professional and factory personnel",Microsoft_chunk_16,Microsoft
+Microsoft,ELIMINATED,"5,800 jobs","Microsoft had eliminated 5,800 jobs in 2009",Microsoft_chunk_16,Microsoft
+Microsoft,LAID_OFF,"2,100 people","In September 2014, Microsoft laid off 2,100 people",Microsoft_chunk_16,Microsoft
+Microsoft,LAID_OFF,"15,000 employees","This brought the total number to over 15,000 out of the 18,000 expected cuts",Microsoft_chunk_16,Microsoft
+Microsoft,REVEALED,largest-ever layoff sweep,"Microsoft revealed that it was almost done with eliminating 18,000 employees, which was its largest-ever layoff sweep",Microsoft_chunk_16,Microsoft
+Microsoft,ANNOUNCED,"7,800 job cuts","In July 2015, Microsoft announced another 7,800 job cuts",Microsoft_chunk_16,Microsoft
+Microsoft,ANNOUNCED,"1,850 job cuts","In May 2016, Microsoft announced another 1,850 job cuts",Microsoft_chunk_16,Microsoft
+Microsoft,RECORDED,impairment and restructuring charge of approximately $950 million,the company will record an impairment and restructuring charge of approximately $950 million,Microsoft_chunk_16,Microsoft
+Microsoft,LAID_OFF,"1,900 employees","Microsoft laid off 1,900 employees in its gaming division in January 2024",Microsoft_chunk_16,Microsoft
+Brockman,RETURNED_TO,OpenAI,"On November 21, 2023, after continued negotiations, Altman and Brockman returned to the company in their prior roles.",OpenAI_chunk_15,OpenAI
+Nvidia,GIFTED,DGX-1 supercomputer,Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.,OpenAI_chunk_1,OpenAI
+Nvidia,PROVIDES,AI expertise,"Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",Microsoft_chunk_11,Microsoft
+OpenAI LP,OWNED_BY,"OpenAI, Inc.","The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc., OpenAI employees, and investors.",OpenAI_chunk_2,OpenAI
+"OpenAI, Inc.",HAS_FIDUCIARY_RESPONSIBILITY_TO,OpenAI LP,"OpenAI LP, which retained a formal fiduciary responsibility to OpenAI, Inc.'s nonprofit charter.",OpenAI_chunk_2,OpenAI
+OpenAI GP LLC,CONTROLLED_BY,"OpenAI, Inc.","The nonprofit OpenAI, Inc., controlled OpenAI GP LLC, which in turn controlled OpenAI LP and OpenAI Global, LLC.",OpenAI_chunk_2,OpenAI
+OpenAI's services,MIGRATED_TO,Microsoft Azure,OpenAI's services were migrated to Microsoft Azure.,OpenAI_chunk_2,OpenAI
+Microsoft Azure,INTRODUCED,Azure Multi-Factor Authentication,"In November 2018, Microsoft introduced Azure Multi-Factor Authentication for Microsoft Azure.",Microsoft_chunk_8,Microsoft
+OpenAI Foundation,OWNS,26% stake in OpenAI Group PBC,The OpenAI Foundation holds a 26% stake in the PBC,OpenAI_chunk_3,OpenAI
+OpenAI Group PBC,PART_OF,OpenAI Foundation,All members of the OpenAI Group PBC board of directors are to be appointed by the OpenAI Foundation,OpenAI_chunk_3,OpenAI
+OpenAI Group PBC,LOCATED_IN,California,OpenAI announced that it had adopted the new PBC corporate structure after receiving approval from the attorneys general of California and Delaware,OpenAI_chunk_3,OpenAI
+Musk,RELATED_TO,OpenAI,co-founder Musk revised his lawsuit against OpenAI and Altman,OpenAI_chunk_3,OpenAI
+Musk,RESIGNED_FROM,OpenAI Board of Directors,"In 2018, Musk resigned from his Board of Directors seat, citing 'a potential future conflict [of interest]' with his role as CEO of Tesla.",OpenAI_chunk_15,OpenAI
+Musk,AMENDED_FILING_TO_DEMAND,undo transition to for-profit,"Musk amended his filing in April 7, 2026, to demand that OpenAI undo its transition from a non-profit to a for-profit corporate structure.",OpenAI_chunk_20,OpenAI
+Windows,RESULTS_IN,lower TCO,those using Windows would administrate faster resulting in lower costs for their company (i.e. lower TCO),Microsoft_chunk_16,Microsoft
+The Stargate Project,PART_OF,OpenAI,"Donald Trump announced The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX...",OpenAI_chunk_5,OpenAI
+The Stargate Project,RELATED_TO,US government,to build an AI infrastructure system in conjunction with the US government.,OpenAI_chunk_5,OpenAI
+DeepMind,HAD_TOTAL_EXPENSES,$442 million,"In comparison, DeepMind's total expenses in 2017 were $442 million.",OpenAI_chunk_4,OpenAI
+SoftBank,LED,financing round,"The financing round was led by SoftBank, with other participants including Microsoft, Coatue, Altimeter and Thrive.",OpenAI_chunk_5,OpenAI
+ChatGPT subscriptions,REACHED,20 million paid subscribers,which reached 20 million paid subscribers by April 2025...,OpenAI_chunk_5,OpenAI
+Amazon,PARTICIPATED_IN,funding round,"led by Amazon ($50 billion), SoftBank ($30 billion), and Nvidia ($30 billion)...",OpenAI_chunk_5,OpenAI
+SaaS,PART_OF,Freemium model,Freemium SaaS models are designed to convert free users into paying customers.,OpenAI_chunk_6,OpenAI
+ChatGPT Plus,PART_OF,SaaS,advanced capabilities are offered through paid plans such as ChatGPT Plus.,OpenAI_chunk_6,OpenAI
+generative AI adoption,RELATED_TO,investor expectations,suggesting that generative AI adoption has been associated with investor expectations of productivity and revenue effects.,OpenAI_chunk_6,OpenAI
+freemium AI platforms,DEPEND_ON,enterprise integration,The sustainability of freemium AI platforms has been linked in academic literature to continued enterprise integration across sectors.,OpenAI_chunk_6,OpenAI
+io,FOUNDED_BY,Jony Ive,AI hardware start-up founded by former Apple designer Jony Ive,OpenAI_chunk_7,OpenAI
+Vijaye Raji,APPOINTED_AS,chief technology officer of applications,appointed Statsig's founding CEO Vijaye Raji as OpenAI's chief technology officer of applications.,OpenAI_chunk_8,OpenAI
+Sky,PART_OF,OpenAI,The Sky team joined OpenAI.,OpenAI_chunk_8,OpenAI
+Sky,INTEGRATED_INTO,ChatGPT,the company announced plans to integrate Sky's capabilities into ChatGPT.,OpenAI_chunk_8,OpenAI
+Sama,LOCATED_IN,San Francisco,a company based in San Francisco that employed workers in Kenya.,OpenAI_chunk_8,OpenAI
+Arizona State University,PURCHASED,ChatGPT Enterprise,"In January 2024, Arizona State University purchased ChatGPT Enterprise in OpenAI's first deal with a university.",OpenAI_chunk_9,OpenAI
+Apple Inc.,SIGNED_CONTRACT_WITH,OpenAI,"In June 2024, Apple Inc. signed a contract with OpenAI to integrate ChatGPT features into its products as part of its new Apple Intelligence initiative.",OpenAI_chunk_9,OpenAI
+Apple Inc.,SURPASSED,Microsoft,For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues.,Microsoft_chunk_14,Microsoft
+Disney,INVESTED_IN,OpenAI,"In December 2025, Disney said it would make a $1 billion investment in OpenAI.",OpenAI_chunk_9,OpenAI
+Kevin Weil,COMMISSIONED_BY,U.S. Army,"OpenAI's Chief Product Officer, Kevin Weil, was commissioned lieutenant colonel in the U.S. Army to join Detachment 201 as senior advisor.",OpenAI_chunk_10,OpenAI
+Kevin Weil,POSITION,Chief Product Officer,Chief Product Officer: Kevin Weil.,OpenAI_chunk_13,OpenAI
+DoD,AWARDED,OpenAI,the DoD awarded OpenAI a $200 million one-year contract to develop AI tools for military and national security applications.,OpenAI_chunk_10,OpenAI
+GPT-3,AIMED_AT,natural language answering questions,"GPT-3 is aimed at natural language answering questions, but it can also translate between languages and coherently generate improvised text.",OpenAI_chunk_11,OpenAI
+Eleven employees,LEFT,OpenAI,"Eleven employees left OpenAI, mostly between December 2020 and January 2021, in order to establish Anthropic.",OpenAI_chunk_11,OpenAI
+DALL-E,BASED_ON,GPT-3 architecture,utilizing a variant of the GPT-3 architecture.,OpenAI_chunk_11,OpenAI
+Google,ANNOUNCED,Bard,"After ChatGPT was launched, Google announced a similar chatbot, Bard.",OpenAI_chunk_11,OpenAI
+Operator,AVAILABLE_TO,Pro users in the United States,The feature was only available to Pro users in the United States.,OpenAI_chunk_12,OpenAI
+deep research agent,SCORED,27% accuracy,It scored a 27% accuracy on the benchmark Humanity's Last Exam (HLE).,OpenAI_chunk_12,OpenAI
+Altman,STATED,GPT-4.5 would be the last model without full chain-of-thought reasoning,Altman later stated GPT-4.5 would be the last model without full chain-of-thought reasoning.,OpenAI_chunk_12,OpenAI
+Altman,CONSIDERED_STARTING,a new company,he has since stated that he considered starting a new company and bringing former OpenAI employees with him.,OpenAI_chunk_14,OpenAI
+Altman,RETURNED_TO,OpenAI,"On November 21, 2023, after continued negotiations, Altman and Brockman returned to the company in their prior roles.",OpenAI_chunk_15,OpenAI
+Agent Builder platform,INCLUDES,visual drag-and-drop interface for agentic workflows,The platform includes a visual drag-and-drop interface for agentic workflows.,OpenAI_chunk_12,OpenAI
+study,FOUND,non-work tasks account for more than 72 percent of all ChatGPT usage,The study found that 'non-work tasks' (according to an LLM-based classifier) account for more than 72 percent of all ChatGPT usage.,OpenAI_chunk_12,OpenAI
+Jakub Pachocki,POSITION,Chief Scientist Officer,Chief Scientist Officer: Jakub Pachocki.,OpenAI_chunk_13,OpenAI
+Jakub Pachocki,RESIGNED_FROM,director of research,Three senior OpenAI researchers subsequently resigned: director of research and GPT-4 lead Jakub Pachocki.,OpenAI_chunk_14,OpenAI
+Jakub Pachocki,SUCCEEDED,Ilya Sutskever,Ilya Sutskever resigned and was succeeded by Jakub Pachocki.,OpenAI_chunk_15,OpenAI
+Brad Lightcap,POSITION,Chief Operating Officer,Chief Operating Officer: Brad Lightcap.,OpenAI_chunk_13,OpenAI
+Brad Lightcap,TRANSITIONED_TO,Special Projects,Brad Lightcap transitioned from his role as Chief Operating Officer to lead 'special projects' focused on complex deals.,OpenAI_chunk_16,OpenAI
+Sarah Friar,POSITION,Chief Financial Officer,Chief Financial Officer: Sarah Friar.,OpenAI_chunk_13,OpenAI
+Mark Chen,POSITION,Chief Research Officer,Chief Research Officer: Mark Chen.,OpenAI_chunk_13,OpenAI
+Scott Schools,POSITION,Chief Compliance Officer,Chief Compliance Officer: Scott Schools.,OpenAI_chunk_13,OpenAI
+Chris Lehane,POSITION,Chief Global Affairs Officer,Chief Global Affairs Officer: Chris Lehane.,OpenAI_chunk_13,OpenAI
+Aaron Chatterji,POSITION,Chief Economist,Chief Economist: Aaron Chatterji.,OpenAI_chunk_13,OpenAI
+Fidji Simo,POSITION,CEO of Applications,CEO of Applications: Fidji Simo.,OpenAI_chunk_13,OpenAI
+Fidji Simo,TOOK_LEAVE,OpenAI,"In April 2026, OpenAI's head of AGI deployment, Fidji Simo, said she would take 'several weeks' of medical leave.",OpenAI_chunk_16,OpenAI
+Bret Taylor,POSITION,Chairman of the board of directors,Board of directors of the OpenAI nonprofit Bret Taylor (chairman).,OpenAI_chunk_13,OpenAI
+Bret Taylor,PART_OF,OpenAI board,"a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining.",OpenAI_chunk_15,OpenAI
+Adam D'Angelo,POSITION,co-founder and CEO of Quora,"Adam D'Angelo, co-founder and CEO of Quora.",OpenAI_chunk_13,OpenAI
+Sue Desmond-Hellmann,POSITION,former CEO of the Bill & Melinda Gates Foundation,"Sue Desmond-Hellmann, former CEO of the Bill & Melinda Gates Foundation.",OpenAI_chunk_13,OpenAI
+Nicole Seligman,POSITION,former executive vice president of the Sony Corporation,"Nicole Seligman, attorney and former executive vice president of the Sony Corporation.",OpenAI_chunk_13,OpenAI
+Paul Nakasone,POSITION,former Director of the National Security Agency,"Paul Nakasone, former Director of the National Security Agency (2018–2024).",OpenAI_chunk_13,OpenAI
+Paul Nakasone,JOINED,OpenAI board,Paul Nakasone then joined the board of OpenAI.,OpenAI_chunk_15,OpenAI
+Zico Kolter,POSITION,computer scientist,"Zico Kolter, computer scientist.",OpenAI_chunk_13,OpenAI
+Adebayo Ogunlesi,POSITION,managing partner at Global Infrastructure Partners,"Adebayo Ogunlesi, managing partner at Global Infrastructure Partners.",OpenAI_chunk_13,OpenAI
+Peter Thiel,ROLE,PayPal co-founder,"Peter Thiel, PayPal co-founder.",OpenAI_chunk_13,OpenAI
+Jessica Livingston,ROLE,founding partner,"Jessica Livingston, a founding partner of Y.",OpenAI_chunk_13,OpenAI
+Mira Murati,TOOK_OVER_AS,interim CEO,Chief Technology Officer Mira Murati took over as interim CEO.,OpenAI_chunk_14,OpenAI
+Mira Murati,LEFT,OpenAI,"In September 2024, CTO Mira Murati left the company.",OpenAI_chunk_16,OpenAI
+Dario Amodei,CEO_OF,Anthropic,The board initially contacted Anthropic CEO Dario Amodei about replacing Altman.,OpenAI_chunk_14,OpenAI
+OpenAI investors,CONSIDERED,legal action against the board,This prompted OpenAI investors to consider legal action against the board as well.,OpenAI_chunk_14,OpenAI
+OpenAI investors,CONSIDERED,legal action,This prompted OpenAI investors to consider legal action against the board as well.,OpenAI_chunk_15,OpenAI
+Sutskever,SIGNED,open letter,"Sutskever, signed an open letter stating they would quit their jobs and join Microsoft if the board did not rehire Altman and then resign.",OpenAI_chunk_15,OpenAI
+OpenAI management,SENT,internal memo,"In response, OpenAI management sent an internal memo to employees stating that negotiations with Altman and the board had resumed and would take some time.",OpenAI_chunk_15,OpenAI
+Lawrence Summers,RESIGNED_FROM,OpenAI board,"In November 2025, Lawrence Summers resigned from the board of directors.",OpenAI_chunk_15,OpenAI
+Lawrence Summers,RESIGNED_FROM,OpenAI Board of Directors,"In November 2025, Lawrence Summers resigned from the board of directors.",OpenAI_chunk_16,OpenAI
+D'Angelo,PART_OF,OpenAI board,"a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining.",OpenAI_chunk_15,OpenAI
+Microsoft employee,JOINED,OpenAI board,"On November 29, 2023, OpenAI announced that an anonymous Microsoft employee had joined the board as a non-voting member.",OpenAI_chunk_15,OpenAI
+Securities and Exchange Commission,SUBPOENAED,OpenAI's internal communication,"In February 2024, the Securities and Exchange Commission subpoenaed OpenAI's internal communication.",OpenAI_chunk_15,OpenAI
+Reid Hoffman,RESIGNED_FROM,OpenAI board,"On March 3, 2023, Reid Hoffman resigned from his board seat.",OpenAI_chunk_15,OpenAI
+Hoffman,REMAINS_ON,Microsoft board,"Hoffman remained on the board of Microsoft, a major investor in OpenAI.",OpenAI_chunk_15,OpenAI
+Jan Leike,DEPARTED_FROM,OpenAI,Co-leader Jan Leike also departed amid concerns over safety and trust.,OpenAI_chunk_15,OpenAI
+Denise Dresser,ASSUMED_DUTIES_OF,Brad Lightcap,"Denise Dresser, the company's Chief Revenue Officer, temporarily assumed several of Lightcap's previous operational duties.",OpenAI_chunk_16,OpenAI
+FTC,LAUNCHED_INVESTIGATION_INTO,OpenAI,"In July 2023, the FTC launched an investigation into OpenAI over allegations that the company scraped public data and published false and defamatory information.",OpenAI_chunk_16,OpenAI
+DeepSeek,DISRUPTED,AI market,"This shift comes in response to the growing influence of the Chinese artificial intelligence company DeepSeek, which has disrupted the AI market with open models, including DeepSeek V3 and DeepSeek R1.",OpenAI_chunk_17,OpenAI
+Public Citizen,OPPOSED,federal preemption on AI,Public Citizen opposed a federal preemption on AI and pointed to OpenAI's growth and valuation as evidence that existing state laws have not hampered innovation.,OpenAI_chunk_17,OpenAI
+Daniel Kokotajlo,FORFEITED,vested equity in OpenAI,"Daniel Kokotajlo, a former employee, publicly stated that he forfeited his vested equity in OpenAI in order to leave without signing the agreement.",OpenAI_chunk_17,OpenAI
+Authors Guild,FILED_LAWSUIT,OpenAI,"In September 2023, 17 authors, including George R. R. Martin, John Grisham, Jodi Picoult and Jonathan Franzen, joined the Authors Guild in filing a class action lawsuit against OpenAI.",OpenAI_chunk_18,OpenAI
+The New York Times,SUED,OpenAI and Microsoft,other publications like The New York Times chose to sue OpenAI and Microsoft for copyright infringement,OpenAI_chunk_19,OpenAI
+Books1 and Books2 training datasets,USED_IN,training of GPT-3,which were used in the training of GPT-3.,OpenAI_chunk_18,OpenAI
+The Intercept,FILED_LAWSUIT,OpenAI,"In February 2024, The Intercept as well as Raw Story and Alternate Media Inc. filed lawsuit against OpenAI on copyright litigation ground.",OpenAI_chunk_18,OpenAI
+eight newspapers,FILED_LAWSUIT,OpenAI and Microsoft,"On April 30, 2024, eight newspapers filed a lawsuit in the Southern District of New York against OpenAI and Microsoft.",OpenAI_chunk_18,OpenAI
+Canadian news outlets,SUED,OpenAI,a coalition of Canadian news outlets...sued OpenAI for using their news articles to train its software without permission,OpenAI_chunk_19,OpenAI
+Suchir Balaji,ACCUSED,OpenAI,Suchir Balaji accused OpenAI of violating copyright law in developing its commercial LLMs,OpenAI_chunk_19,OpenAI
+Suchir Balaji,DIED_BY,suicide,"On November 26, 2024, Balaji died by suicide",OpenAI_chunk_19,OpenAI
+Ro Khanna,ENDORSED,calls for an investigation,California Congressman Ro Khanna endorsed calls for an investigation,OpenAI_chunk_19,OpenAI
+Ziff Davis,SUED,OpenAI,"On April 24, 2025, Ziff Davis sued OpenAI in Delaware federal court for copyright infringement",OpenAI_chunk_19,OpenAI
+Ziff Davis,KNOWN_FOR,"publications such as ZDNet, PCMag, CNET, IGN and Lifehacker","Ziff Davis is known for publications such as ZDNet, PCMag, CNET, IGN and Lifehacker",OpenAI_chunk_19,OpenAI
+European Data Protection Board,FORMED,task force on ChatGPT,the EU's European Data Protection Board (EDPB) formed a dedicated task force on ChatGPT,OpenAI_chunk_19,OpenAI
+Raine v. OpenAI,FILED_IN,California state court in San Francisco,The complaint was filed in California state court in San Francisco.,OpenAI_chunk_20,OpenAI
+Social Media Victims Law Center,FILED_LAWSUITS_AGAINST,OpenAI,"In November 2025, the Social Media Victims Law Center and Tech Justice Law Project filed seven lawsuits against OpenAI.",OpenAI_chunk_20,OpenAI
+Zane Shamblin,COMMITTED_SUICIDE_AFTER,ChatGPT usage,"the suits were filed on behalf of Zane Shamblin, 23, of Texas; Amaurie Lacey, 17, of Georgia; Joshua Enneking, 26, of Florida; and Joe Ceccanti, 48, of Oregon, who each committed suicide after prolonged ChatGPT usage.",OpenAI_chunk_21,OpenAI
+stalking lawsuit,RELATED_TO,AI companies,The case has been cited as part of growing legal and public debate over the responsibility of AI companies to address harmful or abusive uses of their systems.,OpenAI_chunk_22,OpenAI
+Microsoft Corporation,LOCATED_IN,"Redmond, Washington","Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington.",Microsoft_chunk_0,Microsoft
+Microsoft Corporation,CREATED_BY,Bill Gates and Paul Allen,Founded in 1975 by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,PART_OF,Big Tech,"A Big Tech company, Microsoft is the largest software company by revenue.",Microsoft_chunk_0,Microsoft
+Microsoft Corporation,DEVELOPED_BY,MS-DOS,Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,DEVELOPED_BY,Windows,"Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s, followed by Windows.",Microsoft_chunk_0,Microsoft
+Microsoft Corporation,RELEASED,9 versions of MS-DOS,From 1980 to 2021 Microsoft released 9 versions of MS-DOS.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,RELEASED,13 versions of Windows,From 1980 to 2021 Microsoft released 13 versions of Windows.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,CREATED,"three billionaires and an estimated 12,000 millionaires","The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees.",Microsoft_chunk_0,Microsoft
+Microsoft Corporation,ACQUIRED,Skype Technologies,He oversaw the then-largest of Microsoft's corporate acquisitions in Skype Technologies in 2011.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,LAUNCHED,Surface,an increased focus on hardware that led to its first in-house PC line—the Surface—in 2012.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,FORMED,Microsoft Mobile,the formation of Microsoft Mobile through Nokia.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,ACQUIRED,LinkedIn,acquired LinkedIn in 2016.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,EXPANDED,video gaming business,the company has expanded its video gaming business to support the Xbox brand.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,ESTABLISHED,Microsoft Gaming division,establishing the Microsoft Gaming division in 2022.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,ACQUIRED,Activision Blizzard,acquiring Activision Blizzard in 2023.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,DOMINANT_IN,IBM PC–compatible operating system and office software suite markets,Microsoft has been dominant in the IBM PC–compatible operating system and office software suite markets since the 1990s.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,PROVIDES,Azure cloud computing platform,Microsoft most notably provides the Azure cloud computing platform.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,PROVIDES,Microsoft SQL Server database software,Microsoft most notably provides Microsoft SQL Server database software.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,PROVIDES,Visual Studio,Microsoft most notably provides Visual Studio.,Microsoft_chunk_0,Microsoft
+Microsoft Corporation,VALUED_AT,$1 trillion,Microsoft became the third publicly traded U.S. company to be valued at over $1 trillion in April 2019.,Microsoft_chunk_0,Microsoft
+MS-DOS,OWNED_BY,Microsoft,Microsoft retained ownership of MS-DOS following the release of the IBM PC in August 1981.,Microsoft_chunk_1,Microsoft
+Steve Ballmer,FOUNDED_BY,Bill Gates,an old college friend of Gates and employee of the company since 1980.,Microsoft_chunk_3,Microsoft
+Steve Ballmer,STEPS_DOWN_AS,CEO of Microsoft,"On February 4, 2014, Steve Ballmer stepped down as CEO of Microsoft.",Microsoft_chunk_6,Microsoft
+Bill Gates,FOUNDED_BY,Traf-O-Data,"In 1972, they founded Traf-O-Data.",Microsoft_chunk_1,Microsoft
+Bill Gates,HANDED_OVER,CEO position,"On January 13, 2000, Bill Gates handed over the CEO position to Steve Ballmer.",Microsoft_chunk_3,Microsoft
+Bill Gates,CHIEF_EXECUTIVE_OF,Microsoft,Chief executives Bill Gates (1975–2000) Steve Ballmer (2000–2014) Satya Nadella (2014–present),Microsoft_chunk_14,Microsoft
+Surface,UNVEILED_IN,June 2012,The Surface was unveiled in June 2012,Microsoft_chunk_5,Microsoft
+Satya Nadella,BECAME,CEO,Since Satya Nadella became CEO in 2014.,Microsoft_chunk_0,Microsoft
+Satya Nadella,SUCCEEDED,Steve Ballmer,was succeeded by Satya Nadella.,Microsoft_chunk_6,Microsoft
+Satya Nadella,ANNOUNCED,Sam Altman and Greg Brockman,"On November 20, 2023, Satya Nadella announced that Sam Altman... and Greg Brockman... would join Microsoft to lead a new advanced AI research team.",Microsoft_chunk_11,Microsoft
+Microsoft Gaming division,FOUNDED_BY,Phil Spencer,"Microsoft also named Phil Spencer, head of the Xbox brand since 2014, the inaugural CEO of the newly established Microsoft Gaming division.",Microsoft_chunk_10,Microsoft
+Activision Blizzard,RELATED_TO,Bobby Kotick,"reports have alleged that Activision CEO Bobby Kotick, a major target of the controversy, would leave the company after the acquisition is finalized.",Microsoft_chunk_10,Microsoft
+Activision Blizzard,AFFECTED_BY,layoffs,The layoffs primarily affected Activision Blizzard employees,Microsoft_chunk_16,Microsoft
+Traf-O-Data,PART_OF,Microsoft,"In 1972, they founded Traf-O-Data, which sold a rudimentary computer to track and analyze automobile traffic data.",Microsoft_chunk_1,Microsoft
+Paul Allen,RESIGNED_FROM,Microsoft,Paul Allen resigned from Microsoft in 1983 after developing Hodgkin's lymphoma.,Microsoft_chunk_2,Microsoft
+IBM,AWARDED,contract to Microsoft,IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M OS to be used in the IBM Personal Computer (IBM PC).,Microsoft_chunk_1,Microsoft
+IBM,COPYRIGHTED,IBM PC BIOS,IBM had copyrighted the IBM PC BIOS.,Microsoft_chunk_2,Microsoft
+Windows 1.0,PART_OF,MS-DOS,as a graphical extension for MS-DOS.,Microsoft_chunk_2,Microsoft
+Federal Trade Commission,EXAMINED,Microsoft,the Federal Trade Commission examined Microsoft for possible collusion due to the partnership with IBM.,Microsoft_chunk_2,Microsoft
+Microsoft Windows NT,BASED_ON,OS/2 code,which was heavily based on its copy of the OS/2 code.,Microsoft_chunk_2,Microsoft
+Microsoft Windows NT,SHIPPED_ON,"July 21, 1993","It shipped on July 21, 1993.",Microsoft_chunk_2,Microsoft
+Microsoft Office,BUNDLED,Microsoft Word and Microsoft Excel,which bundled separate applications such as Microsoft Word and Microsoft Excel.,Microsoft_chunk_2,Microsoft
+Windows 3.0,FEATURED,streamlined user interface graphics,featuring streamlined user interface graphics and improved protected mode capability for the Intel 386 processor.,Microsoft_chunk_2,Microsoft
+Department of Justice's Antitrust Division,FILED,competitive impact statement,the Department of Justice's Antitrust Division filed a competitive impact statement.,Microsoft_chunk_2,Microsoft
+Windows 95,FEATURES,pre-emptive multitasking,"Windows 95 featuring pre-emptive multitasking, a completely new user interface with a novel start button, and 32-bit compatibility.",Microsoft_chunk_3,Microsoft
+Windows 95,BUNDLED_WITH,MSN,Windows 95 came bundled with the online service MSN.,Microsoft_chunk_3,Microsoft
+MSNBC,RUN_AS,joint venture with NBC,which it had run as a joint venture with NBC since 1996.,Microsoft_chunk_6,Microsoft
+Windows XP,PART_OF,NT codebase,unifying the mainstream and NT lines of OS under the NT codebase.,Microsoft_chunk_4,Microsoft
+Xbox,ENTERED,video game console market,entering the video game console market dominated by Sony and Nintendo.,Microsoft_chunk_4,Microsoft
+Xbox,AFFECTED_BY,layoffs,some Xbox and ZeniMax employees were also affected,Microsoft_chunk_16,Microsoft
+European Union,BROUGHT,antitrust legal action,In March 2004 the European Union brought antitrust legal action against the company.,Microsoft_chunk_4,Microsoft
+European Union,IMPOSED,fine of €899 million,The European Union imposed another fine of €899 million for Microsoft's lack of compliance.,Microsoft_chunk_4,Microsoft
+Zune series,SUCCESSOR_OF,Portable Media Center,a successor of its previous software platform Portable Media Center.,Microsoft_chunk_4,Microsoft
+Microsoft Office 2007,FEATURED,Ribbon user interface,"Microsoft Office 2007, released at the same time, featured a 'Ribbon' user interface.",Microsoft_chunk_4,Microsoft
+Gates,RETIRED_FROM,Chief Software Architect,"Gates retired from his role as Chief Software Architect on June 27, 2008.",Microsoft_chunk_4,Microsoft
+Gates,LEFT,board of directors of Microsoft,"On March 13, 2020, Gates announced that he is leaving the board of directors of Microsoft",Microsoft_chunk_13,Microsoft
+Azure Services Platform,LAUNCHED,cloud computing market,"Azure Services Platform, the company's entry into the cloud computing market for Windows, launched on October 27, 2008.",Microsoft_chunk_4,Microsoft
+Microsoft Store,OPENED_IN,"Scottsdale, Arizona","the first retail Microsoft Store opened in Scottsdale, Arizona",Microsoft_chunk_5,Microsoft
+Windows 7,RELEASED_ON,"October 22, 2009",the same day Windows 7 was officially released to the public,Microsoft_chunk_5,Microsoft
+Windows Mobile,REPLACED_BY,Windows Phone OS,"Microsoft revamped its aging flagship mobile operating system, Windows Mobile, replacing it with the new Windows Phone OS",Microsoft_chunk_5,Microsoft
+Windows Phone OS,USES,Metro design language,"It used a new user interface design language, codenamed 'Metro'",Microsoft_chunk_5,Microsoft
+Open Networking Foundation,FOCUSED_ON,Software-Defined Networking,This nonprofit organization is focused on providing support for a cloud computing initiative called Software-Defined Networking,Microsoft_chunk_5,Microsoft
+Windows 8,UNVEILED_IN,June 2011,"Microsoft unveiled Windows 8, an operating system designed to power both personal computers and tablet computers, in Taipei in June 2011",Microsoft_chunk_5,Microsoft
+Skype,SHUTTING_DOWN_ON,"May 5, 2025","Microsoft announced that Skype would be shutting down on May 5, 2025.",Microsoft_chunk_12,Microsoft
+New York City Police Department,PARTNERED_WITH,Microsoft,the New York City Police Department announced a partnership with Microsoft.,Microsoft_chunk_6,Microsoft
+Domain Awareness System,USED_FOR,police surveillance in New York City,for the development of the Domain Awareness System which is used for police surveillance in New York City.,Microsoft_chunk_6,Microsoft
+Kinect,MADE_BY,Microsoft,"The Kinect, a motion-sensing input device made by Microsoft.",Microsoft_chunk_6,Microsoft
+Kinect,DESIGNED_AS,video game controller,designed as a video game controller.,Microsoft_chunk_6,Microsoft
+Microsoft Mobile Oy,RENAMED_FROM,Nokia Devices and Services,This new subsidiary was renamed Microsoft Mobile Oy.,Microsoft_chunk_6,Microsoft
+Mojang,BEST_KNOWN_FOR,Minecraft,best known for Minecraft.,Microsoft_chunk_6,Microsoft
+Windows 10,RELEASED_BY,Microsoft,"On July 29, 2015, Windows 10 was released.",Microsoft_chunk_6,Microsoft
+Nadella,BECAME,CEO of Microsoft,"Since Nadella became CEO, the company has changed focus towards cloud computing.",Microsoft_chunk_7,Microsoft
+Phil Spencer,ANNOUNCED,focus on Universal Windows Platform (UWP) apps,with Phil Spencer announcing that Universal Windows Platform (UWP) apps would be the focus for Microsoft's gaming in the future.,Microsoft_chunk_7,Microsoft
+Intune for Education,IS,cloud-based application and device management service,Intune for Education is a new cloud-based application and device management service for the education sector.,Microsoft_chunk_7,Microsoft
+Microsoft Azure Information Protection,AIMS_TO,help enterprises protect their data,It aims to help enterprises protect their data as it moves between servers and devices.,Microsoft_chunk_7,Microsoft
+Azure Government,RELATED_TO,Joint Enterprise Defense Infrastructure (JEDI),The project is dubbed 'Azure Government' and has ties to the Joint Enterprise Defense Infrastructure (JEDI) surveillance program.,Microsoft_chunk_8,Microsoft
+Microsoft Teams,CONVERTED_TO,gratis,"Later in the month, it converted Microsoft Teams to gratis.",Microsoft_chunk_8,Microsoft
+Toyota Tsusho,PARTNERED_WITH,Microsoft,"In August 2018, Toyota Tsusho began a partnership with Microsoft to create fish farming tools using the Microsoft Azure application suite for Internet of things (IoT) technologies related to water management.",Microsoft_chunk_8,Microsoft
+Water pump mechanisms,DEVELOPED_BY,Kindai University researchers,"Developed in part by researchers from Kindai University, the water pump mechanisms use artificial intelligence to count the number of fish on a conveyor belt.",Microsoft_chunk_8,Microsoft
+Project Mu,PROMOTES,Firmware as a Service,The project promotes the idea of Firmware as a Service.,Microsoft_chunk_8,Microsoft
+Project Mu,USES,Unified Extensible Firmware Interface (UEFI),an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products.,Microsoft_chunk_9,Microsoft
+Microsoft Edge [Legacy],PART_OF,New Edge,"in favor of the 'New Edge' browser project, featuring a Chromium based backend.",Microsoft_chunk_9,Microsoft
+ZeniMax Media,PART_OF,Xbox Game Studios,the acquisition was finalized at $8.1 billion and ZeniMax Media became part of Microsoft's Xbox Game Studios division.,Microsoft_chunk_9,Microsoft
+Azure Quantum,PROVIDES,access to quantum software and quantum hardware,"The public cloud computing platform provides access to quantum software and quantum hardware including trapped ion, neutral atom, and superconducting systems.",Microsoft_chunk_9,Microsoft
+Windows 11,RELEASED,"October 5, 2021","It was released to the general public on October 5, 2021.",Microsoft_chunk_9,Microsoft
+Azure Quantum Elements,USES,"AI, high-performance computing and quantum computing","using a combination of AI, high-performance computing and quantum computing.",Microsoft_chunk_10,Microsoft
+Azure Quantum Elements,PROVIDES,Copilot,"The service includes Copilot, a GPT-4 based large language model tool.",Microsoft_chunk_10,Microsoft
+Maia chip,DESIGNED_FOR,large language models,"The Maia chip, designed to run large language models.",Microsoft_chunk_10,Microsoft
+Cobalt CPU,DESIGNED_FOR,general cloud services on Azure,"Cobalt CPU, designed to power general cloud services on Azure.",Microsoft_chunk_10,Microsoft
+CrowdStrike's cybersecurity software,CAUSED,Microsoft systems crashing,"The outage was traced back to a flawed update of CrowdStrike's cybersecurity software, which resulted in Microsoft systems crashing.",Microsoft_chunk_11,Microsoft
+BlackRock and Microsoft,ANNOUNCED,$30 billion fund,"In September 2024, BlackRock and Microsoft announced a $30 billion fund.",Microsoft_chunk_11,Microsoft
+Global AI Infrastructure Investment Partnership,FOUNDED_BY,BlackRock and Microsoft,"BlackRock and Microsoft announced a $30 billion fund, the Global AI Infrastructure Investment Partnership.",Microsoft_chunk_11,Microsoft
+AI Infrastructure Investment Partnership,INVESTS_IN,AI infrastructure,"AI Infrastructure Investment Partnership, to invest in AI infrastructure such as data centers and energy projects.",Microsoft_chunk_12,Microsoft
+AI Infrastructure Investment Partnership,PARTNERED_WITH,MGX,"Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",Microsoft_chunk_12,Microsoft
+AI Infrastructure Investment Partnership,PARTNERED_WITH,Nvidia,"Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",Microsoft_chunk_12,Microsoft
+Investments,FOCUSES_ON,U.S.,"Investments will primarily focus on the U.S., with some in partner countries.",Microsoft_chunk_12,Microsoft
+Recall,CHANGED_TO,opt-in feature,Recall was changed to an opt-in feature instead of being default on.,Microsoft_chunk_12,Microsoft
+UK's Information Commissioner's Office,MONITORED,Recall adjustments,The UK's Information Commissioner's Office monitored the situation and noted the adjustments.,Microsoft_chunk_12,Microsoft
+Recall adjustments,INCLUDED,enhanced security measures,which included enhanced security measures like encryption and biometric access.,Microsoft_chunk_12,Microsoft
+Microsoft Rus LLC,FILED_FOR,bankruptcy,"Microsoft's Russian division, Microsoft Rus LLC, filed for bankruptcy after President Vladimir Putin stated that foreign services providers should be throttled in Russia.",Microsoft_chunk_12,Microsoft
+Europol's European Cybercrime Centre,WORKED_WITH,Microsoft,it was reported that Europol's European Cybercrime Centre worked with Microsoft to disrupt Lumma Stealer.,Microsoft_chunk_12,Microsoft
+Microsoft-controlled discussion forums,BANNED,nickname Microslop,"In March 2026, Microsoft-controlled discussion forums banned the nickname Microslop.",Microsoft_chunk_12,Microsoft
+Copilot Cowork tool,BASED_ON,Claude Cowork,which is based on Claude Cowork,Microsoft_chunk_13,Microsoft
+board of directors,ELECTED_BY,majority vote system,Board members are elected every year at the annual shareholders' meeting using a majority vote system,Microsoft_chunk_13,Microsoft
+Microsoft's Online Services Division,HAS_BEEN,loss-making since 2006,Microsoft's Online Services Division has been continuously loss-making since 2006.,Microsoft_chunk_14,Microsoft
+Microsoft's Online Services Division,LOST,$726 million,in Q1 2011 it lost $726 million.,Microsoft_chunk_14,Microsoft
+Services Division,LOSS_MAKING_SINCE,2006,Services Division has been continuously loss-making since 2006,Microsoft_chunk_15,Microsoft
+Services Division,LOST,$726 million,in Q1 2011 it lost $726 million,Microsoft_chunk_15,Microsoft
+Services Division,LOST,$2.5 billion,This follows a loss of $2.5 billion for the year 2010,Microsoft_chunk_15,Microsoft
+aQuantive,ACQUIRED_BY,Microsoft,"due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007",Microsoft_chunk_15,Microsoft
+U.S. law,REGULATES,corporations do not pay income tax on overseas profits,"Under U.S. law, corporations do not pay income tax on overseas profits until the profits are brought into the United States",Microsoft_chunk_15,Microsoft
+augmented reality headset technology,USED_IN,weapon repertoires of American soldiers,to bring augmented reality (AR) headset technology into the weapon repertoires of American soldiers,Microsoft_chunk_15,Microsoft
+Microsoft Canada,ESTABLISHED_BY,Microsoft,"An example is Microsoft Canada, which it established in 1985",Microsoft_chunk_15,Microsoft
+Windows Server 2003,EASIER_TO_ADMINISTRATE_THAN,Linux,the firms concluded that companies found Windows easier to administrate than Linux,Microsoft_chunk_16,Microsoft
+Linux,HAS,lower TCO,its survey concluded that the TCO of Linux was lower,Microsoft_chunk_16,Microsoft
+Yankee Group,CONCLUDED,upgrading costs,a study by the Yankee Group concluded that upgrading from one version of Windows Server to another costs a fraction of the switching costs from Windows Server to Linux,Microsoft_chunk_16,Microsoft
+Linux servers,PROVIDES,increased security and reliability,companies surveyed noted the increased security and reliability of Linux servers,Microsoft_chunk_16,Microsoft
+Microsoft studies,CLAIMED_TO_BE,outdated and one-sided,claimed that the Microsoft studies were 'simply outdated and one-sided',Microsoft_chunk_16,Microsoft
+ZeniMax,AFFECTED_BY,layoffs,some Xbox and ZeniMax employees were also affected,Microsoft_chunk_16,Microsoft

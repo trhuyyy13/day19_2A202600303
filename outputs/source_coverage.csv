@@ -1,0 +1,16 @@
+source_title,chunks,triples,triples_per_chunk,url
+OpenAI,23,328,14.261,https://en.wikipedia.org/wiki/OpenAI
+Microsoft,29,315,10.862,https://en.wikipedia.org/wiki/Microsoft
+Google,32,0,0.0,https://en.wikipedia.org/wiki/Google
+Amazon Web Services,13,0,0.0,https://en.wikipedia.org/wiki/Amazon_Web_Services
+Cloud computing,16,0,0.0,https://en.wikipedia.org/wiki/Cloud_computing
+Artificial intelligence,36,0,0.0,https://en.wikipedia.org/wiki/Artificial_intelligence
+Machine learning,24,0,0.0,https://en.wikipedia.org/wiki/Machine_learning
+Kubernetes,14,0,0.0,https://en.wikipedia.org/wiki/Kubernetes
+Docker (software),5,0,0.0,https://en.wikipedia.org/wiki/Docker_(software)
+PostgreSQL,17,0,0.0,https://en.wikipedia.org/wiki/PostgreSQL
+Python (programming language),17,0,0.0,https://en.wikipedia.org/wiki/Python_(programming_language)
+Microservices,7,0,0.0,https://en.wikipedia.org/wiki/Microservices
+DevOps,7,0,0.0,https://en.wikipedia.org/wiki/DevOps
+GitHub,11,0,0.0,https://en.wikipedia.org/wiki/GitHub
+Linux,18,0,0.0,https://en.wikipedia.org/wiki/Linux

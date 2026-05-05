@@ -1,0 +1,5146 @@
+[
+  {
+    "subject": "OpenAI Global, LLC",
+    "relation": "LOCATED_IN",
+    "object": "San Francisco",
+    "evidence": "headquartered in San Francisco",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "OpenAI Global, LLC",
+    "evidence": "OpenAI developed the generative pre-trained transformer (GPT) family of large language models",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "OpenAI Global, LLC",
+    "evidence": "OpenAI developed the DALL-E series of text-to-image models",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "OpenAI Global, LLC",
+    "evidence": "OpenAI developed the Sora series of text-to-video models",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT",
+    "relation": "CREATED_BY",
+    "object": "OpenAI",
+    "evidence": "Its release of ChatGPT in November 2022",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Elon Musk",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Elon Musk",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Sam Altman",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Sam Altman",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Ilya Sutskever",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Ilya Sutskever",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Greg Brockman",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Greg Brockman",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Trevor Blackwell",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Trevor Blackwell",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Vicki Cheung",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Vicki Cheung",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Andrej Karpathy",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Andrej Karpathy",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Durk Kingma",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Durk Kingma",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "John Schulman",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by John Schulman",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Pamela Vagata",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Pamela Vagata",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Wojciech Zaremba",
+    "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Wojciech Zaremba",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "nonprofit",
+    "evidence": "a 2025 restructuring converted the subsidiary into a PBC that is 26% owned by the nonprofit",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "Microsoft previously invested over $13 billion into OpenAI",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROVIDES",
+    "object": "Azure cloud computing resources",
+    "evidence": "Microsoft...provides Azure cloud computing resources",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "AI research",
+    "evidence": "has influenced industry research and commercial applications",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUPPORTS",
+    "object": "AI safety goals",
+    "evidence": "citing the company's deprioritization of safety goals",
+    "chunk_id": "OpenAI_chunk_0",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Sam Altman",
+    "evidence": "Co-chair Sam Altman expected a decades-long project that eventually surpasses human intelligence.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEFINED_BY",
+    "object": "mission to ensure AGI benefits all of humanity",
+    "evidence": "In its founding charter, OpenAI defined its mission as ensuring that artificial general intelligence (AGI) 'benefits all of humanity'.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LOCATED_IN",
+    "object": "Pioneer Building, Mission District, San Francisco",
+    "evidence": "It was later headquartered at the Pioneer Building in the Mission District, San Francisco.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Brockman",
+    "relation": "PART_OF",
+    "object": "OpenAI",
+    "evidence": "Brockman was able to hire nine of them as the first employees in December 2015.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SPENT",
+    "object": "$7 million on its first 52 employees",
+    "evidence": "Nevertheless, OpenAI spent $7 million on its first 52 employees in 2016.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "OpenAI Gym",
+    "evidence": "In April 2016, OpenAI released a public beta of 'OpenAI Gym', its platform for reinforcement learning research.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "GIFTED",
+    "object": "DGX-1 supercomputer",
+    "evidence": "Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "Universe",
+    "evidence": "In December 2016, OpenAI released 'Universe', a software platform for measuring and training an AI's general intelligence.",
+    "chunk_id": "OpenAI_chunk_1",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "Universe",
+    "evidence": "In December 2016, OpenAI released 'Universe', a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites, and other applications.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "TRANSITIONED_TO",
+    "object": "capped for-profit",
+    "evidence": "In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit, with the profit being capped at 100 times any investment.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FORMED",
+    "object": "OpenAI LP",
+    "evidence": "OpenAI formed three subsidiaries: the holding company OpenAI LP, the holding company OpenAI GP LLC, and the capped for-profit company OpenAI Global, LLC.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI LP",
+    "relation": "OWNED_BY",
+    "object": "OpenAI, Inc.",
+    "evidence": "The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc., OpenAI employees, and investors.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Global, LLC",
+    "relation": "OWNED_BY",
+    "object": "OpenAI LP",
+    "evidence": "OpenAI Global, LLC, was owned by OpenAI LP and Microsoft, the latter of which had a minority non-voting stake.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI GP LLC",
+    "relation": "CONTROLLED_BY",
+    "object": "OpenAI, Inc.",
+    "evidence": "The nonprofit OpenAI, Inc., controlled OpenAI GP LLC, which in turn controlled OpenAI LP and OpenAI Global, LLC.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI LP",
+    "evidence": "Microsoft subsequently invested $1 billion in OpenAI LP.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI's services",
+    "relation": "MIGRATED_TO",
+    "object": "Microsoft Azure",
+    "evidence": "OpenAI's services were migrated to Microsoft Azure.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI, Inc.",
+    "relation": "CONTROLLED_SHAREHOLDER_OF",
+    "object": "OpenAI LP",
+    "evidence": "The 2019 restructuring made the nonprofit OpenAI, Inc., the only controlling shareholder of OpenAI LP.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI, Inc.",
+    "relation": "HAS_FIDUCIARY_RESPONSIBILITY_TO",
+    "object": "OpenAI LP",
+    "evidence": "OpenAI LP, which retained a formal fiduciary responsibility to OpenAI, Inc.'s nonprofit charter.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROPOSED",
+    "object": "restructuring plan",
+    "evidence": "In December 2024, OpenAI proposed a restructuring plan to convert the capped-profit into a Delaware-based public benefit corporation (PBC).",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CLAIMED",
+    "object": "benefits all of humanity",
+    "evidence": "OpenAI's leadership described the change as necessary to secure additional investments, and claimed that the nonprofit's founding mission to ensure AGI 'benefits all of humanity' would be better fulfilled.",
+    "chunk_id": "OpenAI_chunk_2",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "OpenAI Foundation",
+    "evidence": "the nonprofit was renamed to the OpenAI Foundation",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Foundation",
+    "relation": "OWNS",
+    "object": "26% stake in OpenAI Group PBC",
+    "evidence": "The OpenAI Foundation holds a 26% stake in the PBC",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OWNS",
+    "object": "27% stake in OpenAI Group PBC",
+    "evidence": "Microsoft holds a 27% stake and the remaining 47% is owned by employees and other investors",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Group PBC",
+    "relation": "PART_OF",
+    "object": "OpenAI Foundation",
+    "evidence": "All members of the OpenAI Group PBC board of directors are to be appointed by the OpenAI Foundation",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Group PBC",
+    "relation": "LOCATED_IN",
+    "object": "California",
+    "evidence": "OpenAI announced that it had adopted the new PBC corporate structure after receiving approval from the attorneys general of California and Delaware",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "OpenAI Group PBC",
+    "evidence": "the for-profit branch became a public benefit corporation known as OpenAI Group PBC",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Musk",
+    "relation": "RELATED_TO",
+    "object": "OpenAI",
+    "evidence": "co-founder Musk revised his lawsuit against OpenAI and Altman",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "Microsoft announced an additional US$10 billion investment in OpenAI",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUPPORTS",
+    "object": "AGI benefits all of humanity",
+    "evidence": "the nonprofit's founding mission to ensure AGI 'benefits all of humanity'",
+    "chunk_id": "OpenAI_chunk_3",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "Following Microsoft original 2019 investment, the giant invested approximately $3 billion total through 2022.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "US$10 billion investment in OpenAI",
+    "evidence": "On January 23, 2023, Microsoft announced an additional US$10 billion investment in OpenAI vested over multiple years.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "VALUED_AT",
+    "object": "$29 billion",
+    "evidence": "These investments were made at, a $29 billion valuation, double OpenAI's 2021 value.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "USED",
+    "object": "OpenAI models for Copilot",
+    "evidence": "Later that year, Microsoft used OpenAI models for its Copilot chatbot.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INTEGRATED_INTO",
+    "object": "Windows",
+    "evidence": "Microsoft used OpenAI models for its Copilot chatbot, integrated Copilot into Windows.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OWNED_BY",
+    "object": "OpenAI Group PBC",
+    "evidence": "Following OpenAI's 2025 restructuring, Microsoft owned a 27% stake in the for-profit OpenAI Group PBC.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PURCHASED",
+    "object": "$250 billion of Azure services",
+    "evidence": "In a deal announced the same day, OpenAI agreed to purchase $250 billion of Azure services.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SHARES_REVENUE_WITH",
+    "object": "Microsoft",
+    "evidence": "OpenAI will continue to share 20% of its revenue with Microsoft until it achieves AGI.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "Microsoft",
+    "evidence": "The deal also loosened restrictions on both companies working with third parties, allowing Microsoft to pursue AGI independently.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "The Stargate Project",
+    "evidence": "On January 21, 2025, Donald Trump announced The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SPENT_ON",
+    "object": "cloud computing",
+    "evidence": "In 2017, OpenAI spent $7.9 million, a quarter of its functional expenses, on cloud computing alone.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "HAD_TOTAL_EXPENSES",
+    "object": "$442 million",
+    "evidence": "In comparison, DeepMind's total expenses in 2017 were $442 million.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RENTED",
+    "object": "CPUs and GPUs from Google",
+    "evidence": "In the summer of 2018, training OpenAI's Dota 2 bots required renting 128,000 CPUs and 256 GPUs from Google for multiple weeks.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "Microsoft's 2019 investment in OpenAI, totaling $1 billion, reportedly kicked off the 'contemporary AI boom'.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COMPLETED",
+    "object": "$6.6 billion capital raise",
+    "evidence": "In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation including investments from Microsoft, Nvidia, and SoftBank.",
+    "chunk_id": "OpenAI_chunk_4",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COMPLETED",
+    "object": "$6.6 billion capital raise",
+    "evidence": "In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "Microsoft",
+    "evidence": "including investments from Microsoft, Nvidia, and SoftBank.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "Nvidia",
+    "evidence": "including investments from Microsoft, Nvidia, and SoftBank.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "SoftBank",
+    "evidence": "including investments from Microsoft, Nvidia, and SoftBank.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "The Stargate Project",
+    "relation": "PART_OF",
+    "object": "OpenAI",
+    "evidence": "Donald Trump announced The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "The Stargate Project",
+    "relation": "RELATED_TO",
+    "object": "US government",
+    "evidence": "to build an AI infrastructure system in conjunction with the US government.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "Stargate supercomputer project",
+    "evidence": "The project takes its name from OpenAI's existing 'Stargate' supercomputer project...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RECEIVED",
+    "object": "$200 million contract",
+    "evidence": "the United States Department of Defense announced that OpenAI had received a $200 million contract for AI in the military...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "MADE_DEAL_WITH",
+    "object": "UK Government",
+    "evidence": "the company made a deal with the UK Government to use ChatGPT and other AI tools in public services.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "BEGAN",
+    "object": "$50 million fund",
+    "evidence": "OpenAI subsequently began a $50 million fund to support nonprofit and community organizations.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RAISED",
+    "object": "$40 billion",
+    "evidence": "In April 2025, OpenAI raised $40 billion at a $300 billion post-money valuation...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "SoftBank",
+    "relation": "LED",
+    "object": "financing round",
+    "evidence": "The financing round was led by SoftBank, with other participants including Microsoft, Coatue, Altimeter and Thrive.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REPORTED",
+    "object": "annualized revenue of $12 billion",
+    "evidence": "In July 2025, the company reported annualized revenue of $12 billion.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "INCREASED_FROM",
+    "object": "$3.7 billion in 2024",
+    "evidence": "This was an increase from $3.7 billion in 2024...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT subscriptions",
+    "relation": "REACHED",
+    "object": "20 million paid subscribers",
+    "evidence": "which reached 20 million paid subscribers by April 2025...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "GROWTH_OF",
+    "object": "enterprise customer base",
+    "evidence": "alongside a rapidly expanding enterprise customer base that grew to five million business users.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RAISED",
+    "object": "$110 billion",
+    "evidence": "In February 2026, OpenAI raised $110 billion at a $730 billion valuation...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "PARTICIPATED_IN",
+    "object": "funding round",
+    "evidence": "led by Amazon ($50 billion), SoftBank ($30 billion), and Nvidia ($30 billion)...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CLOSED",
+    "object": "funding round of $122 billion",
+    "evidence": "In April 2026, the company announced that it closed a funding round of $122 billion in committed capital...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "EMPLOYS",
+    "object": "tiered revenue model",
+    "evidence": "OpenAI employs a tiered revenue model that combines free consumer access, paid subscription services...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDES",
+    "object": "basic functionality",
+    "evidence": "which basic functionality is provided at no cost...",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OFFERS",
+    "object": "advanced capabilities",
+    "evidence": "while advanced capabilities are offered through paid plans such as ChatGPT Plus and enterprise solutions.",
+    "chunk_id": "OpenAI_chunk_5",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "SaaS",
+    "relation": "PART_OF",
+    "object": "Freemium model",
+    "evidence": "Freemium SaaS models are designed to convert free users into paying customers.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT Plus",
+    "relation": "PART_OF",
+    "object": "SaaS",
+    "evidence": "advanced capabilities are offered through paid plans such as ChatGPT Plus.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "ChatGPT",
+    "evidence": "Studies applying the technology acceptance model (TAM) to ChatGPT usage have found...",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "subscription and enterprise offerings",
+    "evidence": "OpenAI's subscription and enterprise offerings are structured around scalable compute usage.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LOCATED_IN",
+    "object": "2025",
+    "evidence": "In 2025, the company reported significant revenue growth associated with expanded computing infrastructure.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDES",
+    "object": "multi-channel monetization approach",
+    "evidence": "The introduction of diversified revenue streams... reflects a multi-channel monetization approach.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "generative AI adoption",
+    "relation": "RELATED_TO",
+    "object": "investor expectations",
+    "evidence": "suggesting that generative AI adoption has been associated with investor expectations of productivity and revenue effects.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "freemium AI platforms",
+    "relation": "DEPEND_ON",
+    "object": "enterprise integration",
+    "evidence": "The sustainability of freemium AI platforms has been linked in academic literature to continued enterprise integration across sectors.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUPPORTS",
+    "object": "research-intensive compute",
+    "evidence": "more than half of the spending through the end of the decade expected to support research-intensive compute for model training and development.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROJECTS",
+    "object": "$200 billion revenue",
+    "evidence": "OpenAI targeting cash-flow-positive operations by 2029 and projecting revenue of approximately $200 billion by 2030.",
+    "chunk_id": "OpenAI_chunk_6",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "TARGETS",
+    "object": "cash-flow-positive operations by 2029",
+    "evidence": "OpenAI targeting cash-flow-positive operations by 2029",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROJECTS",
+    "object": "$200 billion revenue by 2030",
+    "evidence": "projecting revenue of approximately $200 billion by 2030",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COMPLETED",
+    "object": "employee share sale of up to $10 billion",
+    "evidence": "OpenAI completed an employee share sale of up to $10 billion",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "VALUED_AT",
+    "object": "$500 billion",
+    "evidence": "which valued the company at $500 billion",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "MOST_VALUABLE_PRIVATE_COMPANY",
+    "object": "world",
+    "evidence": "the most valuable privately owned company in the world",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Global Illumination",
+    "evidence": "OpenAI had acquired the New York-based start-up Global Illumination",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Multi",
+    "evidence": "OpenAI acquired Multi, a startup focused on remote collaboration",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Elon Musk",
+    "relation": "SUBMITTED",
+    "object": "$97.4 billion unsolicited bid",
+    "evidence": "a consortium of investors led by Elon Musk submitted a $97.4 billion unsolicited bid",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REJECTED",
+    "object": "Elon Musk's bid",
+    "evidence": "the offer was rejected on 14 February 2025",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REACHED_DEAL_WITH",
+    "object": "CoreWeave",
+    "evidence": "OpenAI reached a deal with CoreWeave to acquire $350 million worth of CoreWeave shares",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "WAS_CUSTOMER_OF",
+    "object": "CoreWeave",
+    "evidence": "Microsoft was already CoreWeave's biggest customer in 2024",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ANNOUNCED",
+    "object": "$6.5 billion acquisition of io",
+    "evidence": "OpenAI announced the $6.5 billion acquisition of io",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "io",
+    "relation": "FOUNDED_BY",
+    "object": "Jony Ive",
+    "evidence": "AI hardware start-up founded by former Apple designer Jony Ive",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "AGREED_TO_ACQUIRE",
+    "object": "Statsig",
+    "evidence": "OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Vijaye Raji",
+    "relation": "APPOINTED_AS",
+    "object": "chief technology officer of applications",
+    "evidence": "appointed Statsig's founding CEO Vijaye Raji as OpenAI's chief technology officer of applications",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ANNOUNCED_DEVELOPMENT_OF",
+    "object": "AI-driven hiring service",
+    "evidence": "development of an AI-driven hiring service designed to rival LinkedIn",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Roi",
+    "evidence": "OpenAI acquired personal finance app Roi",
+    "chunk_id": "OpenAI_chunk_7",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Statsig",
+    "evidence": "OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion in an all-stock deal.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Vijaye Raji",
+    "relation": "APPOINTED_AS",
+    "object": "chief technology officer of applications",
+    "evidence": "appointed Statsig's founding CEO Vijaye Raji as OpenAI's chief technology officer of applications.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "AI-driven hiring service",
+    "evidence": "The company also announced development of an AI-driven hiring service designed to rival LinkedIn.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Roi",
+    "evidence": "OpenAI acquired personal finance app Roi in October 2025.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Software Applications Incorporated",
+    "evidence": "OpenAI acquired Software Applications Incorporated, the developer of Sky, a macOS-based natural language interface.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sky",
+    "relation": "PART_OF",
+    "object": "OpenAI",
+    "evidence": "The Sky team joined OpenAI.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sky",
+    "relation": "INTEGRATED_INTO",
+    "object": "ChatGPT",
+    "evidence": "the company announced plans to integrate Sky's capabilities into ChatGPT.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Neptune",
+    "evidence": "it was announced OpenAI had agreed to acquire Neptune, an AI tooling startup.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Torch",
+    "evidence": "it was announced OpenAI had acquired healthcare technology startup Torch for approximately $60 million.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "ChatGPT Health",
+    "evidence": "the acquisition followed the launch of OpenAI's ChatGPT Health product.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ACQUIRED",
+    "object": "Astral",
+    "evidence": "OpenAI acquired Python tool developer Astral in March 2026.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OUTSOURCED_TO",
+    "object": "Sama",
+    "evidence": "OpenAI has been criticized for outsourcing the annotation of data sets to Sama.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sama",
+    "relation": "LOCATED_IN",
+    "object": "San Francisco",
+    "evidence": "a company based in San Francisco that employed workers in Kenya.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SENT_DATA_TO",
+    "object": "Sama",
+    "evidence": "OpenAI began sending snippets of data to Sama as early as November 2021.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PAID",
+    "object": "$12.50 per hour",
+    "evidence": "OpenAI paid Sama $12.50 per hour of work.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COLLABORATED_WITH",
+    "object": "Broadcom",
+    "evidence": "OpenAI began collaborating with Broadcom to design a custom AI chip.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEPENDS_ON",
+    "object": "Nvidia GPUs",
+    "evidence": "intended to reduce OpenAI's dependence on Nvidia GPUs.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Arizona State University",
+    "relation": "PURCHASED",
+    "object": "ChatGPT Enterprise",
+    "evidence": "Arizona State University purchased ChatGPT Enterprise in OpenAI's first deal with a university.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "SIGNED_CONTRACT_WITH",
+    "object": "OpenAI",
+    "evidence": "Apple Inc. signed a contract with OpenAI.",
+    "chunk_id": "OpenAI_chunk_8",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEPENDS_ON",
+    "object": "Nvidia GPUs",
+    "evidence": "This initiative intended to reduce OpenAI's dependence on Nvidia GPUs, which are costly and face high demand in the market.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Arizona State University",
+    "relation": "PURCHASED",
+    "object": "ChatGPT Enterprise",
+    "evidence": "In January 2024, Arizona State University purchased ChatGPT Enterprise in OpenAI's first deal with a university.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "SIGNED_CONTRACT_WITH",
+    "object": "OpenAI",
+    "evidence": "In June 2024, Apple Inc. signed a contract with OpenAI to integrate ChatGPT features into its products as part of its new Apple Intelligence initiative.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PARTNERED_WITH",
+    "object": "Anduril Industries",
+    "evidence": "In December 2024, OpenAI partnered with Anduril Industries to develop and deploy advanced artificial intelligence solutions for national security missions.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RENTING",
+    "object": "Google Cloud's Tensor Processing Units (TPUs)",
+    "evidence": "In June 2025, OpenAI began renting Google Cloud's Tensor Processing Units (TPUs) to support ChatGPT and related services.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SIGNED_CONTRACT_WITH",
+    "object": "Oracle",
+    "evidence": "In September 2025, it was revealed that OpenAI signed a contract with Oracle to purchase $300 billion in computing power over the next five years.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ANNOUNCED_MEMORANDUM_WITH",
+    "object": "NVIDIA",
+    "evidence": "In September 2025, OpenAI and NVIDIA announced a memorandum of understanding that included a potential deployment of at least 10 gigawatts of NVIDIA systems.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COMMITTED_TO_PURCHASING",
+    "object": "AMD chips",
+    "evidence": "In October 2025, OpenAI announced a multi-billion dollar deal with AMD.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Disney",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "In December 2025, Disney said it would make a $1 billion investment in OpenAI.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDES",
+    "object": "LLMs to the Artificial Intelligence Cyber Challenge",
+    "evidence": "OpenAI provides LLMs to the Artificial Intelligence Cyber Challenge and to the Advanced Research Projects Agency for Health.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CONSIDERED_ESSENTIAL_FOR",
+    "object": "AFRICOM's mission",
+    "evidence": "In October 2024, The Intercept revealed that OpenAI's tools are considered 'essential' for AFRICOM's mission.",
+    "chunk_id": "OpenAI_chunk_9",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDES",
+    "object": "LLMs",
+    "evidence": "OpenAI provides LLMs to the Artificial Intelligence Cyber Challenge and to the Advanced Research Projects Agency for Health.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "Exception to Fair Opportunity",
+    "evidence": "OpenAI's tools are considered 'essential' for AFRICOM's mission and included in an 'Exception to Fair Opportunity' contractual agreement between the United States Department of Defense (DoD) and Microsoft.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PARTNERED_WITH",
+    "object": "Anduril",
+    "evidence": "OpenAI said it would partner with defense-tech company Anduril to build drone defense technologies for the United States and its allies.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Kevin Weil",
+    "relation": "COMMISSIONED_BY",
+    "object": "U.S. Army",
+    "evidence": "OpenAI's Chief Product Officer, Kevin Weil, was commissioned lieutenant colonel in the U.S. Army to join Detachment 201 as senior advisor.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "DoD",
+    "relation": "AWARDED",
+    "object": "OpenAI",
+    "evidence": "the DoD awarded OpenAI a $200 million one-year contract to develop AI tools for military and national security applications.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ANNOUNCED",
+    "object": "OpenAI for Government",
+    "evidence": "OpenAI announced a new program, OpenAI for Government, to give federal, state, and local governments access to its models, including ChatGPT.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REACHED_AGREEMENT_WITH",
+    "object": "DoD",
+    "evidence": "OpenAI announced that it had reached an agreement with the DoD to deploy its models in the government's classified network.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "STATED",
+    "object": "safety principles",
+    "evidence": "CEO Sam Altman wrote, 'Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems'.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED",
+    "object": "GPT-2",
+    "evidence": "In February 2019, GPT-2 was announced, which gained attention for its ability to generate human-like text.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED",
+    "object": "GPT-3",
+    "evidence": "In 2020, OpenAI announced GPT-3, a language model trained on large internet datasets.",
+    "chunk_id": "OpenAI_chunk_10",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CREATED_BY",
+    "object": "GPT-2",
+    "evidence": "In February 2019, GPT-2 was announced, which gained attention for its ability to generate human-like text.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CREATED_BY",
+    "object": "GPT-3",
+    "evidence": "In 2020, OpenAI announced GPT-3, a language model trained on large internet datasets.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "GPT-3",
+    "relation": "AIMED_AT",
+    "object": "natural language answering questions",
+    "evidence": "GPT-3 is aimed at natural language answering questions, but it can also translate between languages and coherently generate improvised text.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDES",
+    "object": "API",
+    "evidence": "It also announced that an associated API, named the API, would form the heart of its first commercial product.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Eleven employees",
+    "relation": "LEFT",
+    "object": "OpenAI",
+    "evidence": "Eleven employees left OpenAI, mostly between December 2020 and January 2021, in order to establish Anthropic.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CREATED_BY",
+    "object": "DALL-E",
+    "evidence": "In 2021, OpenAI introduced DALL-E, a specialized deep learning model adept at generating complex digital images from textual descriptions.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "DALL-E",
+    "relation": "BASED_ON",
+    "object": "GPT-3 architecture",
+    "evidence": "utilizing a variant of the GPT-3 architecture.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "ChatGPT",
+    "evidence": "In December 2022, OpenAI received widespread media coverage after launching a free preview of ChatGPT, its new AI chatbot based on GPT-3.5.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT",
+    "relation": "RECEIVED",
+    "object": "over a million signups",
+    "evidence": "According to OpenAI, the preview received over a million signups within the first five days.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Global, LLC",
+    "relation": "PROJECTING",
+    "object": "$200 million of revenue in 2023",
+    "evidence": "OpenAI Global, LLC was projecting $200 million of revenue in 2023 and $1 billion in revenue in 2024.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Google",
+    "relation": "ANNOUNCED",
+    "object": "Bard",
+    "evidence": "After ChatGPT was launched, Google announced a similar chatbot, Bard.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "BUILDING",
+    "object": "AI technology based on ChatGPT",
+    "evidence": "On February 7, 2023, Microsoft announced that it was building AI technology based on the same foundation as ChatGPT into Microsoft Bing, Edge, Microsoft 365 and other products.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "GPT-4",
+    "evidence": "On March 14, 2023, OpenAI released GPT-4, both as an API (with a waitlist) and as a feature of ChatGPT Plus.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "GPTs",
+    "evidence": "On November 6, 2023, OpenAI launched GPTs, allowing individuals to create customized versions of ChatGPT for specific purposes.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUSPENDED",
+    "object": "new sign-ups for ChatGPT Plus",
+    "evidence": "On November 14, 2023, OpenAI announced they temporarily suspended new sign-ups for ChatGPT Plus due to high demand.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REOPENED",
+    "object": "access for newer subscribers",
+    "evidence": "Access for newer subscribers re-opened a month later on December 13.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "Sora model",
+    "evidence": "In December 2024, the company launched the Sora model.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "OpenAI o1",
+    "evidence": "It also launched OpenAI o1, an early reasoning model that was internally codenamed strawberry.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "INTRODUCED",
+    "object": "ChatGPT Pro",
+    "evidence": "Additionally, ChatGPT Pro\u2014a $200/month subscription service offering unlimited o1 access and enhanced voice features\u2014was introduced.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "Operator",
+    "evidence": "On January 23, 2025, OpenAI released Operator, an AI agent and tool for accessing websites to execute goals defined by users.",
+    "chunk_id": "OpenAI_chunk_11",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "Operator",
+    "evidence": "On January 23, 2025, OpenAI released Operator, an AI agent and tool for accessing websites to execute goals defined by users.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Operator",
+    "relation": "AVAILABLE_TO",
+    "object": "Pro users in the United States",
+    "evidence": "The feature was only available to Pro users in the United States.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "deep research agent",
+    "evidence": "OpenAI released deep research agent, nine days later.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "deep research agent",
+    "relation": "SCORED",
+    "object": "27% accuracy",
+    "evidence": "It scored a 27% accuracy on the benchmark Humanity's Last Exam (HLE).",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Altman",
+    "relation": "STATED",
+    "object": "GPT-4.5 would be the last model without full chain-of-thought reasoning",
+    "evidence": "Altman later stated GPT-4.5 would be the last model without full chain-of-thought reasoning.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REPORTED",
+    "object": "experimental model performed at a gold medal-level",
+    "evidence": "In July 2025, according to OpenAI, one of its experimental models performed at a gold medal-level at the International Mathematical Olympiad.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DISPLAYED",
+    "object": "Agent Builder platform",
+    "evidence": "On October 6, 2025, OpenAI displayed its Agent Builder platform during the company's DevDay event.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Agent Builder platform",
+    "relation": "INCLUDES",
+    "object": "visual drag-and-drop interface for agentic workflows",
+    "evidence": "The platform includes a visual drag-and-drop interface for agentic workflows.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "INTRODUCED",
+    "object": "ChatGPT Atlas",
+    "evidence": "On October 21, 2025, OpenAI introduced ChatGPT Atlas, a web browser which integrates ChatGPT into web navigation.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ANNOUNCED",
+    "object": "GPT-5.2",
+    "evidence": "On December 11, 2025, OpenAI announced GPT-5.2.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "WORKING_ON",
+    "object": "collaborative software development platform",
+    "evidence": "In early 2026, reports indicated that OpenAI was working on a collaborative software development platform designed to compete with services such as GitHub and GitLab.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CRITICIZED_FOR",
+    "object": "disclosing particularly few technical details about products like GPT-4",
+    "evidence": "In March 2023, the company was criticized for disclosing particularly few technical details about products like GPT-4.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CITED",
+    "object": "competitiveness and safety concerns",
+    "evidence": "OpenAI cited competitiveness and safety concerns to justify this repudiation.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Ilya Sutskever",
+    "relation": "ARGUED",
+    "object": "open-sourcing increasingly capable models was increasingly risky",
+    "evidence": "OpenAI's former chief scientist Ilya Sutskever argued in 2023 that open-sourcing increasingly capable models was increasingly risky.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PUBLISHED",
+    "object": "study on how people use ChatGPT for everyday tasks",
+    "evidence": "In September 2025, OpenAI published a study on how people use ChatGPT for everyday tasks.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "study",
+    "relation": "FOUND",
+    "object": "non-work tasks account for more than 72 percent of all ChatGPT usage",
+    "evidence": "The study found that 'non-work tasks' (according to an LLM-based classifier) account for more than 72 percent of all ChatGPT usage.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LAUNCHED",
+    "object": "superalignment project",
+    "evidence": "In July 2023, OpenAI launched the superalignment project.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROMISED",
+    "object": "20% of its computing resources to the project",
+    "evidence": "OpenAI promised to dedicate 20% of its computing resources to the project.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ALLOCATED",
+    "object": "1\u20132% of its resources to the project",
+    "evidence": "although the company's employees later reported that the company only allocated 1\u20132% of its resources to it.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENDED",
+    "object": "superalignment project",
+    "evidence": "OpenAI ended the project in May 2024 after its co-leaders Ilya Sutskever and Jan Leike left the company.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CRITICIZED_AFTER",
+    "object": "thousands of private ChatGPT conversations were inadvertently exposed",
+    "evidence": "In August 2025, OpenAI was criticized after thousands of private ChatGPT conversations were inadvertently exposed to public search.",
+    "chunk_id": "OpenAI_chunk_12",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENDED_BY",
+    "object": "Ilya Sutskever and Jan Leike",
+    "evidence": "OpenAI ended the project in May 2024 after its co-leaders Ilya Sutskever and Jan Leike left the company.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CRITICIZED_FOR",
+    "object": "exposed private ChatGPT conversations",
+    "evidence": "In August 2025, OpenAI was criticized after thousands of private ChatGPT conversations were inadvertently exposed to public search engines.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REMOVED_FEATURE",
+    "object": "share with search engines",
+    "evidence": "OpenAI announced the feature's permanent removal on August 1, 2025.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "POSITION",
+    "object": "CEO and co-founder",
+    "evidence": "Key employees CEO and co-founder: Sam Altman.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Greg Brockman",
+    "relation": "POSITION",
+    "object": "President and co-founder",
+    "evidence": "President and co-founder: Greg Brockman.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Jakub Pachocki",
+    "relation": "POSITION",
+    "object": "Chief Scientist Officer",
+    "evidence": "Chief Scientist Officer: Jakub Pachocki.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Brad Lightcap",
+    "relation": "POSITION",
+    "object": "Chief Operating Officer",
+    "evidence": "Chief Operating Officer: Brad Lightcap.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sarah Friar",
+    "relation": "POSITION",
+    "object": "Chief Financial Officer",
+    "evidence": "Chief Financial Officer: Sarah Friar.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Kevin Weil",
+    "relation": "POSITION",
+    "object": "Chief Product Officer",
+    "evidence": "Chief Product Officer: Kevin Weil.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Mark Chen",
+    "relation": "POSITION",
+    "object": "Chief Research Officer",
+    "evidence": "Chief Research Officer: Mark Chen.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Scott Schools",
+    "relation": "POSITION",
+    "object": "Chief Compliance Officer",
+    "evidence": "Chief Compliance Officer: Scott Schools.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Chris Lehane",
+    "relation": "POSITION",
+    "object": "Chief Global Affairs Officer",
+    "evidence": "Chief Global Affairs Officer: Chris Lehane.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Aaron Chatterji",
+    "relation": "POSITION",
+    "object": "Chief Economist",
+    "evidence": "Chief Economist: Aaron Chatterji.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Fidji Simo",
+    "relation": "POSITION",
+    "object": "CEO of Applications",
+    "evidence": "CEO of Applications: Fidji Simo.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Bret Taylor",
+    "relation": "POSITION",
+    "object": "Chairman of the board of directors",
+    "evidence": "Board of directors of the OpenAI nonprofit Bret Taylor (chairman).",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "POSITION",
+    "object": "CEO and co-founder",
+    "evidence": "Sam Altman, CEO and co-founder.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Adam D'Angelo",
+    "relation": "POSITION",
+    "object": "co-founder and CEO of Quora",
+    "evidence": "Adam D'Angelo, co-founder and CEO of Quora.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sue Desmond-Hellmann",
+    "relation": "POSITION",
+    "object": "former CEO of the Bill & Melinda Gates Foundation",
+    "evidence": "Sue Desmond-Hellmann, former CEO of the Bill & Melinda Gates Foundation.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Nicole Seligman",
+    "relation": "POSITION",
+    "object": "former executive vice president of the Sony Corporation",
+    "evidence": "Nicole Seligman, attorney and former executive vice president of the Sony Corporation.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Paul Nakasone",
+    "relation": "POSITION",
+    "object": "former Director of the National Security Agency",
+    "evidence": "Paul Nakasone, former Director of the National Security Agency (2018\u20132024).",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Zico Kolter",
+    "relation": "POSITION",
+    "object": "computer scientist",
+    "evidence": "Zico Kolter, computer scientist.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Adebayo Ogunlesi",
+    "relation": "POSITION",
+    "object": "managing partner at Global Infrastructure Partners",
+    "evidence": "Adebayo Ogunlesi, managing partner at Global Infrastructure Partners.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Elon Musk",
+    "relation": "ROLE",
+    "object": "co-founder",
+    "evidence": "Principal individual investors Elon Musk, co-founder.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Peter Thiel",
+    "relation": "ROLE",
+    "object": "PayPal co-founder",
+    "evidence": "Peter Thiel, PayPal co-founder.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Jessica Livingston",
+    "relation": "ROLE",
+    "object": "founding partner",
+    "evidence": "Jessica Livingston, a founding partner of Y.",
+    "chunk_id": "OpenAI_chunk_13",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "REMOVED_AS",
+    "object": "CEO",
+    "evidence": "On November 17, 2023, Sam Altman was removed as CEO when its board of directors cited a lack of confidence in him.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Mira Murati",
+    "relation": "TOOK_OVER_AS",
+    "object": "interim CEO",
+    "evidence": "Chief Technology Officer Mira Murati took over as interim CEO.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Greg Brockman",
+    "relation": "REMOVED_AS",
+    "object": "chairman of the board",
+    "evidence": "Greg Brockman, the president of OpenAI, was also removed as chairman of the board.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Jakub Pachocki",
+    "relation": "RESIGNED_FROM",
+    "object": "director of research",
+    "evidence": "Three senior OpenAI researchers subsequently resigned: director of research and GPT-4 lead Jakub Pachocki.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OBJECTED_TO",
+    "object": "Altman's departure",
+    "evidence": "there were reportedly talks of Altman returning as CEO amid pressure placed upon the board by investors such as Microsoft.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Altman",
+    "relation": "CONSIDERED_STARTING",
+    "object": "a new company",
+    "evidence": "he has since stated that he considered starting a new company and bringing former OpenAI employees with him.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Dario Amodei",
+    "relation": "CEO_OF",
+    "object": "Anthropic",
+    "evidence": "The board initially contacted Anthropic CEO Dario Amodei about replacing Altman.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Altman and Brockman would be joining Microsoft",
+    "evidence": "On November 20, 2023, Microsoft CEO Satya Nadella announced Altman and Brockman would be joining Microsoft.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "HAS_EMPLOYEES",
+    "object": "738 of 770 employees",
+    "evidence": "About 738 of OpenAI's 770 employees, including Murati and Sutskever, signed an open letter.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI investors",
+    "relation": "CONSIDERED",
+    "object": "legal action against the board",
+    "evidence": "This prompted OpenAI investors to consider legal action against the board as well.",
+    "chunk_id": "OpenAI_chunk_14",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sutskever",
+    "relation": "SIGNED",
+    "object": "open letter",
+    "evidence": "Sutskever, signed an open letter stating they would quit their jobs and join Microsoft if the board did not rehire Altman and then resign.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI investors",
+    "relation": "CONSIDERED",
+    "object": "legal action",
+    "evidence": "This prompted OpenAI investors to consider legal action against the board as well.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI management",
+    "relation": "SENT",
+    "object": "internal memo",
+    "evidence": "In response, OpenAI management sent an internal memo to employees stating that negotiations with Altman and the board had resumed and would take some time.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Altman",
+    "relation": "RETURNED_TO",
+    "object": "OpenAI",
+    "evidence": "On November 21, 2023, after continued negotiations, Altman and Brockman returned to the company in their prior roles.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Brockman",
+    "relation": "RETURNED_TO",
+    "object": "OpenAI",
+    "evidence": "On November 21, 2023, after continued negotiations, Altman and Brockman returned to the company in their prior roles.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Bret Taylor",
+    "relation": "PART_OF",
+    "object": "OpenAI board",
+    "evidence": "a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Lawrence Summers",
+    "relation": "PART_OF",
+    "object": "OpenAI board",
+    "evidence": "a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "D'Angelo",
+    "relation": "PART_OF",
+    "object": "OpenAI board",
+    "evidence": "a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft employee",
+    "relation": "JOINED",
+    "object": "OpenAI board",
+    "evidence": "On November 29, 2023, OpenAI announced that an anonymous Microsoft employee had joined the board as a non-voting member.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RESIGNED_FROM",
+    "object": "OpenAI board",
+    "evidence": "Microsoft resigned from the board in July 2024.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Securities and Exchange Commission",
+    "relation": "SUBPOENAED",
+    "object": "OpenAI's internal communication",
+    "evidence": "In February 2024, the Securities and Exchange Commission subpoenaed OpenAI's internal communication.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Musk",
+    "relation": "RESIGNED_FROM",
+    "object": "OpenAI Board of Directors",
+    "evidence": "In 2018, Musk resigned from his Board of Directors seat, citing 'a potential future conflict [of interest]' with his role as CEO of Tesla.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "STATED",
+    "object": "Musk's financial contributions",
+    "evidence": "OpenAI stated that Musk's financial contributions were below $45 million.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Reid Hoffman",
+    "relation": "RESIGNED_FROM",
+    "object": "OpenAI board",
+    "evidence": "On March 3, 2023, Reid Hoffman resigned from his board seat.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Hoffman",
+    "relation": "REMAINS_ON",
+    "object": "Microsoft board",
+    "evidence": "Hoffman remained on the board of Microsoft, a major investor in OpenAI.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Ilya Sutskever",
+    "relation": "RESIGNED",
+    "object": "OpenAI",
+    "evidence": "In May 2024, Chief Scientist Ilya Sutskever resigned.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Jakub Pachocki",
+    "relation": "SUCCEEDED",
+    "object": "Ilya Sutskever",
+    "evidence": "Ilya Sutskever resigned and was succeeded by Jakub Pachocki.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Jan Leike",
+    "relation": "DEPARTED_FROM",
+    "object": "OpenAI",
+    "evidence": "Co-leader Jan Leike also departed amid concerns over safety and trust.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SIGNED_DEALS_WITH",
+    "object": "Reddit, News Corp, Axios, and Vox Media",
+    "evidence": "OpenAI then signed deals with Reddit, News Corp, Axios, and Vox Media.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Paul Nakasone",
+    "relation": "JOINED",
+    "object": "OpenAI board",
+    "evidence": "Paul Nakasone then joined the board of OpenAI.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "John Schulman",
+    "relation": "LEFT",
+    "object": "OpenAI",
+    "evidence": "In August 2024, cofounder John Schulman left OpenAI to join Anthropic.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Greg Brockman",
+    "relation": "TOOK_LEAVE",
+    "object": "OpenAI",
+    "evidence": "OpenAI's president Greg Brockman took extended leave until November.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Mira Murati",
+    "relation": "LEFT",
+    "object": "OpenAI",
+    "evidence": "In September 2024, CTO Mira Murati left the company.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Lawrence Summers",
+    "relation": "RESIGNED_FROM",
+    "object": "OpenAI board",
+    "evidence": "In November 2025, Lawrence Summers resigned from the board of directors.",
+    "chunk_id": "OpenAI_chunk_15",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "John Schulman",
+    "relation": "LEFT",
+    "object": "OpenAI",
+    "evidence": "In August 2024, cofounder John Schulman left OpenAI to join Anthropic.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Greg Brockman",
+    "relation": "TOOK_LEAVE",
+    "object": "OpenAI",
+    "evidence": "OpenAI's president Greg Brockman took extended leave until November.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Mira Murati",
+    "relation": "LEFT",
+    "object": "OpenAI",
+    "evidence": "In September 2024, CTO Mira Murati left the company.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Lawrence Summers",
+    "relation": "RESIGNED_FROM",
+    "object": "OpenAI Board of Directors",
+    "evidence": "In November 2025, Lawrence Summers resigned from the board of directors.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Fidji Simo",
+    "relation": "TOOK_LEAVE",
+    "object": "OpenAI",
+    "evidence": "In April 2026, OpenAI's head of AGI deployment, Fidji Simo, said she would take 'several weeks' of medical leave.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Brad Lightcap",
+    "relation": "TRANSITIONED_TO",
+    "object": "Special Projects",
+    "evidence": "Brad Lightcap transitioned from his role as Chief Operating Officer to lead 'special projects' focused on complex deals.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Denise Dresser",
+    "relation": "ASSUMED_DUTIES_OF",
+    "object": "Brad Lightcap",
+    "evidence": "Denise Dresser, the company's Chief Revenue Officer, temporarily assumed several of Lightcap's previous operational duties.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "REPORTS_TO",
+    "object": "Brad Lightcap",
+    "evidence": "Brad Lightcap...reporting directly to Sam Altman.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "POSTED_RECOMMENDATIONS_FOR",
+    "object": "Governance of Superintelligence",
+    "evidence": "In May 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "FTC",
+    "relation": "ISSUED_DEMAND_TO",
+    "object": "OpenAI",
+    "evidence": "In July 2023, the FTC issued a civil investigative demand to OpenAI to investigate whether the company's data security and privacy practices to develop ChatGPT were unfair or harmed consumers.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "FTC",
+    "relation": "LAUNCHED_INVESTIGATION_INTO",
+    "object": "OpenAI",
+    "evidence": "In July 2023, the FTC launched an investigation into OpenAI over allegations that the company scraped public data and published false and defamatory information.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EXTENDED_CREDITS_TO",
+    "object": "OpenAI",
+    "evidence": "The agency also raised concerns about 'circular' spending arrangements\u2014for example, Microsoft extending Azure credits to OpenAI.",
+    "chunk_id": "OpenAI_chunk_16",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENDORSED",
+    "object": "UK's smart AI regulation",
+    "evidence": "In September 2024, OpenAI's global affairs chief endorsed the UK's 'smart' AI regulation during testimony to a House of Lords committee.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "INTERESTED_IN",
+    "object": "collaborating with People's Republic of China",
+    "evidence": "In February 2025, OpenAI CEO Sam Altman stated that the company is interested in collaborating with the People's Republic of China, despite regulatory restrictions imposed by the U.S. government.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "DeepSeek",
+    "relation": "DISRUPTED",
+    "object": "AI market",
+    "evidence": "This shift comes in response to the growing influence of the Chinese artificial intelligence company DeepSeek, which has disrupted the AI market with open models, including DeepSeek V3 and DeepSeek R1.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENHANCED",
+    "object": "security protocols",
+    "evidence": "Following DeepSeek's market emergence, OpenAI enhanced security protocols to protect proprietary development techniques from industrial espionage.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ADVOCATED_FOR",
+    "object": "preempting state AI laws with federal laws",
+    "evidence": "OpenAI advocated for preempting state AI laws with federal laws.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OPPOSED",
+    "object": "California's AI legislation",
+    "evidence": "According to Scott Kohler, OpenAI has opposed California's AI legislation and suggested that the state bill encroaches on a more competent federal government.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Public Citizen",
+    "relation": "OPPOSED",
+    "object": "federal preemption on AI",
+    "evidence": "Public Citizen opposed a federal preemption on AI and pointed to OpenAI's growth and valuation as evidence that existing state laws have not hampered innovation.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PROVIDED",
+    "object": "initial funding for Parents & Kids Safe AI Coalition",
+    "evidence": "In early 2026, OpenAI provided the entire initial funding for the Parents & Kids Safe AI Coalition.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REQUIRED",
+    "object": "departing employees to sign a lifelong non-disparagement agreement",
+    "evidence": "Before May 2024, OpenAI required departing employees to sign a lifelong non-disparagement agreement forbidding them from criticizing OpenAI or acknowledging the existence of the agreement.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Daniel Kokotajlo",
+    "relation": "FORFEITED",
+    "object": "vested equity in OpenAI",
+    "evidence": "Daniel Kokotajlo, a former employee, publicly stated that he forfeited his vested equity in OpenAI in order to leave without signing the agreement.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUED_FOR",
+    "object": "copyright infringement",
+    "evidence": "OpenAI was sued for copyright infringement by authors Sarah Silverman, Matthew Butterick, Paul Tremblay and Mona Awad in July 2023.",
+    "chunk_id": "OpenAI_chunk_17",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "RELEASED",
+    "object": "former employees",
+    "evidence": "On May 23, 2024, OpenAI sent a memo releasing former employees from the agreement.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUED_FOR",
+    "object": "copyright infringement",
+    "evidence": "Copyright OpenAI was sued for copyright infringement by authors Sarah Silverman, Matthew Butterick, Paul Tremblay and Mona Awad in July 2023.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Authors Guild",
+    "relation": "FILED_LAWSUIT",
+    "object": "OpenAI",
+    "evidence": "In September 2023, 17 authors, including George R. R. Martin, John Grisham, Jodi Picoult and Jonathan Franzen, joined the Authors Guild in filing a class action lawsuit against OpenAI.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUED_BY",
+    "object": "The New York Times",
+    "evidence": "The New York Times also sued the company in late December 2023.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DESTROYED",
+    "object": "Books1 and Books2 training datasets",
+    "evidence": "In May 2024 it was revealed that OpenAI had destroyed its Books1 and Books2 training datasets.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Books1 and Books2 training datasets",
+    "relation": "USED_IN",
+    "object": "training of GPT-3",
+    "evidence": "which were used in the training of GPT-3.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPED_BY",
+    "object": "Whisper",
+    "evidence": "In 2021, OpenAI developed a speech recognition tool called Whisper.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "USED",
+    "object": "Whisper",
+    "evidence": "OpenAI used it to transcribe more than one million hours of YouTube videos into text for training GPT-4.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "training GPT-4",
+    "evidence": "The resulting dataset proved instrumental in training GPT-4.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "The Intercept",
+    "relation": "FILED_LAWSUIT",
+    "object": "OpenAI",
+    "evidence": "In February 2024, The Intercept as well as Raw Story and Alternate Media Inc. filed lawsuit against OpenAI on copyright litigation ground.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "eight newspapers",
+    "relation": "FILED_LAWSUIT",
+    "object": "OpenAI and Microsoft",
+    "evidence": "On April 30, 2024, eight newspapers filed a lawsuit in the Southern District of New York against OpenAI and Microsoft.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SCRAPED",
+    "object": "300 billion words online",
+    "evidence": "In June 2023, a lawsuit claimed that OpenAI scraped 300 billion words online without consent.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEPENDS_ON",
+    "object": "Microsoft",
+    "evidence": "They also claimed that OpenAI and its partner as well as customer Microsoft continued to unlawfully collect and use personal data.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENTERED_INTO_AGREEMENT_WITH",
+    "object": "News Corp",
+    "evidence": "On May 22, 2024, OpenAI entered into an agreement with News Corp to integrate news content.",
+    "chunk_id": "OpenAI_chunk_18",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PART_OF",
+    "object": "Microsoft",
+    "evidence": "its partner as well as customer Microsoft continued to unlawfully collect and use personal data",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ENTERED_INTO",
+    "object": "agreement with News Corp",
+    "evidence": "On May 22, 2024, OpenAI entered into an agreement with News Corp",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "INTEGRATES",
+    "object": "news content from The Wall Street Journal, the New York Post, The Times, and The Sunday Times",
+    "evidence": "to integrate news content from The Wall Street Journal, the New York Post, The Times, and The Sunday Times into its AI platform",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "The New York Times",
+    "relation": "SUED",
+    "object": "OpenAI and Microsoft",
+    "evidence": "other publications like The New York Times chose to sue OpenAI and Microsoft for copyright infringement",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Canadian news outlets",
+    "relation": "SUED",
+    "object": "OpenAI",
+    "evidence": "a coalition of Canadian news outlets...sued OpenAI for using their news articles to train its software without permission",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Suchir Balaji",
+    "relation": "ACCUSED",
+    "object": "OpenAI",
+    "evidence": "Suchir Balaji accused OpenAI of violating copyright law in developing its commercial LLMs",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Suchir Balaji",
+    "relation": "DIED_BY",
+    "object": "suicide",
+    "evidence": "On November 26, 2024, Balaji died by suicide",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Ro Khanna",
+    "relation": "ENDORSED",
+    "object": "calls for an investigation",
+    "evidence": "California Congressman Ro Khanna endorsed calls for an investigation",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Ziff Davis",
+    "relation": "SUED",
+    "object": "OpenAI",
+    "evidence": "On April 24, 2025, Ziff Davis sued OpenAI in Delaware federal court for copyright infringement",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Ziff Davis",
+    "relation": "KNOWN_FOR",
+    "object": "publications such as ZDNet, PCMag, CNET, IGN and Lifehacker",
+    "evidence": "Ziff Davis is known for publications such as ZDNet, PCMag, CNET, IGN and Lifehacker",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "European Data Protection Board",
+    "relation": "FORMED",
+    "object": "task force on ChatGPT",
+    "evidence": "the EU's European Data Protection Board (EDPB) formed a dedicated task force on ChatGPT",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "VIOLATED",
+    "object": "European General Data Protection Regulation",
+    "evidence": "NOYB filed a complaint with the Austrian Datenschutzbeh\u00f6rde against OpenAI for violating the European General Data Protection Regulation",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CRITICIZED_FOR",
+    "object": "allowing ChatGPT to be used for military and warfare",
+    "evidence": "OpenAI is criticized for allowing ChatGPT to be used for 'military and warfare' since January 10",
+    "chunk_id": "OpenAI_chunk_19",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "CRITICIZED_FOR",
+    "object": "military and warfare usage",
+    "evidence": "OpenAI is criticized for allowing ChatGPT to be used for 'military and warfare' since January 10, 2024.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "REMOVED_BAN_ON",
+    "object": "weapons development",
+    "evidence": "its 'usage policies' removed the ban on 'activity that has high risk of physical harm, including', specifically, 'weapons development' and 'military and warfare'.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Elon Musk",
+    "relation": "FILED_LAWSUIT_AGAINST",
+    "object": "OpenAI and Sam Altman",
+    "evidence": "On February 29, 2024, Elon Musk filed a lawsuit against OpenAI and CEO Sam Altman.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DISMISSED_LAWSUIT_AS",
+    "object": "incoherent and frivolous",
+    "evidence": "OpenAI dismissed as 'incoherent' and 'frivolous' the lawsuit filed by Elon Musk.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "COUNTERSUED",
+    "object": "Elon Musk",
+    "evidence": "On April 9, 2024, OpenAI countersued Musk in federal court.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ALLEGED",
+    "object": "bad-faith tactics by Musk",
+    "evidence": "OpenAI alleged that he had engaged in 'bad-faith tactics' to slow the company's progress.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Musk",
+    "relation": "AMENDED_FILING_TO_DEMAND",
+    "object": "undo transition to for-profit",
+    "evidence": "Musk amended his filing in April 7, 2026, to demand that OpenAI undo its transition from a non-profit to a for-profit corporate structure.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "STRENGTHENING_PROTECTIONS",
+    "object": "safeguards for minors",
+    "evidence": "OpenAI expressed condolences and said it was strengthening protections (including updated crisis response behavior and parental controls).",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Raine v. OpenAI",
+    "relation": "FILED_IN",
+    "object": "California state court in San Francisco",
+    "evidence": "The complaint was filed in California state court in San Francisco.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Social Media Victims Law Center",
+    "relation": "FILED_LAWSUITS_AGAINST",
+    "object": "OpenAI",
+    "evidence": "In November 2025, the Social Media Victims Law Center and Tech Justice Law Project filed seven lawsuits against OpenAI.",
+    "chunk_id": "OpenAI_chunk_20",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FILED_BY",
+    "object": "Social Media Victims Law Center and Tech Justice Law Project",
+    "evidence": "In November 2025, the Social Media Victims Law Center and Tech Justice Law Project filed seven lawsuits against OpenAI.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Zane Shamblin",
+    "relation": "COMMITTED_SUICIDE_AFTER",
+    "object": "ChatGPT usage",
+    "evidence": "the suits were filed on behalf of Zane Shamblin, 23, of Texas; Amaurie Lacey, 17, of Georgia; Joshua Enneking, 26, of Florida; and Joe Ceccanti, 48, of Oregon, who each committed suicide after prolonged ChatGPT usage.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ALLEGED_IN",
+    "object": "lawsuit filed by First County Bank",
+    "evidence": "In December 2025, First County Bank filed a lawsuit against OpenAI after Suzanne Adams was murdered by her 56-year-old son.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT",
+    "relation": "VALIDATED",
+    "object": "paranoid beliefs",
+    "evidence": "The lawsuit alleges that over months of conversations, ChatGPT validated many paranoid beliefs.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "BANNED_ACCOUNT",
+    "object": "perpetrator of Canadian mass shooting",
+    "evidence": "it emerged that OpenAI had banned an account belonging to the perpetrator due to violent queries approximately 7 months prior to the attacks.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OPTED_NOT_TO_REPORT",
+    "object": "account to authorities",
+    "evidence": "OpenAI opted not to report the account to authorities at the time.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUMMONED_TO",
+    "object": "Ottawa",
+    "evidence": "Canadian officials summoned OpenAI's safety team to Ottawa, criticizing their escalation protocols.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "HIGHLIGHTED_CONCERNS_ABOUT",
+    "object": "safety-oversight processes",
+    "evidence": "The meeting highlighted concerns about how and when OpenAI reports potentially dangerous user behavior to authorities.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "ALLEGED_IN",
+    "object": "stalking lawsuit",
+    "evidence": "In 2026, a woman filed a lawsuit against OpenAI, alleging that ChatGPT played a role in enabling a prolonged stalking campaign against her.",
+    "chunk_id": "OpenAI_chunk_21",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "LOCATED_IN",
+    "object": "Canada",
+    "evidence": "Evan Solomon said, 'I want [OpenAI] to give us details of what their protocols are, [and] what they are specifically in Canada.'",
+    "chunk_id": "OpenAI_chunk_22",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "SUPPORTED_BY",
+    "object": "ChatGPT",
+    "evidence": "a woman filed a lawsuit against OpenAI, alleging that ChatGPT played a role in enabling a prolonged stalking campaign against her.",
+    "chunk_id": "OpenAI_chunk_22",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "ChatGPT",
+    "relation": "USED_BY",
+    "object": "former partner",
+    "evidence": "her former partner became increasingly fixated and used the chatbot to generate messages and content that reinforced his behavior.",
+    "chunk_id": "OpenAI_chunk_22",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FAILED_TO",
+    "object": "prevent further misuse",
+    "evidence": "The plaintiff claimed that she had contacted OpenAI to report the issue, but that the company did not take adequate action to prevent further misuse.",
+    "chunk_id": "OpenAI_chunk_22",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "stalking lawsuit",
+    "relation": "RELATED_TO",
+    "object": "AI companies",
+    "evidence": "The case has been cited as part of growing legal and public debate over the responsibility of AI companies to address harmful or abusive uses of their systems.",
+    "chunk_id": "OpenAI_chunk_22",
+    "source_title": "OpenAI"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "LOCATED_IN",
+    "object": "Redmond, Washington",
+    "evidence": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "FOUNDED_BY",
+    "object": "Bill Gates and Paul Allen",
+    "evidence": "Founded in 1975 by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "CREATED_BY",
+    "object": "Bill Gates and Paul Allen",
+    "evidence": "Founded in 1975 by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "PART_OF",
+    "object": "Big Tech",
+    "evidence": "A Big Tech company, Microsoft is the largest software company by revenue.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "DEVELOPED_BY",
+    "object": "MS-DOS",
+    "evidence": "Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "DEVELOPED_BY",
+    "object": "Windows",
+    "evidence": "Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s, followed by Windows.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "RELEASED",
+    "object": "9 versions of MS-DOS",
+    "evidence": "From 1980 to 2021 Microsoft released 9 versions of MS-DOS.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "RELEASED",
+    "object": "13 versions of Windows",
+    "evidence": "From 1980 to 2021 Microsoft released 13 versions of Windows.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "CREATED",
+    "object": "three billionaires and an estimated 12,000 millionaires",
+    "evidence": "The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Steve Ballmer",
+    "relation": "REPLACED",
+    "object": "Bill Gates",
+    "evidence": "Steve Ballmer replaced Gates as CEO in 2000.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "ACQUIRED",
+    "object": "Skype Technologies",
+    "evidence": "He oversaw the then-largest of Microsoft's corporate acquisitions in Skype Technologies in 2011.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "LAUNCHED",
+    "object": "Surface",
+    "evidence": "an increased focus on hardware that led to its first in-house PC line\u2014the Surface\u2014in 2012.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "FORMED",
+    "object": "Microsoft Mobile",
+    "evidence": "the formation of Microsoft Mobile through Nokia.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Satya Nadella",
+    "relation": "BECAME",
+    "object": "CEO",
+    "evidence": "Since Satya Nadella became CEO in 2014.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "ACQUIRED",
+    "object": "LinkedIn",
+    "evidence": "acquired LinkedIn in 2016.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "EXPANDED",
+    "object": "video gaming business",
+    "evidence": "the company has expanded its video gaming business to support the Xbox brand.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "ESTABLISHED",
+    "object": "Microsoft Gaming division",
+    "evidence": "establishing the Microsoft Gaming division in 2022.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "ACQUIRED",
+    "object": "Activision Blizzard",
+    "evidence": "acquiring Activision Blizzard in 2023.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "DOMINANT_IN",
+    "object": "IBM PC\u2013compatible operating system and office software suite markets",
+    "evidence": "Microsoft has been dominant in the IBM PC\u2013compatible operating system and office software suite markets since the 1990s.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "PROVIDES",
+    "object": "Azure cloud computing platform",
+    "evidence": "Microsoft most notably provides the Azure cloud computing platform.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "PROVIDES",
+    "object": "Microsoft SQL Server database software",
+    "evidence": "Microsoft most notably provides Microsoft SQL Server database software.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "PROVIDES",
+    "object": "Visual Studio",
+    "evidence": "Microsoft most notably provides Visual Studio.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Corporation",
+    "relation": "VALUED_AT",
+    "object": "$1 trillion",
+    "evidence": "Microsoft became the third publicly traded U.S. company to be valued at over $1 trillion in April 2019.",
+    "chunk_id": "Microsoft_chunk_0",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROVIDES",
+    "object": "Azure cloud computing platform",
+    "evidence": "Microsoft most notably provides the Azure cloud computing platform.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROVIDES",
+    "object": "Microsoft SQL Server database software",
+    "evidence": "Microsoft most notably provides the Microsoft SQL Server database software.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROVIDES",
+    "object": "Visual Studio",
+    "evidence": "Microsoft most notably provides Visual Studio.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "VALUED_AT",
+    "object": "$1 trillion",
+    "evidence": "Microsoft became the third publicly traded U.S. company to be valued at over $1 trillion in April 2019.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Bill Gates",
+    "relation": "FOUNDED_BY",
+    "object": "Traf-O-Data",
+    "evidence": "In 1972, they founded Traf-O-Data.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Traf-O-Data",
+    "relation": "PART_OF",
+    "object": "Microsoft",
+    "evidence": "In 1972, they founded Traf-O-Data, which sold a rudimentary computer to track and analyze automobile traffic data.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_BY",
+    "object": "Bill Gates",
+    "evidence": "Gates and Allen established Microsoft on April 4, 1975.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_BY",
+    "object": "Paul Allen",
+    "evidence": "Gates and Allen established Microsoft on April 4, 1975.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LOCATED_IN",
+    "object": "Bellevue, Washington",
+    "evidence": "Microsoft moved its headquarters to Bellevue, Washington, in January 1979.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ENTERED",
+    "object": "operating system business",
+    "evidence": "Microsoft entered the operating system (OS) business in 1980.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPED_BY",
+    "object": "MS-DOS",
+    "evidence": "Microsoft purchased a CP/M clone called 86-DOS from Seattle Computer Products which it branded as MS-DOS.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "IBM",
+    "relation": "AWARDED",
+    "object": "contract to Microsoft",
+    "evidence": "IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M OS to be used in the IBM Personal Computer (IBM PC).",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "MS-DOS",
+    "relation": "OWNED_BY",
+    "object": "Microsoft",
+    "evidence": "Microsoft retained ownership of MS-DOS following the release of the IBM PC in August 1981.",
+    "chunk_id": "Microsoft_chunk_1",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OWNED_BY",
+    "object": "MS-DOS",
+    "evidence": "Microsoft retained ownership of MS-DOS following the release of the IBM PC in August 1981.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "IBM",
+    "relation": "COPYRIGHTED",
+    "object": "IBM PC BIOS",
+    "evidence": "IBM had copyrighted the IBM PC BIOS.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EXPANDED_INTO",
+    "object": "new markets",
+    "evidence": "The company expanded into new markets with the release of the Microsoft Mouse in 1983.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CREATED_BY",
+    "object": "Microsoft Press",
+    "evidence": "as well as with a publishing division named Microsoft Press.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Paul Allen",
+    "relation": "RESIGNED_FROM",
+    "object": "Microsoft",
+    "evidence": "Paul Allen resigned from Microsoft in 1983 after developing Hodgkin's lymphoma.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows 1.0",
+    "evidence": "Microsoft released Windows 1.0 on November 20, 1985.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 1.0",
+    "relation": "PART_OF",
+    "object": "MS-DOS",
+    "evidence": "as a graphical extension for MS-DOS.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPED_BY",
+    "object": "OS/2",
+    "evidence": "having begun jointly developing OS/2 with IBM that August.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "MOVED_TO",
+    "object": "Redmond, Washington",
+    "evidence": "Microsoft moved its headquarters from Bellevue to Redmond, Washington, on February 26, 1986.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "WENT_PUBLIC",
+    "object": "NASDAQ",
+    "evidence": "went public with an initial public offering (IPO) at the NASDAQ exchange on March 13.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "OS/2 version",
+    "evidence": "Microsoft released its version of OS/2 to original equipment manufacturers (OEMs) on April 2, 1987.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Federal Trade Commission",
+    "relation": "EXAMINED",
+    "object": "Microsoft",
+    "evidence": "the Federal Trade Commission examined Microsoft for possible collusion due to the partnership with IBM.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "WORKED_ON",
+    "object": "Microsoft Windows NT",
+    "evidence": "the company was at work on Microsoft Windows NT.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Windows NT",
+    "relation": "BASED_ON",
+    "object": "OS/2 code",
+    "evidence": "which was heavily based on its copy of the OS/2 code.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Windows NT",
+    "relation": "SHIPPED_ON",
+    "object": "July 21, 1993",
+    "evidence": "It shipped on July 21, 1993.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INFORMED",
+    "object": "IBM",
+    "evidence": "Microsoft informed IBM of Windows NT.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INTRODUCED",
+    "object": "Microsoft Office",
+    "evidence": "In 1990, Microsoft introduced the Microsoft Office suite.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Office",
+    "relation": "BUNDLED",
+    "object": "Microsoft Word and Microsoft Excel",
+    "evidence": "which bundled separate applications such as Microsoft Word and Microsoft Excel.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Windows 3.0",
+    "evidence": "On May 22, Microsoft launched Windows 3.0.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 3.0",
+    "relation": "FEATURED",
+    "object": "streamlined user interface graphics",
+    "evidence": "featuring streamlined user interface graphics and improved protected mode capability for the Intel 386 processor.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Department of Justice's Antitrust Division",
+    "relation": "FILED",
+    "object": "competitive impact statement",
+    "evidence": "the Department of Justice's Antitrust Division filed a competitive impact statement.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INDUCED",
+    "object": "OEMs",
+    "evidence": "Microsoft had increasingly induced OEMs to pay royalties under a per-processor license.",
+    "chunk_id": "Microsoft_chunk_2",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REDEFINED",
+    "object": "offerings",
+    "evidence": "Microsoft began to redefine its offerings and expand its product line into computer networking and the World Wide Web.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACTED_IN",
+    "object": "World Wide Web",
+    "evidence": "Microsoft was the only major and established company that acted fast enough to be a part of the World Wide Web practically from the start.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows 95",
+    "evidence": "The company released Windows 95 on August 24, 1995.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 95",
+    "relation": "FEATURES",
+    "object": "pre-emptive multitasking",
+    "evidence": "Windows 95 featuring pre-emptive multitasking, a completely new user interface with a novel start button, and 32-bit compatibility.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 95",
+    "relation": "BUNDLED_WITH",
+    "object": "MSN",
+    "evidence": "Windows 95 came bundled with the online service MSN.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CREATED",
+    "object": "MSNBC",
+    "evidence": "Microsoft and General Electric's NBC unit created a new 24/7 cable news channel, MSNBC.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CREATED",
+    "object": "Windows CE 1.0",
+    "evidence": "Microsoft created Windows CE 1.0, a new OS designed for devices with low memory and other constraints.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Bill Gates",
+    "relation": "HANDED_OVER",
+    "object": "CEO position",
+    "evidence": "On January 13, 2000, Bill Gates handed over the CEO position to Steve Ballmer.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Steve Ballmer",
+    "relation": "FOUNDED_BY",
+    "object": "Bill Gates",
+    "evidence": "an old college friend of Gates and employee of the company since 1980.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows XP",
+    "evidence": "On October 25, 2001, Microsoft released Windows XP.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ENTERED",
+    "object": "video game console market",
+    "evidence": "The company released the Xbox later that year, entering the video game console market.",
+    "chunk_id": "Microsoft_chunk_3",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows XP",
+    "evidence": "On October 25, 2001, Microsoft released Windows XP.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows XP",
+    "relation": "PART_OF",
+    "object": "NT codebase",
+    "evidence": "unifying the mainstream and NT lines of OS under the NT codebase.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Xbox",
+    "evidence": "The company released the Xbox later that year.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Xbox",
+    "relation": "ENTERED",
+    "object": "video game console market",
+    "evidence": "entering the video game console market dominated by Sony and Nintendo.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "European Union",
+    "relation": "BROUGHT",
+    "object": "antitrust legal action",
+    "evidence": "In March 2004 the European Union brought antitrust legal action against the company.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ABUSED",
+    "object": "dominance with Windows OS",
+    "evidence": "citing it abused its dominance with the Windows OS.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REQUIRED_TO_PRODUCE",
+    "object": "new versions of Windows XP without Windows Media Player",
+    "evidence": "requiring Microsoft to produce new versions of Windows XP without Windows Media Player.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Xbox 360",
+    "evidence": "In November 2005, the company's second video game console, the Xbox 360, was released.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Zune series",
+    "evidence": "Microsoft 2006 released the Zune series of digital media players.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Zune series",
+    "relation": "SUCCESSOR_OF",
+    "object": "Portable Media Center",
+    "evidence": "a successor of its previous software platform Portable Media Center.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows Vista",
+    "evidence": "Released in January 2007, the next version of Windows, Vista.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Office 2007",
+    "relation": "FEATURED",
+    "object": "Ribbon user interface",
+    "evidence": "Microsoft Office 2007, released at the same time, featured a 'Ribbon' user interface.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "European Union",
+    "relation": "IMPOSED",
+    "object": "fine of \u20ac899 million",
+    "evidence": "The European Union imposed another fine of \u20ac899 million for Microsoft's lack of compliance.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STATED",
+    "object": "in compliance",
+    "evidence": "Microsoft stated that it was in compliance.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Gates",
+    "relation": "RETIRED_FROM",
+    "object": "Chief Software Architect",
+    "evidence": "Gates retired from his role as Chief Software Architect on June 27, 2008.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Azure Services Platform",
+    "relation": "LAUNCHED",
+    "object": "cloud computing market",
+    "evidence": "Azure Services Platform, the company's entry into the cloud computing market for Windows, launched on October 27, 2008.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "intent to open Microsoft-branded retail stores",
+    "evidence": "On February 12, 2009, Microsoft announced its intent to open a chain of Microsoft-branded retail stores.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Store",
+    "relation": "OPENED_IN",
+    "object": "Scottsdale, Arizona",
+    "evidence": "the first retail Microsoft Store opened in Scottsdale, Arizona.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 7",
+    "relation": "RELEASED_ON",
+    "object": "October 22, 2009",
+    "evidence": "the same day Windows 7 was officially released to the public.",
+    "chunk_id": "Microsoft_chunk_4",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Store",
+    "relation": "OPENED_IN",
+    "object": "Scottsdale, Arizona",
+    "evidence": "the first retail Microsoft Store opened in Scottsdale, Arizona",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 7",
+    "relation": "RELEASED_ON",
+    "object": "October 22, 2009",
+    "evidence": "the same day Windows 7 was officially released to the public",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STRUGGLED_WITH",
+    "object": "smartphone operating system",
+    "evidence": "Microsoft had struggled to keep up with its rivals in providing a modern smartphone operating system",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows Mobile",
+    "relation": "REPLACED_BY",
+    "object": "Windows Phone OS",
+    "evidence": "Microsoft revamped its aging flagship mobile operating system, Windows Mobile, replacing it with the new Windows Phone OS",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows Phone OS",
+    "relation": "USES",
+    "object": "Metro design language",
+    "evidence": "It used a new user interface design language, codenamed 'Metro'",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED_ALLIANCE_WITH",
+    "object": "Nokia",
+    "evidence": "It launched an alliance with Nokia in 2011",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CO_DEVELOPED_WITH",
+    "object": "Windows Phone",
+    "evidence": "Microsoft worked closely with the company to co-develop Windows Phone",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_BY",
+    "object": "Open Networking Foundation",
+    "evidence": "Microsoft is a founding member of the Open Networking Foundation started on March 23, 2011",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Open Networking Foundation",
+    "relation": "FOCUSED_ON",
+    "object": "Software-Defined Networking",
+    "evidence": "This nonprofit organization is focused on providing support for a cloud computing initiative called Software-Defined Networking",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 8",
+    "relation": "UNVEILED_IN",
+    "object": "June 2011",
+    "evidence": "Microsoft unveiled Windows 8, an operating system designed to power both personal computers and tablet computers, in Taipei in June 2011",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Skype",
+    "evidence": "Microsoft saw its largest acquisition by taking over Skype",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Surface",
+    "relation": "UNVEILED_IN",
+    "object": "June 2012",
+    "evidence": "The Surface was unveiled in June 2012",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PAID_FOR",
+    "object": "Yammer",
+    "evidence": "Microsoft paid US$1.2 billion to buy the social network Yammer",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Outlook.com",
+    "evidence": "On July 31, it launched the Outlook.com webmail service to compete with Gmail",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows Server 2012",
+    "evidence": "On September 4, 2012, Microsoft released Windows Server 2012",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SOLD_STAKE_IN",
+    "object": "MSNBC",
+    "evidence": "In July 2012, Microsoft sold its 50% stake in MSNBC",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Windows 8",
+    "evidence": "In October 2012, Microsoft launched Windows 8",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Windows Phone 8",
+    "evidence": "In October 2012, Microsoft launched Windows Phone 8",
+    "chunk_id": "Microsoft_chunk_5",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows Server 2012",
+    "evidence": "Microsoft released Windows Server 2012.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SOLD",
+    "object": "50% stake in MSNBC",
+    "evidence": "In July 2012, Microsoft sold its 50% stake in MSNBC.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "MSNBC",
+    "relation": "RUN_AS",
+    "object": "joint venture with NBC",
+    "evidence": "which it had run as a joint venture with NBC since 1996.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Windows 8",
+    "evidence": "In October 2012, Microsoft launched Windows 8.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Microsoft Surface",
+    "evidence": "In October 2012, Microsoft launched Microsoft Surface.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Windows Phone 8",
+    "evidence": "In October 2012, Microsoft launched Windows Phone 8.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OPENED",
+    "object": "holiday stores",
+    "evidence": "Microsoft opened a number of 'holiday stores' across the U.S.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OPENED",
+    "object": "bricks-and-mortar Microsoft Stores",
+    "evidence": "the increasing number of 'bricks-and-mortar' Microsoft Stores that opened in 2012.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAUNCHED",
+    "object": "Patent Tracker",
+    "evidence": "On March 29, 2013, Microsoft launched a Patent Tracker.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "New York City Police Department",
+    "relation": "PARTNERED_WITH",
+    "object": "Microsoft",
+    "evidence": "the New York City Police Department announced a partnership with Microsoft.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Domain Awareness System",
+    "relation": "USED_FOR",
+    "object": "police surveillance in New York City",
+    "evidence": "for the development of the Domain Awareness System which is used for police surveillance in New York City.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Kinect",
+    "relation": "MADE_BY",
+    "object": "Microsoft",
+    "evidence": "The Kinect, a motion-sensing input device made by Microsoft.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Kinect",
+    "relation": "DESIGNED_AS",
+    "object": "video game controller",
+    "evidence": "designed as a video game controller.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SUFFERED",
+    "object": "loss of more than US$32 billion",
+    "evidence": "Microsoft suffered a loss of more than US$32 billion.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "reorganization into four new business divisions",
+    "evidence": "Microsoft announced that it would reorganize into four new business divisions.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "AGREED_TO_BUY",
+    "object": "Nokia's mobile unit",
+    "evidence": "On September 3, 2013, Microsoft agreed to buy Nokia's mobile unit for $7 billion.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Steve Ballmer",
+    "relation": "STEPS_DOWN_AS",
+    "object": "CEO of Microsoft",
+    "evidence": "On February 4, 2014, Steve Ballmer stepped down as CEO of Microsoft.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Satya Nadella",
+    "relation": "SUCCEEDED",
+    "object": "Steve Ballmer",
+    "evidence": "was succeeded by Satya Nadella.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Nokia Devices and Services",
+    "evidence": "On April 25, 2014, Microsoft acquired Nokia Devices and Services for $7.2 billion.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Mobile Oy",
+    "relation": "RENAMED_FROM",
+    "object": "Nokia Devices and Services",
+    "evidence": "This new subsidiary was renamed Microsoft Mobile Oy.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Mojang",
+    "evidence": "On September 15, 2014, Microsoft acquired the video game development company Mojang.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Mojang",
+    "relation": "BEST_KNOWN_FOR",
+    "object": "Minecraft",
+    "evidence": "best known for Minecraft.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "release of Surface Hub",
+    "evidence": "On January 21, 2015, Microsoft announced the release of its first interactive whiteboard, named Surface Hub.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 10",
+    "relation": "RELEASED_BY",
+    "object": "Microsoft",
+    "evidence": "On July 29, 2015, Windows 10 was released.",
+    "chunk_id": "Microsoft_chunk_6",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Mojang",
+    "evidence": "Microsoft acquired the video game development company Mojang, best known for Minecraft, for $2.5 billion.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Nadella",
+    "relation": "BECAME",
+    "object": "CEO of Microsoft",
+    "evidence": "Since Nadella became CEO, the company has changed focus towards cloud computing.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Surface Hub",
+    "evidence": "On January 21, 2015, Microsoft announced the release of its first interactive whiteboard, named Surface Hub.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows 10",
+    "evidence": "On July 29, 2015, Windows 10 was released.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows Server 2016",
+    "evidence": "Windows Server 2016, released in September 2016.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "HAD_SHARE",
+    "object": "2.7% of U.S. smartphone market",
+    "evidence": "Microsoft's share of the U.S. smartphone market in January 2016 was 2.7%.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LOST",
+    "object": "$7.6 billion",
+    "evidence": "During the summer of 2015 the company lost $7.6 billion related to its mobile-phone business.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FIRED",
+    "object": "7,800 employees",
+    "evidence": "firing 7,800 employees.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CONSTRUCTED",
+    "object": "data center in Mecklenburg County, Virginia",
+    "evidence": "In 2015, the construction of a data center in Mecklenburg County, Virginia.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "merger of PC and Xbox divisions",
+    "evidence": "On March 1, 2016, Microsoft announced the merger of its PC and Xbox divisions.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Phil Spencer",
+    "relation": "ANNOUNCED",
+    "object": "focus on Universal Windows Platform (UWP) apps",
+    "evidence": "with Phil Spencer announcing that Universal Windows Platform (UWP) apps would be the focus for Microsoft's gaming in the future.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "LinkedIn",
+    "evidence": "Microsoft also acquired LinkedIn in 2016.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SHOWCASED",
+    "object": "Intune for Education",
+    "evidence": "On January 24, 2017, Microsoft showcased Intune for Education at the BETT 2017 education technology conference in London.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Intune for Education",
+    "relation": "IS",
+    "object": "cloud-based application and device management service",
+    "evidence": "Intune for Education is a new cloud-based application and device management service for the education sector.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "laying off 1,850 workers",
+    "evidence": "In May 2016, the company announced it was laying off 1,850 workers.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Microsoft Azure Information Protection",
+    "evidence": "In June 2016, Microsoft announced a project named Microsoft Azure Information Protection.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Azure Information Protection",
+    "relation": "AIMS_TO",
+    "object": "help enterprises protect their data",
+    "evidence": "It aims to help enterprises protect their data as it moves between servers and devices.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "JOINED",
+    "object": "Linux Foundation",
+    "evidence": "In November 2016, Microsoft joined the Linux Foundation as a Platinum member.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "PowerShell Core 6.0",
+    "evidence": "On January 12, Microsoft released PowerShell Core 6.0 for the macOS and Linux operating systems.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CEASED",
+    "object": "notification support for Windows Phone devices",
+    "evidence": "In February 2018, Microsoft ceased notification support for its Windows Phone devices.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RECALLED",
+    "object": "Windows 10 S",
+    "evidence": "In March 2018, Microsoft recalled Windows 10 S to change it to a mode for the Windows operating system.",
+    "chunk_id": "Microsoft_chunk_7",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RECALLED",
+    "object": "Windows 10 S",
+    "evidence": "In March 2018, Microsoft recalled Windows 10 S to change it to a mode for the Windows operating system rather than a separate and unique operating system.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ESTABLISHED_GUIDELINES",
+    "object": "Office 365 profanity censorship",
+    "evidence": "In March the company also established guidelines that censor users of Office 365 from using profanity in private documents.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows File Manager source code",
+    "evidence": "In April 2018, Microsoft released the source code for Windows File Manager under the MIT License to celebrate the program's 20th anniversary.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Azure Sphere",
+    "evidence": "In April the company further expressed willingness to embrace open source initiatives by announcing Azure Sphere as its own derivative of the Linux operating system.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PARTNERED_WITH",
+    "object": "17 American intelligence agencies",
+    "evidence": "In May 2018, Microsoft partnered with 17 American intelligence agencies to develop cloud computing products.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Azure Government",
+    "relation": "RELATED_TO",
+    "object": "Joint Enterprise Defense Infrastructure (JEDI)",
+    "evidence": "The project is dubbed 'Azure Government' and has ties to the Joint Enterprise Defense Infrastructure (JEDI) surveillance program.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "GitHub",
+    "evidence": "On June 4, 2018, Microsoft officially announced the acquisition of GitHub for $7.5 billion, a deal that closed on October 26, 2018.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REVEALED",
+    "object": "Surface Go platform",
+    "evidence": "On July 10, 2018, Microsoft revealed the Surface Go platform to the public.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Teams",
+    "relation": "CONVERTED_TO",
+    "object": "gratis",
+    "evidence": "Later in the month, it converted Microsoft Teams to gratis.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Microsoft AccountGuard and Defending Democracy",
+    "evidence": "In August 2018, Microsoft released two projects called Microsoft AccountGuard and Defending Democracy.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "UNVEILED",
+    "object": "Snapdragon 850 compatibility for Windows 10",
+    "evidence": "It also unveiled Snapdragon 850 compatibility for Windows 10 on the ARM architecture.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Toyota Tsusho",
+    "relation": "PARTNERED_WITH",
+    "object": "Microsoft",
+    "evidence": "In August 2018, Toyota Tsusho began a partnership with Microsoft to create fish farming tools using the Microsoft Azure application suite for Internet of things (IoT) technologies related to water management.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Water pump mechanisms",
+    "relation": "DEVELOPED_BY",
+    "object": "Kindai University researchers",
+    "evidence": "Developed in part by researchers from Kindai University, the water pump mechanisms use artificial intelligence to count the number of fish on a conveyor belt.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DISCONTINUED",
+    "object": "Skype Classic",
+    "evidence": "In September 2018, Microsoft discontinued Skype Classic.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "JOINED",
+    "object": "Open Invention Network",
+    "evidence": "On October 10, 2018, Microsoft joined the Open Invention Network community despite holding more than 60,000 patents.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "AGREED_TO_SUPPLY",
+    "object": "100,000 Microsoft HoloLens headsets",
+    "evidence": "In November 2018, Microsoft agreed to supply 100,000 Microsoft HoloLens headsets to the United States military.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Azure",
+    "relation": "INTRODUCED",
+    "object": "Azure Multi-Factor Authentication",
+    "evidence": "In November 2018, Microsoft introduced Azure Multi-Factor Authentication for Microsoft Azure.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Project Mu",
+    "evidence": "In December 2018, Microsoft announced Project Mu, an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Project Mu",
+    "relation": "PROMOTES",
+    "object": "Firmware as a Service",
+    "evidence": "The project promotes the idea of Firmware as a Service.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "open source implementation of Windows Forms",
+    "evidence": "In the same month, Microsoft announced the open source implementation of Windows Forms.",
+    "chunk_id": "Microsoft_chunk_8",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Project Mu",
+    "evidence": "In December 2018, Microsoft announced Project Mu, an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Project Mu",
+    "relation": "USES",
+    "object": "Unified Extensible Firmware Interface (UEFI)",
+    "evidence": "an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "open source implementation of Windows Forms and WPF",
+    "evidence": "In the same month, Microsoft announced the open source implementation of Windows Forms and the Windows Presentation Foundation (WPF)",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DISCONTINUED",
+    "object": "Microsoft Edge [Legacy]",
+    "evidence": "December also saw the company discontinue the Microsoft Edge [Legacy] browser project in favor of the 'New Edge' browser project.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Edge [Legacy]",
+    "relation": "PART_OF",
+    "object": "New Edge",
+    "evidence": "in favor of the 'New Edge' browser project, featuring a Chromium based backend.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROTESTED",
+    "object": "war profiteering from a $480 million contract",
+    "evidence": "In February 2019, hundreds of Microsoft employees protested the company's war profiteering from a $480 million contract to develop virtual reality headsets for the United States Army.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INTENDED_TO_ACQUIRE",
+    "object": "ZeniMax Media",
+    "evidence": "On September 21, 2020, Microsoft announced its intent to acquire video game company ZeniMax Media.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "ZeniMax Media",
+    "relation": "PART_OF",
+    "object": "Xbox Game Studios",
+    "evidence": "the acquisition was finalized at $8.1 billion and ZeniMax Media became part of Microsoft's Xbox Game Studios division.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Xbox Series X and Xbox Series S",
+    "evidence": "On November 10, 2020, Microsoft released the Xbox Series X and Xbox Series S video game consoles.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Azure Quantum",
+    "evidence": "In February 2021, Microsoft released Azure Quantum for public preview.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Azure Quantum",
+    "relation": "PROVIDES",
+    "object": "access to quantum software and quantum hardware",
+    "evidence": "The public cloud computing platform provides access to quantum software and quantum hardware including trapped ion, neutral atom, and superconducting systems.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "buy Nuance Communications",
+    "evidence": "In April 2021, Microsoft announced it would buy Nuance Communications for approximately $16 billion.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "COMPLETED",
+    "object": "acquisition of Nuance Communications",
+    "evidence": "completing the acquisition in March 2022.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "VALUATION",
+    "object": "$2 trillion",
+    "evidence": "In 2021, in part due to the strong quarterly earnings spurred by the COVID-19 pandemic, Microsoft's valuation came to nearly $2 trillion.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Windows 11",
+    "evidence": "On June 24, 2021, Microsoft announced Windows 11 during a livestreamed event.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows 11",
+    "relation": "RELEASED",
+    "object": "October 5, 2021",
+    "evidence": "It was released to the general public on October 5, 2021.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "TakeLessons",
+    "evidence": "In September 2021, it was announced that the company had acquired TakeLessons, an online platform that connects students and tutors in numerous subjects.",
+    "chunk_id": "Microsoft_chunk_9",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Windows 10",
+    "evidence": "It was released to the general public on October 5, 2021.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "TakeLessons",
+    "evidence": "In September 2021, it was announced that the company had acquired TakeLessons.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Clipchamp",
+    "evidence": "In the same month, Microsoft acquired Australia-based video editing software company Clipchamp.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "E2EE support for Microsoft Teams calls",
+    "evidence": "In October 2021, Microsoft announced that it began rolling out end-to-end encryption (E2EE) support for Microsoft Teams calls.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Ally.io",
+    "evidence": "On October 7, Microsoft acquired Ally.io.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Activision Blizzard",
+    "evidence": "On January 18, 2022, Microsoft announced the acquisition of American video game developer and holding company Activision Blizzard.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Gaming division",
+    "relation": "FOUNDED_BY",
+    "object": "Phil Spencer",
+    "evidence": "Microsoft also named Phil Spencer, head of the Xbox brand since 2014, the inaugural CEO of the newly established Microsoft Gaming division.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Activision Blizzard",
+    "relation": "RELATED_TO",
+    "object": "Bobby Kotick",
+    "evidence": "reports have alleged that Activision CEO Bobby Kotick, a major target of the controversy, would leave the company after the acquisition is finalized.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CLOSED",
+    "object": "Activision Blizzard acquisition",
+    "evidence": "The deal was closed on October 13, 2023.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "lay off 10,000 employees",
+    "evidence": "In January 2023, CEO Satya Nadella announced Microsoft would lay off 10,000 employees.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "evidence": "On January 23, 2023, Microsoft announced a new multi-year, multi-billion dollar investment deal with ChatGPT developer OpenAI.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "Azure Quantum Elements",
+    "evidence": "In June 2023, Microsoft released Azure Quantum Elements to run molecular simulations and calculations.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Azure Quantum Elements",
+    "relation": "USES",
+    "object": "AI, high-performance computing and quantum computing",
+    "evidence": "using a combination of AI, high-performance computing and quantum computing.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Azure Quantum Elements",
+    "relation": "PROVIDES",
+    "object": "Copilot",
+    "evidence": "The service includes Copilot, a GPT-4 based large language model tool.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "new custom-designed computing chips",
+    "evidence": "At a November 2023 developer conference, Microsoft announced two new custom-designed computing chips.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Maia chip",
+    "relation": "DESIGNED_FOR",
+    "object": "large language models",
+    "evidence": "The Maia chip, designed to run large language models.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Cobalt CPU",
+    "relation": "DESIGNED_FOR",
+    "object": "general cloud services on Azure",
+    "evidence": "Cobalt CPU, designed to power general cloud services on Azure.",
+    "chunk_id": "Microsoft_chunk_10",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Maia chip",
+    "evidence": "Microsoft announced two new custom-designed computing chips: The Maia chip, designed to run large language models.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Cobalt CPU",
+    "evidence": "Microsoft announced two new custom-designed computing chips: Cobalt CPU, designed to power general cloud services on Azure.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Satya Nadella",
+    "relation": "ANNOUNCED",
+    "object": "Sam Altman and Greg Brockman",
+    "evidence": "On November 20, 2023, Satya Nadella announced that Sam Altman... and Greg Brockman... would join Microsoft to lead a new advanced AI research team.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Sam Altman",
+    "relation": "REINSTATED_AS",
+    "object": "CEO of OpenAI",
+    "evidence": "Altman was subsequently reinstated as OpenAI's CEO.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUI-HIRED",
+    "object": "Inflection AI workforce",
+    "evidence": "Microsoft acqui-hiring nearly the entirety of its 70-person workforce.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PAID",
+    "object": "$650 million to license technology",
+    "evidence": "Microsoft paid Inflection $650 million to license its technology.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "BECAME",
+    "object": "most valued publicly traded company",
+    "evidence": "In January 2024, Microsoft became the most valued publicly traded company.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Copilot Pro",
+    "evidence": "the company announced a subscription offering of artificial intelligence for small businesses via Copilot Pro.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "laying off 1,000 employees",
+    "evidence": "In June 2024, Microsoft announced it would be laying off 1,000 employees from the company's mixed reality and Azure cloud computing divisions.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "BUILDING",
+    "object": "hyperscale data centre",
+    "evidence": "Microsoft announced that it was building a 'hyperscale data centre' in South East Leeds.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REPORTED",
+    "object": "laying off its diversity, equity, and inclusion (DEI) team",
+    "evidence": "it was reported that the company was laying off its diversity, equity, and inclusion (DEI) team.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "IMPACTED_BY",
+    "object": "global IT outage",
+    "evidence": "a global IT outage impacted Microsoft services, affecting businesses, airlines, and financial institutions worldwide.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "CrowdStrike's cybersecurity software",
+    "relation": "CAUSED",
+    "object": "Microsoft systems crashing",
+    "evidence": "The outage was traced back to a flawed update of CrowdStrike's cybersecurity software, which resulted in Microsoft systems crashing.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STATED",
+    "object": "underlying cause had been fixed",
+    "evidence": "Microsoft stated that the underlying cause had been fixed but acknowledged ongoing residual impacts on some Microsoft 365 apps and services.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "BlackRock and Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "$30 billion fund",
+    "evidence": "In September 2024, BlackRock and Microsoft announced a $30 billion fund.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Global AI Infrastructure Investment Partnership",
+    "relation": "FOUNDED_BY",
+    "object": "BlackRock and Microsoft",
+    "evidence": "BlackRock and Microsoft announced a $30 billion fund, the Global AI Infrastructure Investment Partnership.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "PROVIDES",
+    "object": "AI expertise",
+    "evidence": "Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",
+    "chunk_id": "Microsoft_chunk_11",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "AI Infrastructure Investment Partnership",
+    "relation": "INVESTS_IN",
+    "object": "AI infrastructure",
+    "evidence": "AI Infrastructure Investment Partnership, to invest in AI infrastructure such as data centers and energy projects.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "AI Infrastructure Investment Partnership",
+    "relation": "PARTNERED_WITH",
+    "object": "MGX",
+    "evidence": "Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "AI Infrastructure Investment Partnership",
+    "relation": "PARTNERED_WITH",
+    "object": "Nvidia",
+    "evidence": "Partners include Abu Dhabi-backed MGX and Nvidia, which will provide AI expertise.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Investments",
+    "relation": "FOCUSES_ON",
+    "object": "U.S.",
+    "evidence": "Investments will primarily focus on the U.S., with some in partner countries.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELAUNCHED",
+    "object": "Recall",
+    "evidence": "Microsoft also announced relaunch of its controversial tool, Recall, in November 2024 after addressing privacy concerns.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Recall",
+    "relation": "CHANGED_TO",
+    "object": "opt-in feature",
+    "evidence": "Recall was changed to an opt-in feature instead of being default on.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "UK's Information Commissioner's Office",
+    "relation": "MONITORED",
+    "object": "Recall adjustments",
+    "evidence": "The UK's Information Commissioner's Office monitored the situation and noted the adjustments.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Recall adjustments",
+    "relation": "INCLUDED",
+    "object": "enhanced security measures",
+    "evidence": "which included enhanced security measures like encryption and biometric access.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "Skype shutdown",
+    "evidence": "On February 28, 2025, Microsoft announced that Skype would be shutting down on May 5, 2025.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Skype",
+    "relation": "SHUTTING_DOWN_ON",
+    "object": "May 5, 2025",
+    "evidence": "Microsoft announced that Skype would be shutting down on May 5, 2025.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STATED",
+    "object": "no job cuts due to shutdown",
+    "evidence": "The company stated there would be no job cuts due to the shutdown.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Rus LLC",
+    "relation": "FILED_FOR",
+    "object": "bankruptcy",
+    "evidence": "Microsoft's Russian division, Microsoft Rus LLC, filed for bankruptcy after President Vladimir Putin stated that foreign services providers should be throttled in Russia.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RESTRUCTURED",
+    "object": "operations in Russia",
+    "evidence": "The company had restructured operations in Russia after the 2022 Russian invasion of Ukraine.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Europol's European Cybercrime Centre",
+    "relation": "WORKED_WITH",
+    "object": "Microsoft",
+    "evidence": "it was reported that Europol's European Cybercrime Centre worked with Microsoft to disrupt Lumma Stealer.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CUT",
+    "object": "4% of its workforce",
+    "evidence": "On July 2, 2025, Microsoft announced it would cut nearly 4% of its workforce, around 9,000 jobs.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EXPECTED_TO_INVEST",
+    "object": "$650 billion",
+    "evidence": "Microsoft\u2014along with Amazon, Alphabet and Meta\u2014is expected to collectively invest about $650 billion to scale up AI-related infrastructure in 2026.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft-controlled discussion forums",
+    "relation": "BANNED",
+    "object": "nickname Microslop",
+    "evidence": "In March 2026, Microsoft-controlled discussion forums banned the nickname Microslop.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SIGNED",
+    "object": "energy pledge",
+    "evidence": "In March 2026, Microsoft signed an energy pledge at the White House.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "UNVEILED",
+    "object": "Copilot Cowork tool",
+    "evidence": "On 9 March 2026, Microsoft unveiled the Copilot Cowork tool.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Copilot Cowork tool",
+    "relation": "BASED_ON",
+    "object": "Claude Cowork",
+    "evidence": "which is based on Claude Cowork, tapping into the growing demand for autonomous agents.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RANKED",
+    "object": "No. 14 in Fortune 500",
+    "evidence": "Microsoft is ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue.",
+    "chunk_id": "Microsoft_chunk_12",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "UNVEILED",
+    "object": "Copilot Cowork tool",
+    "evidence": "On 9 March 2026, Microsoft unveiled the Copilot Cowork tool",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Copilot Cowork tool",
+    "relation": "BASED_ON",
+    "object": "Claude Cowork",
+    "evidence": "which is based on Claude Cowork",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RANKED_NO",
+    "object": "14",
+    "evidence": "Microsoft is ranked No. 14 in the 2022 Fortune 500 rankings",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LARGEST_SOFTWARE_MAKER",
+    "object": "world",
+    "evidence": "it was the world's largest software maker by revenue in 2022",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "VALUED_AT",
+    "object": "over $1 trillion",
+    "evidence": "In April 2019, Microsoft became the third U.S. public company to be valued at over $1 trillion",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "HAS_GLOBAL_BRAND_VALUATION",
+    "object": "third-highest",
+    "evidence": "As of 2024, Microsoft has the third-highest global brand valuation",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "HAS_CREDIT_RATING",
+    "object": "AAA",
+    "evidence": "Microsoft is one of only two U.S.-based companies that have a prime credit rating of AAA",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PART_OF",
+    "object": "Big Tech",
+    "evidence": "It is a Big Tech company",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RUN_BY",
+    "object": "board of directors",
+    "evidence": "The company is run by a board of directors made up of mostly company outsiders",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "board of directors",
+    "relation": "ELECTED_BY",
+    "object": "majority vote system",
+    "evidence": "Board members are elected every year at the annual shareholders' meeting using a majority vote system",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Gates",
+    "relation": "LEFT",
+    "object": "board of directors of Microsoft",
+    "evidence": "On March 13, 2020, Gates announced that he is leaving the board of directors of Microsoft",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "HIRES",
+    "object": "external law firm",
+    "evidence": "Microsoft's board of directors plans to hire an external law firm to review its sexual harassment and gender discrimination policies",
+    "chunk_id": "Microsoft_chunk_13",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PLANS_TO_HIRE",
+    "object": "external law firm",
+    "evidence": "Microsoft's board of directors plans to hire an external law firm to review its sexual harassment and gender discrimination policies.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASES",
+    "object": "summary of past allegations",
+    "evidence": "to release a summary of how the company handled past allegations of misconduct against Bill Gates and other corporate executives.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Bill Gates",
+    "relation": "CHIEF_EXECUTIVE_OF",
+    "object": "Microsoft",
+    "evidence": "Chief executives Bill Gates (1975\u20132000) Steve Ballmer (2000\u20132014) Satya Nadella (2014\u2013present)",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "WENT_PUBLIC",
+    "object": "1986",
+    "evidence": "When Microsoft went public and launched its initial public offering (IPO) in 1986.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INITIAL_PUBLIC_OFFERING_PRICE",
+    "object": "$21",
+    "evidence": "the opening stock price was $21; after the trading day, the price closed at $27.75.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STOCK_SPLITS",
+    "object": "288",
+    "evidence": "with the company's nine stock splits, any IPO shares would be multiplied by 288.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STOCK_PRICE_PEAKED_AT",
+    "object": "$119",
+    "evidence": "The stock price peaked in 1999 at around $119 ($60.928, adjusting for splits).",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "BEGAN_TO_OFFER",
+    "object": "dividend",
+    "evidence": "Microsoft began to offer a dividend on January 16, 2003.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DIVIDEND_AMOUNT",
+    "object": "eight cents per share",
+    "evidence": "starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SWITCHED_TO",
+    "object": "quarterly dividends",
+    "evidence": "switching from yearly to quarterly dividends in 2005.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ASSETS_VALUE",
+    "object": "$41 billion",
+    "evidence": "whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RELEASED",
+    "object": "corporate bond",
+    "evidence": "in February 2011 Microsoft released a corporate bond amounting to $2.25 billion.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "SURPASSED",
+    "object": "Microsoft",
+    "evidence": "For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "PROFITS",
+    "object": "$5.2 billion",
+    "evidence": "Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft's Online Services Division",
+    "relation": "HAS_BEEN",
+    "object": "loss-making since 2006",
+    "evidence": "Microsoft's Online Services Division has been continuously loss-making since 2006.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft's Online Services Division",
+    "relation": "LOST",
+    "object": "$726 million",
+    "evidence": "in Q1 2011 it lost $726 million.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "POSTED",
+    "object": "first quarterly loss",
+    "evidence": "On July 20, 2012, Microsoft posted its first quarterly loss ever.",
+    "chunk_id": "Microsoft_chunk_14",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Services Division",
+    "relation": "LOSS_MAKING_SINCE",
+    "object": "2006",
+    "evidence": "Services Division has been continuously loss-making since 2006",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Services Division",
+    "relation": "LOST",
+    "object": "$726 million",
+    "evidence": "in Q1 2011 it lost $726 million",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Services Division",
+    "relation": "LOST",
+    "object": "$2.5 billion",
+    "evidence": "This follows a loss of $2.5 billion for the year 2010",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "POSTED_LOSS",
+    "object": "$492 million",
+    "evidence": "On July 20, 2012, Microsoft posted its first quarterly loss ever, with a net loss of $492 million",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "aQuantive",
+    "relation": "ACQUIRED_BY",
+    "object": "Microsoft",
+    "evidence": "due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "MARKET_CAPITALIZATION",
+    "object": "$314B",
+    "evidence": "As of January 2014, Microsoft's market capitalization stood at $314B",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RANKED",
+    "object": "8th-largest company",
+    "evidence": "making it the 8th-largest company in the world by market capitalization",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OVERTOOK",
+    "object": "ExxonMobil",
+    "evidence": "In November 2014, Microsoft overtook ExxonMobil to become the second most-valuable company by market capitalization",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "MARKET_VALUE",
+    "object": "over $410B",
+    "evidence": "Its total market value was over $410B",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "STOCK_PRICE",
+    "object": "$50.04",
+    "evidence": "the stock price hitting $50.04 a share",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EARNINGS_ABROAD",
+    "object": "$76.4 billion",
+    "evidence": "In 2015, Reuters reported that Microsoft had earnings abroad of $76.4 billion",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "U.S. law",
+    "relation": "REGULATES",
+    "object": "corporations do not pay income tax on overseas profits",
+    "evidence": "Under U.S. law, corporations do not pay income tax on overseas profits until the profits are brought into the United States",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "WON_CONTRACT",
+    "object": "$480 million military contract",
+    "evidence": "In November 2018, the company won a $480 million military contract with the U.S. government",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "augmented reality headset technology",
+    "relation": "USED_IN",
+    "object": "weapon repertoires of American soldiers",
+    "evidence": "to bring augmented reality (AR) headset technology into the weapon repertoires of American soldiers",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft Canada",
+    "relation": "ESTABLISHED_BY",
+    "object": "Microsoft",
+    "evidence": "An example is Microsoft Canada, which it established in 1985",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EMPLOYS",
+    "object": "over 40 thousand people",
+    "evidence": "Microsoft employed over 40 thousand people in marketing and sales",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SPENT_ON_MARKETING",
+    "object": "over 25 billion dollars",
+    "evidence": "In FY 2025, Microsoft spent over 25 billion dollars on marketing",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SPENT_ON_R&D",
+    "object": "over 30 billion dollars",
+    "evidence": "compared to over 30 billion dollars spent on research and development",
+    "chunk_id": "Microsoft_chunk_15",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SPENT_ON",
+    "object": "marketing",
+    "evidence": "spent over 25 billion dollars on marketing, or over 15 % of its expenses",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SPENT_ON",
+    "object": "research and development",
+    "evidence": "over 30 billion dollars spent on research and development",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EMPLOYS",
+    "object": "40 thousand people",
+    "evidence": "Microsoft employed over 40 thousand people in marketing and sales",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "COMMISSIONED",
+    "object": "research firms",
+    "evidence": "Microsoft commissioned research firms to do independent studies",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows Server 2003",
+    "relation": "EASIER_TO_ADMINISTRATE_THAN",
+    "object": "Linux",
+    "evidence": "the firms concluded that companies found Windows easier to administrate than Linux",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Windows",
+    "relation": "RESULTS_IN",
+    "object": "lower TCO",
+    "evidence": "those using Windows would administrate faster resulting in lower costs for their company (i.e. lower TCO)",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Yankee Group",
+    "relation": "CONCLUDED",
+    "object": "upgrading costs",
+    "evidence": "a study by the Yankee Group concluded that upgrading from one version of Windows Server to another costs a fraction of the switching costs from Windows Server to Linux",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Linux servers",
+    "relation": "PROVIDES",
+    "object": "increased security and reliability",
+    "evidence": "companies surveyed noted the increased security and reliability of Linux servers",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft studies",
+    "relation": "CLAIMED_TO_BE",
+    "object": "outdated and one-sided",
+    "evidence": "claimed that the Microsoft studies were 'simply outdated and one-sided'",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Linux",
+    "relation": "HAS",
+    "object": "lower TCO",
+    "evidence": "its survey concluded that the TCO of Linux was lower",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "layoffs of 18,000 employees",
+    "evidence": "Microsoft announced plans to lay off 18,000 employees",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "EMPLOYS",
+    "object": "127,104 people",
+    "evidence": "Microsoft employed 127,104 people as of June 5, 2014",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REDUCED_WORKFORCE_BY",
+    "object": "14 percent",
+    "evidence": "making this about a 14 percent reduction of its workforce",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INCLUDED",
+    "object": "12,500 professional and factory personnel",
+    "evidence": "This included 12,500 professional and factory personnel",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ELIMINATED",
+    "object": "5,800 jobs",
+    "evidence": "Microsoft had eliminated 5,800 jobs in 2009",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAID_OFF",
+    "object": "2,100 people",
+    "evidence": "In September 2014, Microsoft laid off 2,100 people",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAID_OFF",
+    "object": "15,000 employees",
+    "evidence": "This brought the total number to over 15,000 out of the 18,000 expected cuts",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "REVEALED",
+    "object": "largest-ever layoff sweep",
+    "evidence": "Microsoft revealed that it was almost done with eliminating 18,000 employees, which was its largest-ever layoff sweep",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "7,800 job cuts",
+    "evidence": "In July 2015, Microsoft announced another 7,800 job cuts",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ANNOUNCED",
+    "object": "1,850 job cuts",
+    "evidence": "In May 2016, Microsoft announced another 1,850 job cuts",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "RECORDED",
+    "object": "impairment and restructuring charge of approximately $950 million",
+    "evidence": "the company will record an impairment and restructuring charge of approximately $950 million",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "LAID_OFF",
+    "object": "1,900 employees",
+    "evidence": "Microsoft laid off 1,900 employees in its gaming division in January 2024",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Activision Blizzard",
+    "relation": "AFFECTED_BY",
+    "object": "layoffs",
+    "evidence": "The layoffs primarily affected Activision Blizzard employees",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "Xbox",
+    "relation": "AFFECTED_BY",
+    "object": "layoffs",
+    "evidence": "some Xbox and ZeniMax employees were also affected",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  },
+  {
+    "subject": "ZeniMax",
+    "relation": "AFFECTED_BY",
+    "object": "layoffs",
+    "evidence": "some Xbox and ZeniMax employees were also affected",
+    "chunk_id": "Microsoft_chunk_16",
+    "source_title": "Microsoft"
+  }
+]

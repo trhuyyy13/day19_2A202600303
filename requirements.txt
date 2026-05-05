@@ -1,0 +1,10 @@
+openai
+networkx
+matplotlib
+pandas
+numpy
+wikipedia-api
+scikit-learn
+tqdm
+python-dotenv
+streamlit

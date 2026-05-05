@@ -1,0 +1,192 @@
+id,question,expected_type,flat_rag_answer,graph_rag_answer,winner,notes
+1,"Using the graph paths, how is Microsoft connected to OpenAI through investment, Azure, and Copilot?",multi-hop,"Microsoft is connected to OpenAI through several key avenues:
+
+1. **Investment**: Microsoft made an initial investment of $1 billion in OpenAI in 2019, which was part of a series of investments totaling approximately $3 billion by 2022. In January 2023, Microsoft announced an additional investment of $10 billion, further solidifying their financial relationship.
+
+2. **Azure**: A significant portion of Microsoft's investments in OpenAI has been allocated to purchasing time on Microsoft Azure, which is the cloud computing platform that hosts OpenAI's services. This partnership has allowed OpenAI to run its systems on an Azure-based supercomputing platform.
+
+3. **Copilot**: Microsoft integrated OpenAI's models into its Copilot chatbot, which was incorporated into Windows and released as mobile apps. This collaboration highlights the practical application of OpenAI's technology within Microsoft's products.
+
+Overall, these connections illustrate a deepening partnership between Microsoft and OpenAI, characterized by substantial financial investments, shared technological infrastructure, and collaborative product development.","Microsoft is connected to OpenAI through several key pathways:
+
+1. **Investment**: Microsoft has made significant investments in OpenAI, including a multi-year, multi-billion dollar investment deal announced on January 23, 2023, and a $1 billion investment in OpenAI LP. This financial backing establishes a strong partnership between the two entities.
+
+2. **Azure**: Microsoft provides Azure cloud computing resources to OpenAI. In a notable deal, OpenAI agreed to purchase $250 billion worth of Azure services, indicating a deep integration of Microsoft's cloud infrastructure into OpenAI's operations.
+
+3. **Copilot**: Microsoft has utilized OpenAI's models for its Copilot chatbot, integrating these capabilities into its products like Windows and Microsoft 365. This shows a direct application of OpenAI's technology within Microsoft's software offerings.
+
+In summary, Microsoft's investment in OpenAI, provision of Azure services, and integration of OpenAI's models into products like Copilot create a robust connection between the two companies.",GraphRAG,GraphRAG answered with an explicit graph path.
+2,"Trace the ownership path from OpenAI Global, LLC to OpenAI LP and OpenAI, Inc.",multi-hop,"The ownership path from OpenAI Global, LLC to OpenAI LP and OpenAI, Inc. is as follows:
+
+1. OpenAI, Inc. (the nonprofit) controls OpenAI GP LLC.
+2. OpenAI GP LLC controls OpenAI LP.
+3. OpenAI LP is owned by OpenAI, Inc., OpenAI employees, and investors.
+4. OpenAI Global, LLC is owned by OpenAI LP and Microsoft.
+
+Thus, the path is: OpenAI, Inc. → OpenAI GP LLC → OpenAI LP → OpenAI Global, LLC.","To trace the ownership path from OpenAI Global, LLC to OpenAI LP and OpenAI, Inc., we can follow these connections:
+
+1. **OpenAI Global, LLC** is owned by **OpenAI LP**. This is established by the evidence stating that ""OpenAI Global, LLC, was owned by OpenAI LP and Microsoft.""
+
+2. **OpenAI LP** is owned by **OpenAI, Inc.** The evidence states that ""OpenAI LP was owned by the nonprofit OpenAI, Inc., OpenAI employees, and investors.""
+
+Thus, the ownership path is:
+- OpenAI Global, LLC → OpenAI LP → OpenAI, Inc.
+
+This reasoning is based on the direct ownership relationships provided in the graph context.",GraphRAG,GraphRAG answered with an explicit graph path.
+3,How does Microsoft connect to OpenAI Group PBC after OpenAI's restructuring?,multi-hop,The context is insufficient.,"The graph context provides information about Microsoft's ownership stake in OpenAI Group PBC after OpenAI's restructuring. Specifically, it states that Microsoft owns a 27% stake in OpenAI Group PBC, which was formed as a result of OpenAI's transition to a public benefit corporation (PBC). 
+
+The reasoning path is as follows:
+1. OpenAI underwent a restructuring that converted its capped-profit model into a PBC.
+2. As part of this restructuring, Microsoft retained a significant ownership stake (27%) in the newly formed OpenAI Group PBC.
+3. This indicates that Microsoft continues to have a financial and operational connection to OpenAI following the restructuring.
+
+Thus, Microsoft connects to OpenAI Group PBC through its ownership stake in the organization post-restructuring.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+4,What graph path connects ChatGPT to Microsoft through OpenAI?,multi-hop,The context is insufficient.,"The graph path connecting ChatGPT to Microsoft through OpenAI is as follows:
+
+1. **ChatGPT CREATED_BY OpenAI**: ChatGPT was developed by OpenAI.
+2. **OpenAI OWNED_BY OpenAI Group PBC**: OpenAI transitioned to a for-profit model and is now owned by OpenAI Group PBC.
+3. **OpenAI Group PBC OWNED_BY Microsoft**: Microsoft owns a 27% stake in OpenAI Group PBC.
+
+This path shows the direct connection from ChatGPT to OpenAI and then to Microsoft, indicating the ownership and development relationships.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+5,How are Sam Altman and Microsoft connected through OpenAI's 2023 leadership crisis?,multi-hop,"Sam Altman and Microsoft are connected through OpenAI's 2023 leadership crisis as Microsoft, along with other investors, pressured OpenAI's board to reinstate Altman after his removal as CEO. Following negotiations that ultimately failed to reinstate him, Microsoft announced that Altman and Greg Brockman would join Microsoft to lead a new advanced AI research team, indicating Microsoft's commitment to Altman despite the turmoil at OpenAI.","The graph context provides a connection between Sam Altman, Microsoft, and OpenAI during the 2023 leadership crisis through several key events:
+
+1. **Sam Altman's Removal and Return**: Sam Altman was removed as CEO of OpenAI on November 17, 2023, due to a lack of confidence from the board. Following negotiations, he was reinstated on November 21, 2023.
+
+2. **Microsoft's Investment in OpenAI**: Microsoft had a significant financial relationship with OpenAI, having invested billions in the company, including a multi-billion dollar investment deal announced on January 23, 2023. This investment indicates Microsoft's vested interest in OpenAI's leadership and direction.
+
+3. **Microsoft's Stake in OpenAI**: After OpenAI's restructuring in 2025, Microsoft owned a 27% stake in OpenAI Group PBC, further solidifying their connection.
+
+4. **Impact of Leadership Changes**: The leadership crisis at OpenAI, particularly Altman's removal and subsequent reinstatement, likely affected Microsoft's strategic interests and investments in OpenAI, as they are a major partner and customer.
+
+Thus, the connection between Sam Altman and Microsoft through OpenAI's 2023 leadership crisis is primarily established through Altman's removal and return as CEO, alongside Microsoft's significant financial investment and ownership stake in OpenAI.",GraphRAG,GraphRAG answered with an explicit graph path.
+6,How is Elon Musk connected to OpenAI and Sam Altman through lawsuits and bids?,multi-hop,"Elon Musk is connected to OpenAI and Sam Altman through a series of lawsuits. On February 29, 2024, Musk filed a lawsuit against OpenAI and CEO Sam Altman, claiming they shifted focus from public benefit to profit maximization. OpenAI dismissed this lawsuit as ""incoherent"" and ""frivolous."" Musk later revived legal action against Altman and others in August 2024. In response, OpenAI countersued Musk on April 9, 2024, alleging he engaged in ""bad-faith tactics"" to hinder the company's progress and seize its innovations for personal benefit. Musk's legal actions included a demand to undo OpenAI's transition from a non-profit to a for-profit structure, and he began testifying against Altman and OpenAI in a jury trial that started in April 2026. 
+
+Thus, the context provides sufficient information about Musk's legal connections to OpenAI and Altman through lawsuits and bids.","Elon Musk is connected to OpenAI and Sam Altman through a series of legal actions and financial bids. He co-founded OpenAI, which establishes his initial connection. Subsequently, he submitted a $97.4 billion unsolicited bid, indicating a financial interest in the organization. This relationship turned contentious when Musk filed a lawsuit against OpenAI and Sam Altman, which led to OpenAI countersuing him. Thus, the connections are established through his role as a co-founder, the unsolicited bid, and the subsequent lawsuits exchanged between Musk and OpenAI.",GraphRAG,GraphRAG answered with an explicit graph path.
+7,"Which cloud and compute providers are connected to OpenAI, and what roles do they play?",multi-hop,The context is insufficient.,"The graph context provides information about OpenAI's connections to various cloud and compute providers, specifically Microsoft, Google, and Nvidia.
+
+1. **Microsoft**: 
+   - Microsoft provides Azure cloud computing resources to OpenAI and has made significant investments in the company, including a $10 billion investment and a $1 billion investment in OpenAI LP. Microsoft uses OpenAI models for its Copilot chatbot and integrates these models into its products like Windows and Microsoft 365.
+
+2. **Google**: 
+   - OpenAI rented CPUs and GPUs from Google for training its models, specifically for training Dota 2 bots. Additionally, OpenAI began renting Google Cloud's Tensor Processing Units (TPUs) to support ChatGPT and related services.
+
+3. **Nvidia**: 
+   - Nvidia has provided AI expertise and gifted OpenAI a DGX-1 supercomputer. OpenAI also depends on Nvidia GPUs for its operations.
+
+In summary, Microsoft plays a significant role as both a provider of cloud services and an investor, Google provides compute resources for model training, and Nvidia supplies hardware and expertise.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+8,How is The Stargate Project connected to OpenAI and other infrastructure partners?,multi-hop,The context is insufficient.,"The graph context indicates that The Stargate Project is a joint venture involving OpenAI, Oracle, SoftBank, and MGX, and it is related to building an AI infrastructure system in conjunction with the US government. This suggests that The Stargate Project is directly connected to OpenAI as one of its partners in this initiative. 
+
+The reasoning path is as follows:
+1. The Stargate Project is identified as part of OpenAI.
+2. It is described as a joint venture with specific partners (Oracle, SoftBank, MGX).
+3. The project aims to collaborate with the US government on AI infrastructure.
+
+Thus, The Stargate Project's connection to OpenAI and its infrastructure partners is established through its role as a joint venture.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+9,"Which OpenAI products or models are connected to GPT-2, GPT-3, GPT-4, DALL-E, Sora, Operator, and ChatGPT?",multi-hop,"The OpenAI products or models connected to GPT-2, GPT-3, GPT-4, DALL-E, Sora, Operator, and ChatGPT are as follows:
+
+- **GPT-2**: Announced in February 2019, known for generating human-like text.
+- **GPT-3**: Announced in 2020, a language model for natural language processing tasks.
+- **GPT-4**: Released on March 14, 2023, as an API and a feature of ChatGPT Plus.
+- **DALL-E**: Introduced in 2021, a model for generating images from textual descriptions, based on a variant of the GPT-3 architecture.
+- **Sora**: Launched in December 2024, a text-to-video model.
+- **Operator**: Released on January 23, 2025, an AI agent for accessing websites to execute user-defined goals.
+- **ChatGPT**: Launched in December 2022, based on GPT-3.5, and includes various features like ChatGPT Pro and ChatGPT Atlas.
+
+These products and models are interconnected through their development and underlying technologies.","The graph context does not contain enough information to determine the specific connections between GPT-2, GPT-3, GPT-4, DALL-E, Sora, Operator, and ChatGPT. While it mentions the creation and release of these models and products, it does not provide explicit connections or relationships among them.",Flat RAG,Flat RAG had usable retrieved text while graph context was insufficient.
+10,"How is OpenAI connected to government or defense entities such as DoD, AFRICOM, and Anduril?",multi-hop,"OpenAI is connected to government and defense entities such as the Department of Defense (DoD), AFRICOM, and Anduril through various contracts and partnerships. OpenAI provides large language models (LLMs) to the DoD and has been involved in projects like the Artificial Intelligence Cyber Challenge and the Advanced Research Projects Agency for Health. In October 2024, it was reported that OpenAI's tools are deemed ""essential"" for AFRICOM's mission and are included in a contractual agreement with Microsoft. Additionally, OpenAI partnered with Anduril in December 2024 to develop drone defense technologies. In June 2025, the DoD awarded OpenAI a significant contract to develop AI tools for military applications, and OpenAI announced a program to provide access to its models for government entities. Furthermore, in February 2026, OpenAI reached an agreement with the DoD to deploy its models in classified networks, although concerns about domestic surveillance and autonomous weapons were raised in relation to this agreement.","OpenAI is connected to government and defense entities through several key partnerships and agreements. Specifically, OpenAI has:
+
+1. **Received a Contract from the DoD**: OpenAI was awarded a $200 million contract by the United States Department of Defense to develop AI tools for military and national security applications.
+
+2. **Partnership with Anduril Industries**: OpenAI partnered with Anduril Industries to develop and deploy advanced AI solutions for national security missions.
+
+3. **Collaboration with AFRICOM**: OpenAI's tools are considered essential for the mission of AFRICOM, and they are included in a contractual agreement between the DoD and Microsoft, which highlights OpenAI's role in defense-related projects.
+
+4. **OpenAI for Government Program**: OpenAI announced a program aimed at providing federal, state, and local governments access to its models, including ChatGPT.
+
+These connections illustrate OpenAI's involvement in projects that support national security and defense initiatives.",GraphRAG,GraphRAG answered with an explicit graph path.
+11,How is Ilya Sutskever connected to OpenAI's safety and superalignment story?,multi-hop,"Ilya Sutskever is connected to OpenAI's safety and superalignment story as he was the former chief scientist and co-leader of the superalignment project, which aimed to align future superintelligent systems. He argued that open-sourcing increasingly capable models was risky due to safety concerns. Sutskever left OpenAI in May 2024, which coincided with the end of the superalignment project.","The graph context indicates that Ilya Sutskever was a co-founder of OpenAI and served as its chief scientist until his resignation in May 2024. He argued that open-sourcing increasingly capable models was risky, which suggests he had concerns about safety in AI development. Additionally, the superalignment project, which aimed to address safety and alignment issues in AI, was co-led by Sutskever and ended in May 2024 after his departure. This connection implies that Sutskever played a significant role in shaping OpenAI's approach to safety and superalignment before leaving the organization.
+
+Thus, Ilya Sutskever is connected to OpenAI's safety and superalignment story through his foundational role, his advocacy for caution in AI development, and his leadership in the superalignment project.",GraphRAG,GraphRAG answered with an explicit graph path.
+12,"What path connects Microsoft to MS-DOS, Windows, Windows NT, and Xbox?",multi-hop,"The path that connects Microsoft to MS-DOS, Windows, Windows NT, and Xbox is the evolution of its operating systems and hardware products. Microsoft started with MS-DOS, which was foundational for its early operating systems. This led to the development of Windows as a graphical extension of MS-DOS, followed by Windows NT, which unified the Windows operating systems under a new codebase. Finally, Microsoft expanded into hardware with the release of the Xbox, marking its entry into the video game console market.","The graph does not contain enough information to determine a specific path connecting Microsoft to MS-DOS, Windows, Windows NT, and Xbox. While it provides details about Microsoft's ownership and development of these products, it does not outline a direct or sequential path connecting them in a way that answers the question.",Flat RAG,Flat RAG had usable retrieved text while graph context was insufficient.
+13,"How are Bill Gates, Paul Allen, Traf-O-Data, and Microsoft connected?",multi-hop,"Bill Gates and Paul Allen are connected through their founding of Traf-O-Data and later Microsoft. They started Traf-O-Data in 1972 to sell a computer that tracked automobile traffic data. Their experience and skills in programming led them to create a BASIC interpreter for the Altair 8800 microcomputer, which ultimately resulted in the establishment of Microsoft on April 4, 1975. Thus, Traf-O-Data was an early venture that laid the groundwork for their later success with Microsoft.","Bill Gates, Paul Allen, Traf-O-Data, and Microsoft are connected through their foundational roles in the establishment of Microsoft. Bill Gates and Paul Allen co-founded Microsoft in 1975, and prior to that, they founded Traf-O-Data in 1972. This means that Traf-O-Data is part of the early history that led to the creation of Microsoft. 
+
+The reasoning path is as follows:
+1. Bill Gates and Paul Allen founded Traf-O-Data in 1972.
+2. They later co-founded Microsoft in 1975.
+3. Therefore, Traf-O-Data is connected to Microsoft through its founders, Gates and Allen. 
+
+Thus, the connections are:
+- Bill Gates and Paul Allen are co-founders of Microsoft.
+- Traf-O-Data is a precursor to Microsoft, founded by the same individuals.",GraphRAG,GraphRAG answered with an explicit graph path.
+14,"How is Microsoft connected to GitHub, LinkedIn, and Activision Blizzard through acquisitions?",multi-hop,"Microsoft is connected to GitHub, LinkedIn, and Activision Blizzard through acquisitions as follows:
+
+1. **GitHub**: Microsoft announced its intent to acquire GitHub for $7.5 billion, and the deal closed on October 26, 2018. GitHub continues to operate independently under Microsoft.
+
+2. **LinkedIn**: The context does not provide specific details about the acquisition of LinkedIn, but it is known that Microsoft acquired LinkedIn in 2016 for approximately $26.2 billion.
+
+3. **Activision Blizzard**: Microsoft announced the acquisition of Activision Blizzard in January 2022 for $68.7 billion, and the deal was completed on October 13, 2023.
+
+The context is insufficient to provide details about the LinkedIn acquisition.","The graph context provides specific information about Microsoft's acquisitions of GitHub, LinkedIn, and Activision Blizzard:
+
+1. **GitHub**: Microsoft acquired GitHub on June 4, 2018, for $7.5 billion, with the deal closing on October 26, 2018.
+2. **LinkedIn**: Microsoft acquired LinkedIn in 2016.
+3. **Activision Blizzard**: Microsoft announced the acquisition of Activision Blizzard on January 18, 2022, and the deal was closed on October 13, 2023.
+
+Thus, Microsoft is connected to GitHub, LinkedIn, and Activision Blizzard through these acquisition events. 
+
+The reasoning path is straightforward: I identified the relevant acquisition statements in the graph context and summarized them to answer the question.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+15,"How does Satya Nadella connect to Steve Ballmer, Microsoft, and Sam Altman?",multi-hop,"Satya Nadella connects to Steve Ballmer as his successor as CEO of Microsoft, having taken over the role in 2014 after Ballmer stepped down. Nadella has since led Microsoft in a shift towards cloud computing and other technologies. He also connects to Sam Altman through recent events where Microsoft expressed support for Altman during his removal as CEO of OpenAI, and subsequently announced that Altman and Greg Brockman would be joining Microsoft to lead a new advanced AI research team. Thus, Nadella is linked to both Ballmer and Altman through their roles and recent developments at Microsoft and OpenAI.","Satya Nadella connects to Steve Ballmer, Microsoft, and Sam Altman through a series of leadership transitions and organizational changes within Microsoft. 
+
+1. **Steve Ballmer**: Satya Nadella succeeded Steve Ballmer as CEO of Microsoft in 2014, marking a direct leadership connection between the two.
+2. **Microsoft**: Both Ballmer and Nadella have served as CEOs of Microsoft, with Nadella continuing the company's evolution after Ballmer stepped down.
+3. **Sam Altman**: Recently, Satya Nadella announced that Sam Altman would join Microsoft to lead a new advanced AI research team, establishing a professional relationship between them.
+
+Thus, the reasoning path shows a clear connection through leadership roles and recent organizational developments within Microsoft.",GraphRAG,GraphRAG answered with an explicit graph path.
+16,"How is OpenAI connected to News Corp, The New York Times, and copyright-related disputes?",multi-hop,"OpenAI is connected to News Corp and The New York Times through a series of copyright-related disputes. On May 22, 2024, OpenAI entered into an agreement with News Corp to integrate content from its publications, including The Wall Street Journal and The New York Post, into its AI platform. However, The New York Times, along with other publications, has sued OpenAI for copyright infringement, alleging that the company unlawfully used their content to train its AI models. This pattern of legal action reflects ongoing tensions between OpenAI and various media organizations regarding the use of copyrighted material.","OpenAI is connected to News Corp and The New York Times through various legal and business interactions. Specifically, OpenAI signed agreements with News Corp to integrate news content from its publications, including The Wall Street Journal and the New York Post. Additionally, both News Corp and The New York Times have been involved in copyright-related disputes with OpenAI, with The New York Times suing OpenAI for copyright infringement in late December 2023, and other publications, including Canadian news outlets, also filing lawsuits against OpenAI for using their articles without permission.
+
+The reasoning path is as follows:
+1. OpenAI signed agreements with News Corp for content integration.
+2. The New York Times sued OpenAI for copyright infringement.
+3. Other news outlets have also filed lawsuits against OpenAI for similar copyright issues.
+
+Thus, the connections between OpenAI, News Corp, The New York Times, and copyright-related disputes are established through these agreements and legal actions.",GraphRAG,GraphRAG answered with an explicit graph path.
+17,"How does OpenAI connect to Whisper, YouTube transcription, and GPT-4 training?",multi-hop,The context is insufficient.,"The graph context provides sufficient information to explain how OpenAI connects to Whisper, YouTube transcription, and GPT-4 training. 
+
+1. **Whisper**: OpenAI used Whisper, a speech recognition model, to transcribe over one million hours of YouTube videos into text.
+2. **YouTube Transcription**: The transcriptions from YouTube videos were part of the data used for training.
+3. **GPT-4 Training**: The dataset created from these transcriptions was instrumental in training GPT-4.
+
+Thus, the connection is that Whisper facilitated the transcription of YouTube content, which in turn contributed to the training dataset for GPT-4.",GraphRAG,GraphRAG found a graph path while Flat RAG lacked context.
+18,"How are OpenAI Foundation, OpenAI Group PBC, the nonprofit, and Microsoft connected in the graph?",multi-hop,"The context provides information about the connections between OpenAI Foundation, OpenAI Group PBC, the nonprofit, and Microsoft. OpenAI Foundation is the nonprofit that controls OpenAI Group PBC, which is the for-profit entity formed after OpenAI's restructuring. OpenAI Foundation holds a 26% stake in OpenAI Group PBC, while Microsoft holds a 27% stake. Additionally, all members of the OpenAI Group PBC board of directors are appointed by the OpenAI Foundation, which can remove them at any time. This structure indicates a close relationship between the nonprofit and the for-profit entity, with Microsoft being a significant investor in the for-profit branch. 
+
+Thus, the connections are as follows:
+- OpenAI Foundation controls OpenAI Group PBC.
+- OpenAI Foundation holds a 26% stake in OpenAI Group PBC.
+- Microsoft holds a 27% stake in OpenAI Group PBC.
+- The board of OpenAI Group PBC is appointed by OpenAI Foundation.
+
+Overall, the context is sufficient to answer the question.","In the graph context, the connections between OpenAI Foundation, OpenAI Group PBC, the nonprofit, and Microsoft can be summarized as follows:
+
+1. **Ownership Structure**: The OpenAI Foundation owns a 26% stake in OpenAI Group PBC, which indicates a direct financial relationship between the nonprofit and the for-profit entity.
+
+2. **Microsoft's Investment**: Microsoft has invested significantly in OpenAI, including a multi-billion dollar investment deal and a $1 billion investment in OpenAI LP. This investment relationship suggests that Microsoft has a vested interest in the success of OpenAI's initiatives.
+
+3. **Microsoft's Ownership**: Following a restructuring in 2025, Microsoft owned a 27% stake in OpenAI Group PBC, further solidifying its connection to both the for-profit and nonprofit aspects of OpenAI.
+
+4. **Interconnectedness**: The OpenAI Group PBC is part of the OpenAI Foundation, and all board members of the PBC are appointed by the Foundation, indicating a governance link between the nonprofit and the for-profit entity.
+
+In summary, the OpenAI Foundation and OpenAI Group PBC are interconnected through ownership and governance, while Microsoft is linked through significant investments and ownership stakes in the for-profit entity.",GraphRAG,GraphRAG answered with an explicit graph path.
+19,"How is OpenAI connected to Nvidia, AMD, Oracle, Google Cloud TPUs, and Azure services?",multi-hop,"OpenAI is connected to Nvidia, AMD, Oracle, Google Cloud TPUs, and Azure services through various partnerships and agreements. OpenAI has sought to reduce its dependence on Nvidia GPUs by exploring alternatives, such as renting Google Cloud's Tensor Processing Units (TPUs) and entering into a significant contract with Oracle for computing power. Additionally, OpenAI has announced multi-billion dollar deals with AMD for chip purchases and has a partnership with Nvidia that includes a potential investment. OpenAI also has a long-standing relationship with Microsoft, which has invested heavily in the company and provides Azure services for its operations.","OpenAI is connected to Nvidia, AMD, Oracle, Google Cloud TPUs, and Azure services through various partnerships and agreements:
+
+1. **Nvidia**: OpenAI has a history of collaboration with Nvidia, including receiving a gifted DGX-1 supercomputer in 2016 and a memorandum of understanding announced in September 2025, which included potential deployment of Nvidia systems.
+
+2. **AMD**: OpenAI announced a multi-billion dollar deal with AMD in October 2025, indicating a significant partnership for hardware supply.
+
+3. **Oracle**: OpenAI signed a contract with Oracle in September 2025 to purchase $300 billion in computing power over five years, establishing a strong connection for cloud computing resources.
+
+4. **Google Cloud TPUs**: OpenAI began renting Google Cloud's Tensor Processing Units (TPUs) in June 2025 to support its services, indicating reliance on Google’s infrastructure for computational needs.
+
+5. **Azure services**: OpenAI has a substantial relationship with Microsoft, which provides Azure cloud computing resources. OpenAI agreed to purchase $250 billion of Azure services, highlighting a deep integration into Microsoft's cloud ecosystem.
+
+These connections illustrate OpenAI's reliance on various technology companies for hardware and cloud computing resources essential for its operations and development of AI technologies.",GraphRAG,GraphRAG answered with an explicit graph path.
+20,"Which graph paths show Microsoft expanding from operating systems into cloud, developer tools, gaming, and AI?",multi-hop,The context is insufficient.,"The graph does not contain enough information to identify specific paths showing Microsoft expanding from operating systems into cloud, developer tools, gaming, and AI. While there are mentions of Microsoft's investments in OpenAI and its involvement in cloud computing and gaming, the graph lacks explicit connections or paths that clearly illustrate this expansion across all specified areas.",Tie,Both methods had insufficient context.

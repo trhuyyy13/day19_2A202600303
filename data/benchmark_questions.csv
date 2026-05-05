@@ -1,0 +1,21 @@
+id,question,expected_type
+1,"Using the graph paths, how is Microsoft connected to OpenAI through investment, Azure, and Copilot?",multi-hop
+2,"Trace the ownership path from OpenAI Global, LLC to OpenAI LP and OpenAI, Inc.",multi-hop
+3,"How does Microsoft connect to OpenAI Group PBC after OpenAI's restructuring?",multi-hop
+4,"What graph path connects ChatGPT to Microsoft through OpenAI?",multi-hop
+5,"How are Sam Altman and Microsoft connected through OpenAI's 2023 leadership crisis?",multi-hop
+6,"How is Elon Musk connected to OpenAI and Sam Altman through lawsuits and bids?",multi-hop
+7,"Which cloud and compute providers are connected to OpenAI, and what roles do they play?",multi-hop
+8,"How is The Stargate Project connected to OpenAI and other infrastructure partners?",multi-hop
+9,"Which OpenAI products or models are connected to GPT-2, GPT-3, GPT-4, DALL-E, Sora, Operator, and ChatGPT?",multi-hop
+10,"How is OpenAI connected to government or defense entities such as DoD, AFRICOM, and Anduril?",multi-hop
+11,"How is Ilya Sutskever connected to OpenAI's safety and superalignment story?",multi-hop
+12,"What path connects Microsoft to MS-DOS, Windows, Windows NT, and Xbox?",multi-hop
+13,"How are Bill Gates, Paul Allen, Traf-O-Data, and Microsoft connected?",multi-hop
+14,"How is Microsoft connected to GitHub, LinkedIn, and Activision Blizzard through acquisitions?",multi-hop
+15,"How does Satya Nadella connect to Steve Ballmer, Microsoft, and Sam Altman?",multi-hop
+16,"How is OpenAI connected to News Corp, The New York Times, and copyright-related disputes?",multi-hop
+17,"How does OpenAI connect to Whisper, YouTube transcription, and GPT-4 training?",multi-hop
+18,"How are OpenAI Foundation, OpenAI Group PBC, the nonprofit, and Microsoft connected in the graph?",multi-hop
+19,"How is OpenAI connected to Nvidia, AMD, Oracle, Google Cloud TPUs, and Azure services?",multi-hop
+20,"Which graph paths show Microsoft expanding from operating systems into cloud, developer tools, gaming, and AI?",multi-hop
